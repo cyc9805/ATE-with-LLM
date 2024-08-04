@@ -1,0 +1,23 @@
+{
+    "dataset_name": "ACTER",
+    "dataset_path": "/data/yongchan/ATE/ACTER/huggingface",
+    "train_mode": false,
+    "model_name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "output_dir": "/data/yongchan/ATE/output",
+
+    "per_device_train_batch_size": 8,
+    "gradient_accumulation_steps": 1,
+    "num_train_epochs": 3,
+    "learning_rate": 5e-5,
+    "weight_decay": 0.01,
+    "warmup_steps": 0,
+    "evaluation_strategy": "steps",
+    "dataloader_num_workers": 8,
+
+    "generation_max_length": 512,
+    "per_device_eval_batch_size": 8,
+    "eval_steps": 1000,
+    "save_steps": 1000,
+    "logging_steps": 1000,
+    "save_total_limit": 2
+}
