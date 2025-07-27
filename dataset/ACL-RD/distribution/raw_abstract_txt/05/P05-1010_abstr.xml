@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1010">
+  <Title>Probabilistic CFG with latent annotations</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper defines a generative probabilistic model of parse trees, which we call PCFG-LA.</S>
+    <S>This model is an extension of PCFG in which non-terminal symbols are augmented with latent variables.</S>
+    <S>Fine-grained CFG rules are automatically induced from a parsed corpus by training a PCFG-LA model using an EM-algorithm.</S>
+    <S>Because exact parsing with a PCFG-LA is NP-hard, several approximations are described and empirically compared.</S>
+    <S>In experiments using the Penn WSJ corpus, our automatically trained model gave a performance of 86.6% (Fa5 , sentences a6 40 words), which is comparable to that of an unlexicalized PCFG parser created using extensive manual feature selection.</S>
+  </Section></Paper>

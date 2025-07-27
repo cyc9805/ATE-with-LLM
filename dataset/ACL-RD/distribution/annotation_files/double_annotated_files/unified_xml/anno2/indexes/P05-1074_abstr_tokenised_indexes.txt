@@ -1,0 +1,16 @@
+lr	monolingual parallel corpora	1, 5, 6, 7
+other	paraphrases	1, 12
+lr	bilingual parallel corpora	2, 10, 11, 12
+tech	alignment techniques	3, 2, 3
+tech	phrase-based statistical machine translation	3, 5, 6, 7, 8
+other	paraphrases	3, 13
+other	phrase	3, 22
+measure(ment)	paraphrase probability	4, 4, 5
+other	paraphrases	4, 8
+lr	bilingual parallel corpus	4, 12, 13, 14
+measure(ment)	translation probabilities	4, 19, 20
+other	contextual information	4, 31, 32
+tech	paraphrase extraction and ranking methods	5, 4, 5, 6, 7, 8
+lr	manual word alignments	5, 13, 14, 15
+other	paraphrases	5, 22
+lr	automatic alignments	5, 25, 26

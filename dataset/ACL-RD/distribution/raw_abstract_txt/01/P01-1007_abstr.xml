@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P01-1007">
+  <Title>Guided Parsing of Range Concatenation Languages</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The theoretical study of the range concatenation grammar [RCG] formalism has revealed many attractive properties which may be used in NLP.</S>
+    <S>In particular, range concatenation languages [RCL] can be parsed in polynomial time and many classical grammatical formalisms can be translated into equivalent RCGs without increasing their worst-case parsing time complexity.</S>
+    <S>For example, after translation into an equivalent RCG, any tree adjoining grammar can be parsed in O(n6) time.</S>
+    <S>In this paper, we study a parsing technique whose purpose is to improve the practical efficiency of RCL parsers.</S>
+    <S>The non-deterministic parsing choices of the main parser for a language L are directed by a guide which uses the shared derivation forest output by a prior RCL parser for a suitable superset of L.</S>
+    <S>The results of a practical evaluation of this method on a wide coverage English grammar are given.</S>
+  </Section></Paper>

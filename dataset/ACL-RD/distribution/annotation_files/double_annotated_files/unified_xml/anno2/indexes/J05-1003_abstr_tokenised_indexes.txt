@@ -1,0 +1,36 @@
+tech	probabilistic parser	1, 12, 13
+tech	base parser	2, 2, 3
+other	candidate parses	2, 8, 9
+other	input sentence	2, 12, 13
+other	probabilities	2, 17
+other	ranking	2, 22
+other	parses	2, 25
+model	model	3, 3
+other	ranking	3, 11
+other	features	3, 15
+other	tree	3, 18
+other	tree	4, 11
+other	features	4, 20
+other	features	4, 27
+other	derivation	4, 38
+model	generative model	4, 41, 42
+other	features	4, 46
+other	reranking task	5, 8, 9
+tech	boosting approach to ranking problems	5, 14, 15, 16, 17, 18
+tech	boosting method	6, 4, 5
+lr	Wall Street Journal treebank	6, 9, 10, 11, 12
+other	log-likelihood under a baseline model	7, 5, 6, 7, 8, 9
+other	features	7, 23
+other	parse trees	7, 25, 26
+model	model	7, 34
+model	model	8, 3
+measure(ment)	F-measure	8, 7
+measure(ment)	F-measure error	8, 14, 15
+model	baseline model’s	8, 18, 19
+tech	boosting approach	9, 10, 11
+other	sparsity	9, 17
+other	feature space	9, 20, 21
+other	parsing data	9, 24, 25
+tech	boosting approach	10, 16, 17
+tech	feature selection methods	11, 18, 19, 20
+model	log-linear ( maximum-entropy ) models	11, 22, 23, 24, 25, 26

@@ -1,0 +1,15 @@
+torch
+PyStemmer
+numpy
+rich
+setproctitle
+transformers
+datasets
+rouge_score
+llama-index-retrievers-bm25
+git+https://github.com/jasonyux/FastKASSIM.git
+llama-index-core
+llama-index-llms-openai
+llama-index-llms-replicate
+llama-index-embeddings-huggingface
+llama-index-retrievers-bm25

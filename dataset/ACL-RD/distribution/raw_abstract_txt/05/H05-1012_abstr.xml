@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H05-1012">
+  <Title>A Maximum Entropy Word Aligner for Arabic-English Machine Translation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents a maximum entropy word alignment algorithm for Arabic-English based on supervised training data.</S>
+    <S>We demonstrate that it is feasible to create training material for problems in machine translation and that a mixture of supervised and unsupervised methods yields superior performance.</S>
+    <S>The probabilistic model used in the alignment directly models the link decisions.</S>
+    <S>Significant improvement over traditional word alignment techniques is shown as well as improvement on several machine translation tests.</S>
+    <S>Performance of the algorithm is contrasted with human annotation performance.</S>
+  </Section></Paper>

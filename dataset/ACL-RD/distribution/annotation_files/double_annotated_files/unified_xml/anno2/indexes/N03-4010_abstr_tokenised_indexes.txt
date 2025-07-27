@@ -1,0 +1,12 @@
+tool	JAVELIN system	1, 2, 3
+other	planning-based architecture	1, 8, 9
+tech	language processing modules	1, 14, 15, 16
+tech	open-domain question answering capability	1, 20, 21, 22, 23
+other	free text	1, 25, 26
+tool	JAVELIN	2, 7
+other	questions	2, 9
+other	answer candidates	2, 15, 16
+lr	text corpus	2, 20, 21
+other	repository	3, 14
+other	data objects	3, 16, 17
+other	question answering session	3, 24, 25, 26

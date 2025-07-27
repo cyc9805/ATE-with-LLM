@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H91-1010">
+  <Title>New Results with the Lincoln Tied-Mixture HMM CSR System</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>The following describes recent work on the Lincoln CSR system.</S>
+    <S>Some new variations in semiphone modeling have been tested.</S>
+    <S>A very simple improved duration model has reduced the error rate by about 10% in both triphone and semiphone systems.</S>
+    <S>A new training strategy has been tested which, by itself, did not provide useful improvements but suggests that improvements can be obtained by a related rapid adaptation technique.</S>
+    <S>Finally, the recognizer has been modified to use bigram back-off language models.</S>
+    <S>The system was then transferred from the RM task to the ATIS CSR task and a limited number of development tests performed.</S>
+    <S>Evaluation test results are presented for both the RM and ATIS CSR tasks.</S>
+  </Section></Paper>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C86-1132">
+  <Title>SYNTHESIZING WEATHER FORECASTS FROM FORMATFED DATA</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper describes a system (RAREAS) which synthesizes marine weather forecasts directly from formatted weather data.</S>
+    <S>Such synthesis appears feasible in certain natural sublanguages with stereotyped text structure.</S>
+    <S>RAREAS draws on several kinds of linguistic and non-linguistic knowledge and mirrors a forecaster's apparent tendency to ascribe less precise temporal adverbs to more remote meteorological events.</S>
+    <S>The approach can easily be adapted to synthesize bilingual or multi-lingual texts.</S>
+  </Section></Paper>

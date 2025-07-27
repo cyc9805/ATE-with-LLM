@@ -1,0 +1,6 @@
+tech	Question Answering ( QA ) systems	1, 2, 3, 4, 5, 6, 7
+other	information need	1, 18, 19
+other	need	2, 8
+tech	MT-based paraphrasing technique	3, 9, 10, 11
+other	QA system performance	3, 14, 15, 16
+measure(ment)	MRR	4, 9

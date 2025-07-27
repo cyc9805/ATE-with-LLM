@@ -1,0 +1,7 @@
+tool	LOGON MT demonstrator	1, 2, 3, 4
+other	general-purpose NLP components	1, 8, 9, 10
+tech	machine translation pipeline	1, 13, 14, 15
+measure(ment)	output quality	1, 19, 20
+tech	demonstrator	2, 2
+lr	symbolic resources	2, 10, 11
+tech	stochastic processes	2, 13, 14

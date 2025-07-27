@@ -1,0 +1,2583 @@
+multimedia articulation of answers	tech	tech
+natural language interface	tech	tech
+database query applications	other	tech
+Multimedia answers	other	tech
+videodisc images	other	None
+sentences	other	other
+text	other	None
+text-to-speech form	other	None
+Deictic reference	other	other
+feedback	other	None
+discourse	other	other
+interface	tech	tech
+pronominal anaphora resolution module	tech	tech
+Lucy	tool	tool
+English understanding system	tech	tech
+anaphora resolution	other	tech
+blackboard-like architecture	other	None
+partial theories	other	None
+antecedents	other	None
+natural language processing	tech	tech
+TACITUS	tool	tool
+MUC-3 evaluation	other	other
+syntactic and pragmatic analysis	tech	tech
+syntactic analysis	tech	tech
+agenda-based scheduling parser	tech	tech
+recovery technique for failed parses	tech	None
+terminal substring parsing	tech	tech
+pragmatics processing	tech	tech
+abductive inference	tech	tech
+world knowledge	other	other
+chart-based phrase structure parsing	tech	tech
+natural language	other	other
+unrestricted texts	other	other
+words	other	other
+text	other	other
+parser	tech	tech
+reduction	tech	None
+search space	other	other
+edge	other	other
+chart	other	other
+edges	other	other
+edges	other	other
+spanning edges	other	other
+edges	other	other
+constituent	other	other
+span	other	None
+phrase boundary heuristics	other	model
+function words	other	other
+heuristic rules	other	model
+phrases	other	other
+unknown words	other	other
+reduction in the search space	other	None
+semantic	other	None
+syntactic categories	other	other
+terminal and non-terminal edges	other	other
+ambiguity	other	other
+edges	other	other
+edges	other	other
+semantic	other	None
+English sentences	other	other
+coordinate conjunctions	other	other
+and	other	None
+or	other	None
+but	other	None
+words	other	other
+Syntactic analysis of the English coordinate sentences	other	None
+machine translation ( MT ) systems	tech	tech
+candidates	other	other
+syntactic structure	other	model
+coordinate conjunction	other	other
+constituents	other	other
+conjunction	other	other
+structures	other	model
+MT systems	tech	tech
+grammars	other	lr
+rules	other	model
+English coordinate structure analysis model	tech	model
+top-down scope information	other	other
+syntactic structure	other	model
+symmetric patterns	other	None
+parallelism	other	other
+model	tech	model
+balance matching operation	tech	tech
+feature sets	other	other
+analysis cost	other	other
+word disambiguation	other	tech
+ellipses	other	other
+robust analysis	other	tech
+model	tech	model
+English-Japanese MT system	tech	tech
+accuracy	measure(ment)	measure(ment)
+translation	other	None
+NLP techniques	tech	tech
+document classification	tech	tech
+term weighting statistical assignment paradigm	tech	tech
+NLP techniques	tech	tech
+IR	tech	tech
+linguistic annotation	other	tech
+corpora	lr	lr
+statistical POS tagger	tech	tech
+unsupervised structure finding methods	tech	tech
+noun group	other	other
+verb group	other	other
+annotation	other	tech
+pre-tagged corpus	lr	lr
+linguistically sophisticated representation of documents	other	None
+word set based representation	other	other
+linguistically sophisticated units	other	None
+document descriptors ( keywords )	other	other
+words	other	other
+descriptors	other	other
+phrases	other	other
+weighted sum	other	measure(ment)
+word set representation	other	other
+rules	other	None
+low precision	measure(ment)	None
+rules	other	model
+statistical models	tech	model
+linguistically sophisticated representations	other	other
+statistically fitted rule-based model	tech	model
+representations	other	None
+statistical systems	tech	tech
+sophisticated representations of documents	other	None
+linguistically sophisticated representations	other	other
+document classification	tech	tech
+LRE project SmTA double check	other	None
+PC based tool	tech	None
+technical abstracting industry	other	None
+associative processors ( APs )	tech	tech
+real-time spoken language translation	other	tech
+Spoken language translation	other	tech
+translation	other	tech
+real-time response	other	None
+TDMT ( Transfer-Driven Machine Translation )	tech	tech
+sentence	other	other
+structural disambiguation	tech	tech
+target word selection	tech	tech
+TDMT	tech	tech
+example-retrieval ( ER )	tech	tech
+processing time	other	None
+ER	tech	tech
+expressions	other	other
+word	other	None
+APs	tech	tech
+ER	tech	tech
+APs	tech	tech
+scalability	other	other
+vocabulary size	other	other
+extrapolation	tech	tech
+TDMT on APs	tech	None
+spoken language translation	other	tech
+Japanese texts	other	other
+homophone errors	other	other
+KANA-KANJI conversion	tech	tech
+text	other	other
+Japanese revision support systems	tech	tech
+homophone errors	other	other
+Japanese homophone errors	other	other
+compound nouns	other	other
+Japanese homophone errors	other	other
+compound nouns	other	other
+compound noun	other	None
+semantic categories	other	other
+adjoining words	other	None
+homophone	other	other
+compound noun	other	other
+semantic set	other	other
+homophone	other	other
+homophone errors	other	other
+FROFF	tool	tool
+fonts	other	other
+character	other	None
+typing location	other	None
+character	other	other
+character	other	other
+rules	other	None
+mathematical expressions	other	None
+Augmented Transition Network	tech	tech
+dialog model	model	None
+model	model	model
+dialog schemata	other	model
+conversation analysis	tech	None
+models of verbal interaction	model	None
+dialog schemata	other	model
+verbal interaction	other	other
+task-oriented and goal-directed dialogs	tech	other
+ATN	tech	tech
+verbal interactions	other	other
+task-oriented dialogs	tech	other
+left corner parsing algorithm	tech	tech
+context-free grammars	other	other
+parser	tech	tech
+natural language interface	tech	tech
+Determiners	other	other
+meaning	other	other
+utterance	other	other
+global meaning	other	None
+sentence	other	other
+determiners	other	other
+ambiguity	other	other
+logical formalism	other	None
+determiners	other	other
+interpretation	other	other
+meaning	other	other
+RAREAS	tool	tool
+formatted weather data	other	None
+synthesis	other	None
+natural sublanguages	other	None
+stereotyped text structure	other	None
+RAREAS	tool	tool
+linguistic and non-linguistic knowledge	other	other
+temporal adverbs	other	other
+bilingual or multi-lingual texts	other	other
+Unification Categorial Grammar ( UCG )	other	other
+Isomorphic Grammars	other	other
+Machine Translation	tech	tech
+Isomorphic Grammars approach to MT	tech	None
+grammars	other	model
+Source and Target languages	other	other
+SL	other	None
+TL	other	None
+translation relation	other	other
+isomorphic derivations	other	other
+semantic questions	other	other
+Semantic	other	None
+translation relation	other	other
+textual representation	other	other
+MT system	tech	None
+monolingual UCG	other	other
+bi-directional English-Spanish fragment	other	None
+demonstrative expressions	other	other
+English	other	other
+discourse processing algorithms	tech	tech
+texts	other	None
+demonstrative forms and functions	other	None
+genre dependent	other	None
+anaphoric expressions	other	other
+natural language generation system	tech	tech
+Category Cooccurrence Restrictions ( CCRs )	other	other
+parsing algorithms	tech	tech
+CCRs	other	other
+Boolean conditions	other	model
+categories	other	None
+local trees	other	model
+statement of generalizations	other	None
+syntax formalisms	other	other
+CCRs	other	other
+syntactic descriptions	other	other
+restrictive statements	other	None
+context free languages	other	other
+CCR formalism	other	other
+parser	tech	tech
+logical well-formedness conditions	other	model
+trees	other	model
+theory of natural language presuppositions	other	None
+inferential theory for natural language presuppositions	other	other
+presuppositional nature	other	None
+sentences	other	other
+computational model	other	model
+discourse task	other	other
+model	other	model
+APT	tool	tool
+organizational and discourse strategies	other	model
+corpus	lr	lr
+Chart parsing	tech	tech
+directional	other	None
+char	other	other
+islands	other	other
+sentence	other	other
+fragments	other	None
+fragments	other	None
+sentence	other	other
+islands	other	other
+fragments	other	None
+heuristics	other	model
+fragments	other	None
+Interactive Machine Translation	tech	tech
+author	other	None
+document	other	other
+ambiguity	other	other
+linguistic theory	other	other
+sentence	other	None
+translation process	tech	None
+interactive disambiguation scheme	tech	None
+paraphrasing	tech	tech
+parser	tech	tech
+paraphrasing	tech	None
+sentences	other	None
+modeling language acquisition	tech	None
+learning methodology	other	tech
+general domains	other	None
+linguistic domain	other	None
+linguistic representation	other	model
+language processing systems	tech	tech
+learning	other	tech
+linguistic representation	other	model
+Dynamic Hierarchical Phrasal Lexicon ( DHPL )	other	model
+language acquisition	tech	tech
+language learning model	other	model
+RINA	tool	tool
+lexical hierarchy	other	model
+linguistic concepts	other	other
+training examples	tool	other
+hierarchy	other	model
+lexical hierarchy	other	model
+linguistic concepts	other	other
+program	other	None
+lexical unknown	other	None
+hypothesis	other	other
+lexical gap	other	other
+natural language system	tech	tech
+computational lexicon	lr	lr
+lexicon	lr	lr
+COMPLEX	lr-prod	tool
+computational lexicon	lr	lr
+shared lexical information	other	None
+Natural Language Processing ( NLP ) systems	tech	tech
+machine-readable dictionaries ( MRD's )	lr	lr
+broad coverage lexicon	lr	lr
+bidirectional grammar generation system	tech	tech
+feature structure-directed generation	tech	tech
+dialogue translation system	tech	tech
+typed feature structures	other	model
+top-down derivation	tech	tech
+generation system	tech	tech
+disjunctive feature structures	other	model
+derivation tree	other	model
+grammar	other	lr
+generator	tech	tech
+speaker's intention	other	None
+telephone dialogue	other	None
+document oriented preference sets( DoPS )	tech	tech
+dependency structure	other	other
+sentences	other	other
+DoPS system	tech	tech
+target document	other	None
+documents	other	None
+Sentence ambiguities	other	other
+knowledgebases	lr	lr
+Implementation	other	None
+empirical results	other	None
+dependency structures	other	other
+Japanese patent claim sentences	other	other
+Korean phonological knowledge base system	lr	lr
+unification-based grammar formalism	other	other
+Korean Phonology Structure Grammar ( KPSG )	lr-prod	lr
+KPSG	tech	lr
+phonological system	tech	None
+speech recognition	tech	None
+synthesis system	tech	None
+generative phonological approach	tech	other
+tree-adjoining grammars ( TAG )	other	other
+TAGs	other	other
+syntax	other	other
+semantic interpretation	other	tech
+automatic translation of natural language	other	None
+TAGs	other	other
+synchronous TAGs	other	other
+languages	other	other
+expressions of natural languages	other	None
+semantics	other	other
+logical form language	other	other
+translates	other	None
+natural language	other	other
+TAGs	other	other
+syntax proper	other	None
+synchronous TAGs	other	other
+sentence analysis	tech	tech
+defeasible reasoning	other	tech
+Japanese sentence analyses	tech	None
+argumentation system	tech	tech
+formalization	tech	None
+defeasible reasoning	other	tech
+arguments	other	other
+defeat rules	other	model
+defeasibility	other	other
+semantic constraints	other	model
+automatic scheme	tech	None
+statistics	other	None
+co-occurrence patterns	other	model
+corpus	lr	None
+statistics	other	None
+semantic constraints	other	model
+anaphora references	other	other
+syntactic ambiguities	other	other
+statistics	other	None
+linguistic tools	tech	other
+references	other	other
+pronoun	other	other
+it	other	None
+sentences	other	None
+corpus	lr	lr
+cooccurrence statistics	other	model
+semantic constraints	other	model
+disambiguation tool	tech	other
+Spelling-checkers	tech	tech
+text processing software	tech	tech
+dictionaries of word forms	lr	None
+words	lr	other
+inflection	other	other
+English	other	other
+highly inflective languages	other	other
+Czech	other	other
+Russian	other	other
+Slovak	other	other
+Slavonic languages	other	other
+inflection	other	other
+spelling-checkers	tech	tech
+spelling-checkers	tech	tech
+English	other	other
+dictionary	lr	lr
+360K floppy	other	None
+word forms	other	other
+Czech	other	other
+word classification	tech	tech
+discourse segments	other	other
+discourse segmentation	tech	tech
+abduction	other	tech
+temporal relations	other	other
+segments	other	other
+computationally feasible	other	None
+temporal anaphora resolution	other	tech
+adaptive learning procedure	tech	None
+syntactic ambiguity resolution	other	tech
+insufficient training data	other	None
+approximation error	other	other
+language model	model	model
+statistical approaches	tech	tech
+ambiguities	other	other
+maximum likelihood method	tech	tech
+performance	measure(ment)	None
+accuracy rate	measure(ment)	measure(ment)
+training corpus	lr	lr
+separation margin	other	other
+accuracy rate	measure(ment)	measure(ment)
+syntactic disambiguation	tech	tech
+Graph unification	tech	tech
+unification-based grammar parsing	tech	tech
+unification algorithms	tech	tech
+copying	tech	None
+unmodified subgraphs	other	None
+structure-sharing	tech	tech
+log( d ) overheads	other	None
+structure-sharing of graphs	tech	None
+dependency pointers	other	other
+redundant copying	other	None
+quasi-destructive scheme's ability	other	None
+over copying	other	None
+early copying	other	None
+cyclic structures	other	other
+transfer phase	tech	other
+machine translation ( MT ) systems	tech	tech
+analysis	tech	tech
+generation	tech	tech
+lexical rules	other	model
+case-based reasoning	tech	tech
+machine translation	tech	tech
+translation examples	other	other
+MT	tech	tech
+transfer system	tech	tech
+Similarity-driven Transfer System ( SimTran )	tech	tech
+case-based MT ( CBMT )	tech	tech
+interactive method for speech understanding	tech	None
+generalized LR parsing	tech	tech
+Parsing	tech	tech
+portion	other	None
+parser	tech	tech
+portion	other	None
+non-terminal symbol	other	other
+portion	other	None
+re-utterance	other	None
+portion	other	None
+parse record	other	other
+utterance	other	other
+user	other	None
+sentence	other	None
+unknown words	other	other
+unknown words	other	other
+dictionary	lr	lr
+user	other	None
+pilot system	other	other
+Word Identification	other	tech
+Chinese Natural Language Processing	tech	tech
+sublanguage	other	other
+unknown words	other	other
+personal names	other	other
+Chinese newspapers	other	None
+title-driven name recognition	tech	tech
+adaptive dynamic word formation	tech	tech
+identification of 2-character and 3-character Chinese names without title	tech	None
+corpora	lr	lr
+NTHU's statistic-based system	tool	None
+WI systems	tech	None
+name identification	other	None
+spatial descriptions	other	other
+Japanese	other	other
+world	other	None
+computer program	tech	None
+SPRINT	tool	tool
+natural language texts	other	other
+model	model	None
+world	other	None
+model	model	None
+qualitative spatial constraints	other	model
+text	other	None
+numerical constraints	other	model
+spatial attributes	other	other
+entities	other	other
+spatial concepts	other	other
+temporary belief	other	None
+world	other	None
+bilingual texts	other	other
+length-based or translation-based criterion	other	tech
+part-of-speech-based criterion	other	tech
+source texts	other	other
+target texts	other	other
+Simulated annealing approach	tech	tech
+alignment algorithm	tech	tech
+Chinese-English texts	other	other
+language families	other	other
+optical character recognition	tech	tech
+continuous speech recognition	tech	tech
+natural language	other	other
+error characters	other	other
+Japanese bunsetsu	other	other
+English word	other	other
+m-th order Markov chain model	other	tech
+Japanese kanji-kana characters	other	other
+English alphabets	other	other
+Markov probability	other	measure(ment)
+syllables	other	other
+kanji-kana characters	other	other
+erroneous chains	other	None
+Japanese bunsetsu	other	other
+English words	other	other
+unification framework	tech	tech
+typed feature structures	other	model
+lexical entries	other	lr
+translation equivalents	other	other
+interactive environment	tech	None
+TGE	tool	tool
+closed semantic domains	other	None
+lexical cross-relations	other	other
+English	other	other
+Spanish	other	other
+grammar model	model	other
+concurrent , object-oriented natural language parsing	tech	tech
+lexical distribution	other	None
+grammatical knowledge	other	other
+head-oriented notions of valency and dependency	other	None
+inheritance mechanisms	other	other
+lexical generalizations	other	other
+concurrent computation model	tech	tech
+actor paradigm	other	tech
+message passing protocols	other	tech
+dependency relations	other	other
+ambiguity handling	other	tech
+inference method	tech	tech
+Horn logic program	other	other
+chart Parsing	tech	tech
+partial instantiation	tech	tech
+clauses	other	other
+arcs	other	other
+chart	other	model
+Chart-like parsing	tech	tech
+semantic-head-driven generation	tech	tech
+instantiation scheme	tech	None
+ambiguity packing	tech	tech
+parsing complexity	other	other
+chart-based algorithms	tech	tech
+principle-based parser	tech	None
+English	other	other
+parser	tech	tech
+C++	tech	None
+SUN Sparcstations	tech	None
+X-windows	tech	None
+lexicon	lr	lr
+entries	other	lr
+extraction and conversion rules	other	model
+entries	other	lr
+machine readable dictionaries	lr	lr
+behavioral specification	other	other
+object-oriented grammar model	model	model
+lexicalization	tech	None
+head-orientation	tech	tech
+valency constraints	other	model
+dependency relations	other	other
+inheritance	tech	other
+lexicon specification	lr	None
+concurrency of computation	tech	tech
+computation model	model	model
+actor paradigm	other	tech
+concurrency	tech	tech
+asynchronous message passing	tech	tech
+actors	other	other
+global behavior	other	None
+lexically distributed grammar	model	lr
+parser	tech	tech
+event type networks	other	other
+event networks	other	other
+LHIP	tool	tool
+incremental grammar development	tech	tech
+extended DCG formalism	other	None
+island-based parsing method	tech	None
+user-defined performance thresholds	other	other
+non-constituent coordination	other	other
+coordination	other	other
+parsing strategies	tech	tech
+SYSCONJ system	tool	tool
+ATNs	tech	tech
+Dynamic Grammars	other	other
+Statistical Machine Translation ( SMT )	tech	tech
+SMT research community	other	other
+SMT algorithms	tech	tech
+computational complexity	other	other
+SMT	tech	tech
+computational complexity	other	other
+IBM Models 1-2	tool	model
+models	model	model
+hard	other	None
+polynomial time solution	other	other
+hard problems	other	other
+P = NP	other	None
+P#P = P	other	None
+polynomial time approximations	other	other
+complexity	other	other
+unsupervised word sense induction ( WSI )	tech	None
+one sense per collocation observation	other	other
+clustering of word co-occurrences	tech	None
+WSI	tech	tech
+one sense per collocation observation	other	other
+words	other	None
+two-step clustering process	tech	tech
+sentence co-occurrences	other	other
+features	other	other
+unsupervised evaluation method	tech	None
+word sense disambiguation algorithms	tech	None
+gold standard	lr	lr
+automatic parameter optimization	tech	tech
+WSI algorithm	tech	tech
+addressee identification	tech	tech
+four-participants face-to-face meetings	other	None
+Bayesian Network	tech	None
+Naive Bayes classifiers	tech	None
+addressee	other	other
+dialogue act	other	other
+gaze	other	None
+utterance	other	None
+conversational context features	other	None
+meeting context	other	other
+classifiers	tech	None
+performances	other	None
+classifiers	tech	tech
+conversational context	other	other
+utterance features	other	other
+speaker's gaze information	other	other
+classifiers	tech	tech
+gain	other	None
+meeting context	other	other
+evaluation measures	measure(ment)	measure(ment)
+machine translation	tech	tech
+costs	other	measure(ment)
+word	other	None
+sentences	other	other
+evaluation measure	measure(ment)	measure(ment)
+block reordering	tech	other
+edit operation	tech	other
+measure	measure(ment)	measure(ment)
+quadratic time	other	other
+evaluation measures	measure(ment)	measure(ment)
+word-dependent substitution costs	other	measure(ment)
+measure	measure(ment)	measure(ment)
+human judgment	other	other
+language pairs	other	other
+sentence-level correlation	other	None
+word dependent substitution costs	other	measure(ment)
+automatic evaluation measures	measure(ment)	measure(ment)
+human judgment	other	other
+segment boundaries	other	other
+spoken multiparty dialogue	other	other
+predicting top-level topic shifts	other	None
+identifying subtopic boundaries	other	None
+performance	measure(ment)	None
+ASR output	other	other
+human transcription	other	other
+features	other	other
+predicting top-level and predicting subtopic boundaries	other	None
+subtopic boundaries	other	other
+lexical cohesion-based approach	tech	tech
+predicting top-level boundaries	other	None
+machine learning approach	tech	tech
+lexical-cohesion and conversational features	other	other
+conversational cues	other	other
+cue phrases	other	other
+overlapping speech	other	other
+transcription errors	other	other
+ASR output	other	other
+lexical-cohesion and conversational features	other	other
+Generation	tech	tech
+Referring Expressions	other	other
+numeric-valued attributes	other	None
+perspective-taking	other	other
+reference	other	other
+content determination	tech	other
+clustering algorithm	tech	tech
+Oral communication	other	other
+storage media and networks	tech	None
+conversation	other	None
+large database	other	tech
+information retrieval techniques	tech	tech
+histogram	other	model
+keywords	other	other
+document representation	other	other
+oral communication	other	other
+indices	other	model
+index	other	model
+automatic detection	other	None
+database	other	tech
+database	other	None
+TV shows	other	None
+Emotions	other	None
+indices	model	model
+dominance distribution of speakers	other	None
+surface	other	None
+databases	other	tech
+indices	other	model
+mixed-initiative speech dialogue interactions	other	None
+dialogue systems	tech	tech
+DARPA Communicator program	other	None
+distributed message-passing infrastructure	tech	tech
+dialogue systems	tech	tech
+Communicator	tech	None
+requirements	other	None
+software infrastructure	tech	tech
+information extraction ( IE ) systems	tech	tech
+named entity annotations	other	model
+scenario templates	other	model
+text collections	other	other
+text browser	tech	tech
+prototype system	tech	tech
+information workers	other	other
+pharmaceutical news archive	other	other
+industry watch	tech	None
+qualitative user evaluation	measure(ment)	other
+interface	tech	None
+users	other	other
+IE-enhanced text browsers	tech	tech
+Korean-to-English machine translation system	tech	None
+CCLINC ( Common Coalition Language System at Lincoln Laboratory )	tool	None
+CCLINC Korean-to-English translation system	tool	tech
+core modules	other	other
+language understanding and generation modules	tech	tech
+language neutral meaning representation	tech	tech
+semantic frame	tech	tech
+parsing	tech	tech
+Korean	other	other
+verb final language	other	other
+overt case markers	other	other
+free word order	other	other
+arguments	other	other
+translation	tech	tech
+word sense disambiguation	tech	tech
+word order generation	tech	tech
+target language	other	other
+Rapid system development	tech	None
+domains	other	None
+knowledge-based automated acquisition of grammars	tech	tech
+Korean newspaper articles	lr	lr
+translation output	other	other
+original document	other	other
+automated evaluation techniques	tech	tech
+human language learners	other	other
+output	other	other
+machine translation ( MT ) systems	tech	tech
+evaluation techniques	tech	tech
+human language learning process	other	other
+translation process	other	other
+development	other	None
+machine translation systems	tech	tech
+intelligibility	other	other
+MT output	other	other
+language learning experiment	other	other
+assessors	other	other
+native from non-native language essays	other	other
+words	other	other
+assessors	other	other
+machine translation output	other	other
+translated newswire text	other	None
+expert human translations	other	other
+machine translation outputs	other	other
+expert human translation	other	other
+machine translation	other	other
+word	other	other
+Listen-Communicate-Show ( LCS )	tech	tech
+human interaction with data sources	tech	tech
+spoken language understanding system	tech	tech
+intelligent mobile agents	tech	tech
+users	other	other
+information sources	other	other
+LCS-Marine	tool	tool
+LCS-Marine	tool	tool
+mobile , intelligent agent	tech	tech
+database	tech	tech
+Requestors	other	other
+request	other	other
+request	other	other
+new domains	other	None
+Automatic Speech Recognition technology	tech	tech
+dialog systems	tech	tech
+speech recognition	tech	tech
+dialog systems	tech	tech
+user	other	other
+user	other	other
+system response	other	other
+users	other	other
+natural language generation community	other	other
+dialog systems	tech	tech
+generation	tech	tech
+dialog systems	tech	tech
+knowledge-based generation systems	tech	tech
+machine learning techniques	tech	tech
+language models ( LMs )	model	model
+interpolation methods	tech	tech
+log-linear and linear interpolation	tech	tech
+performance	measure(ment)	measure(ment)
+performance	measure(ment)	measure(ment)
+oracle	other	tech
+oracle	other	tech
+reference word string	other	other
+word string	other	other
+performance	measure(ment)	measure(ment)
+word or semantic error rate	measure(ment)	measure(ment)
+word strings	other	other
+word string	other	other
+LM	model	model
+oracle	other	tech
+dynamic combiner	tech	tech
+hard decisions	other	None
+reference	other	model
+dynamic language model combination	tech	tech
+performance	measure(ment)	measure(ment)
+oracle	other	tech
+neural network	tech	tech
+decision tree	tech	tech
+LMs	model	model
+confidence measures	measure(ment)	measure(ment)
+hypothesis	other	other
+LM	model	model
+confidence	measure(ment)	measure(ment)
+spoken dialogue systems	tech	tech
+user satisfaction	measure(ment)	measure(ment)
+system support of mission success	measure(ment)	None
+component performance	measure(ment)	measure(ment)
+user studies	other	None
+n-gram models	model	model
+error-correction rules	model	model
+Thai key prediction	tech	tech
+Thai-English language identification	tech	tech
+rule-reduction algorithm	tech	tech
+mutual information	measure(ment)	measure(ment)
+error-correction rules	model	model
+accuracy	measure(ment)	measure(ment)
+language identification	tech	tech
+key prediction	tech	tech
+information redundancy	other	other
+multilingual input	other	None
+machine translation	other	tech
+multilingual summaries	other	None
+multi-document summarization	tech	tech
+documents	other	None
+Arabic	other	None
+summary	other	None
+English	other	None
+summary	other	None
+lexical-syntactic forms	other	other
+documents	other	None
+machine translation systems	tech	tech
+redundancy	other	other
+information	other	None
+English	other	None
+machine translations	other	other
+Arabic documents	other	None
+redundancy	other	other
+noun phrases	other	other
+maximum entropy word alignment algorithm	tech	tech
+Arabic-English	other	other
+supervised training data	lr	lr
+training material	lr	lr
+machine translation	tech	tech
+supervised and unsupervised methods	tech	tech
+performance	measure(ment)	None
+probabilistic model	model	model
+alignment	tech	tech
+link decisions	other	None
+word alignment techniques	tech	None
+machine translation tests	measure(ment)	measure(ment)
+human annotation performance	measure(ment)	measure(ment)
+phrase-based statistical machine translation method	tech	tech
+non-contiguous phrases	other	other
+phrases	other	other
+phrases	other	other
+word-aligned corpora	lr	lr
+statistical translation model	tech	model
+phrases	other	other
+training method	tech	tech
+translation accuracy	measure(ment)	measure(ment)
+NIST evaluation metric	measure(ment)	measure(ment)
+Translations	other	other
+beam-search decoder	tech	tech
+training data	lr	lr
+computational problems	other	other
+probabilistic translation models	model	model
+machine translation	other	tech
+models	model	model
+probabilistic context-free grammars	other	lr
+hardness	other	None
+NP	other	None
+exponential time lower-bound	other	other
+automatic evaluation	tech	tech
+machine translation	tech	tech
+document summarization	tech	tech
+POURPRE	measure(ment)	measure(ment)
+automatically evaluating answers to definition questions	measure(ment)	None
+scoring system output	measure(ment)	None
+TREC 2003 and TREC 2004 QA tracks	other	other
+rankings	other	other
+official rankings	measure(ment)	None
+POURPRE	measure(ment)	measure(ment)
+patterns	other	None
+translation data	lr	None
+part-of-speech tag sequences	model	other
+diagnostic tool	tech	tech
+developers	other	None
+machine translation systems	tech	tech
+developers	other	None
+patterns	other	other
+machine translation output	other	other
+integrated Spoken Language System	tech	None
+N-Best sentence hypotheses	other	other
+grammar coverage problems	other	other
+fully-connected first-order statistical class grammar	other	lr
+speech-search algorithm	tech	tech
+board	other	None
+Intel i860 chip	other	None
+SUN 4	other	None
+straight C code	other	None
+board	other	None
+VME bus	other	None
+SUN4	other	None
+natural language system	tech	tech
+application back end	tech	None
+large vocabulary continuous speech recognition	other	tech
+speaker-independent ( SI ) training	tech	tech
+hidden Markov models ( HMM )	tech	model
+speech	lr	lr
+speakers	other	other
+speech	lr	None
+speakers	other	other
+training speakers	other	other
+statistics	other	None
+independently trained models	model	None
+speech data	lr	lr
+speakers	other	other
+training	tech	tech
+training speakers	other	other
+SI recognition	tech	tech
+word error rate	measure(ment)	measure(ment)
+grammar	lr	lr
+test set	lr	other
+DARPA Resource Management corpus	lr-prod	lr-prod
+performance	measure(ment)	None
+training speakers	other	other
+speaker adaptation ( SA )	tech	tech
+SI corpus	lr	lr
+speech	lr	lr
+speaker	other	None
+probabilistic spectral mapping	tech	model
+training ( reference ) speaker	other	other
+target speaker	other	other
+reference model	measure(ment)	model
+space	other	None
+target speaker	other	other
+averaging	tech	None
+utterances	other	other
+target speaker	other	other
+adaptation	tech	tech
+error rate	measure(ment)	measure(ment)
+SI	tech	None
+spoken language corpus	lr	lr
+ATIS ( Air Travel Information System ) domain	other	other
+MADCOW ( Multi-site ATIS Data COllection Working group )	other	other
+multi-site data collection paradigm	None	other
+MADCOW	None	other
+collection	None	None
+utterances	None	None
+spontaneous speech	None	None
+multi-site common evaluation of speech , natural language and spoken language	None	None
+LIMSI	other	None
+speech processing	other	tech
+Human-Machine Communication	other	tech
+Natural Language Processing	other	tech
+Non Verbal and Multimodal Communication	other	tech
+MIT ATIS system	tool	tool
+SUMMIT recognizer	tool	tool
+context-dependent phonetic modelling	tech	tech
+bigram language model	model	model
+probabilistic LR parser	tech	tech
+lexicon	lr	lr
+training set	lr	lr
+speech recognition word and sentence error rates	measure(ment)	measure(ment)
+October '91 test set	lr-prod	None
+spoken language system	tech	tech
+test set	lr	other
+February '92 benchmark evaluation	lr-prod	None
+domain-independent capabilities	other	None
+Paramax spoken language understanding system	tool	tool
+non-monotonic reasoning	tech	tech
+implicit reference resolution	tech	tech
+database query paraphrase	tech	tech
+February 1992 ATIS benchmark tests	measure(ment)	None
+standard evaluation metric	measure(ment)	measure(ment)
+n-best speech/language integration architecture	other	tech
+OCR	tech	None
+accuracy	measure(ment)	None
+generative probabilistic model of natural language	model	None
+HBG	tech	model
+linguistic information	other	other
+ambiguity	other	other
+HBG	tech	model
+lexical , syntactic , semantic , and structural information	other	other
+parse tree	other	other
+disambiguation process	tech	other
+corpus of bracketed sentences	lr	None
+Treebank	lr	lr
+decision tree building	tech	tech
+parse tree	other	other
+parse	other	other
+sentence	other	other
+grammar	other	None
+linguistic introspection	other	other
+parse	other	other
+head-to-head tests	measure(ment)	None
+probabilistic parsing models	tech	None
+P-CFG	tech	model
+HBG model	tech	model
+P-CFG	tech	model
+parsing accuracy	measure(ment)	None
+maximum a posteriori estimation	tech	tech
+continuous density hidden Markov models ( CDHMM )	model	tech
+MLE reestimation algorithms	tech	tech
+forward-backward algorithm	tech	tech
+segmental k-means algorithm	tech	tech
+reestimation formulas	other	other
+HMM with Gaussian mixture observation densities	model	None
+Bayesian learning	tech	tech
+speech recognition	tech	None
+parameter smoothing	tech	tech
+speaker adaptation	tech	tech
+speaker group modeling	tech	tech
+corrective training	tech	tech
+MAP estimation approach	tech	tech
+polysemous words	other	other
+sentence	other	other
+meaning	other	other
+sense	other	other
+word-sense disambiguation systems	tech	tech
+bilingual material	lr	None
+Canadian Hansards	lr-prod	lr-prod
+monolingual material	lr	None
+Roget's Thesaurus	lr-prod	lr-prod
+Grolier's Encyclopedia	lr-prod	lr-prod
+discourse	other	None
+polysemous word	other	other
+sentence	other	other
+well-written discourse	other	None
+sense	other	other
+sense	other	other
+discourse	other	other
+constraint	other	model
+word-sense disambiguation algorithm	tech	tech
+disambiguation algorithms	tech	tech
+discourse constraint	other	model
+MIT ATIS ( Air Travel Information Service ) system	tool	tool
+question	other	None
+linguistic analysis	tech	None
+robust parsing capability	other	other
+components	other	None
+linguistic analysis component	tech	None
+parsing	tech	None
+analysis	tech	None
+phrases	other	other
+clauses	other	other
+semantic frame	other	model
+meaning	other	other
+sentence	other	other
+parsing mechanism	tech	None
+performance	measure(ment)	None
+sentences	other	other
+October '91 dry-run test set	lr-prod	other
+parser	tech	None
+questions	other	None
+sentences	other	other
+grammar	lr	lr
+February '92 test sentences	lr-prod	other
+evaluation methodology	tech	other
+CSR ( Connected Speech Recognition ) corpus	lr-prod	lr-prod
+DARPA speech recognition technology	tool	None
+CSR	tech	tech
+corpus	lr	lr-prod
+Resource Management ( RM ) corpus	lr-prod	lr-prod
+DARPA speech recognition technology	tool	None
+CSR corpus	lr-prod	lr-prod
+unlimited vocabulary	other	None
+natural grammar	other	None
+spontaneous speech	other	other
+CSR corpus	lr-prod	lr-prod
+CSR pilot corpus	lr-prod	lr-prod
+CSR corpus	lr-prod	lr-prod
+Language understanding	other	None
+Paramax	other	None
+language understanding technology	tech	None
+spoken language understanding	tech	tech
+text understanding	tech	tech
+document processing	tech	tech
+language understanding	tech	tech
+speech recognition	tech	tech
+knowledge-based information retrieval	tech	tech
+image understanding	tech	tech
+language model	model	None
+long distance constraints	other	other
+sentence	other	other
+paragraph	other	other
+model	model	model
+m-component mixture	other	other
+trigram models	model	model
+vocabulary	lr	lr
+word	other	None
+Wall Street Journal text corpus	lr-prod	lr-prod
+BU recognition system	lr	tool
+recognition accuracy	measure(ment)	measure(ment)
+mixture trigram models	model	model
+trigram model	model	model
+detecting speech repairs	tech	None
+part-of-speech tagger	tech	tech
+tagger	tech	tech
+category transitions	other	other
+speech repairs	other	other
+transition	other	other
+likely repair	other	None
+fluent speech	other	None
+editing terms	other	other
+word fragments	other	other
+word matchings	other	other
+transition probabilities	other	measure(ment)
+documents	other	other
+document understanding	tech	tech
+image understanding	tech	tech
+text understanding	tech	tech
+document understanding technology	tech	tech
+IDUS ( Intelligent Document Understanding System )	tool	tool
+text retrieval application	tech	tech
+automatic generation of hypertext links	tech	None
+IDUS	tool	None
+integration	tech	None
+image and text understanding	tech	tech
+evaluation metrics	measure(ment)	measure(ment)
+Machine Translation (MT) systems	tech	tech
+BLEU	measure(ment)	measure(ment)
+NIST	measure(ment)	measure(ment)
+language pairs	other	other
+English-Chinese	other	None
+English-Japanese	other	None
+word segmentation problem	other	other
+BLEU	measure(ment)	measure(ment)
+word n-grams	other	other
+character	other	None
+BLEU	measure(ment)	measure(ment)
+character	other	None
+word segmentation problem	other	other
+unsegmented texts	other	None
+statistical MT systems	tech	tech
+outputs	other	None
+empirical test	measure(ment)	None
+Chinese-to-English SMT model	model	model
+word sense disambiguation performance	measure(ment)	measure(ment)
+WSD evaluation methodology	measure(ment)	tech
+datasets	lr	None
+Senseval-3 Chinese lexical sample task	other	other
+word sense disambiguation ( WSD ) models	tech	model
+Senseval	other	None
+BLEU scores	measure(ment)	measure(ment)
+statistical machine translation (SMT)	tech	tech
+SMT models	tech	model
+translation	other	other
+words	other	None
+source language sentences	other	other
+WSD	tech	None
+accuracy	measure(ment)	None
+SMT models	tech	model
+WSD models	tech	model
+WSD	tech	None
+accuracy	measure(ment)	None
+SMT models	tech	model
+WSD models	tech	model
+SMT models	tech	model
+WSD models	tech	model
+SMT	tech	tech
+WSD models	tech	model
+Statistical machine translation ( SMT )	tech	tech
+natural language processing	other	tech
+SMT	tech	tech
+rule-based translation systems	tech	tech
+translation systems	tech	tech
+language pairs	other	other
+domains	other	other
+statistical machine translation	other	tech
+SMT system	tech	tech
+baseline results	measure(ment)	other
+SMT	other	tech
+STTK	tool	tool
+statistical machine translation tool kit	tech	tech
+translation system	tech	tech
+STTK	tool	tool
+CMU's SMT system	tool	tech
+rule-based and example based machine translation modules	tech	tech
+multi engine machine translation system	tech	tech
+source code	other	None
+tool kit	tech	None
+English-Chinese bitexts	lr	lr
+Web	other	None
+subparagraph	other	None
+numbering system	other	None
+legal text hierarchy	other	other
+bilingual corpus	lr	lr
+English words	other	None
+Chinese characters	other	None
+text collection	lr	None
+empirical MT research	other	other
+English-Chinese bitexts	lr	lr
+Web	other	None
+machine translation (MT) evaluation	measure(ment)	None
+sentence-level semantic equivalence classification	tech	None
+MT evaluation methods (BLEU , NIST , WER and PER)	measure(ment)	None
+classifiers	tech	None
+semantic equivalence	other	None
+entailment	other	None
+classification method	tech	tech
+PER	measure(ment)	measure(ment)
+part of speech information	other	other
+words	other	None
+word matches and non-matches	other	None
+sentence	other	other
+MT evaluation techniques	measure(ment)	tech
+features	other	None
+paraphrase classification	tech	tech
+entailment	other	other
+technique	tech	None
+paraphrase classification accuracy	measure(ment)	tech
+models	tech	None
+paraphrase	other	None
+seed sentences	other	other
+reference sets	lr	other
+machine translation evaluation measures	measure(ment)	None
+BLEU	measure(ment)	measure(ment)
+NIST	measure(ment)	measure(ment)
+paraphrases	other	other
+grammaticality	measure(ment)	None
+sentences	other	None
+equivalence in meaning	measure(ment)	None
+paraphrases	other	None
+meaning equivalence	other	None
+entailment	other	None
+lexical and syntactical variation	other	None
+paraphrases	other	None
+hand-produced sets	lr	None
+paraphrase	other	None
+reference sets	lr	other
+MT evaluation	measure(ment)	measure(ment)
+annotating scheme	other	other
+honorifics	other	other
+Honorifics	other	other
+Japanese	other	None
+referents	other	None
+referential information	other	other
+zero pronouns	other	other
+machine translation outputs	other	other
+honorifics	other	other
+predicate	other	other
+honorifics	other	other
+ranks	other	None
+referents	other	other
+predicate	other	other
+ranks	other	None
+referents	other	other
+predicates	other	other
+probabilistic parser	tech	tech
+parser	tech	None
+candidate parses	other	other
+sentence	other	None
+probabilities	other	other
+ranking	other	other
+parses	other	other
+model	tech	model
+ranking	other	other
+features	other	other
+tree	other	other
+tree	other	other
+features	other	other
+features	other	other
+derivation	other	other
+generative model	tech	model
+features	other	other
+reranking task	tech	other
+boosting approach	tech	None
+ranking problems	other	None
+boosting method	tech	tech
+parsing	tech	None
+Wall Street Journal treebank	lr-prod	lr
+log-likelihood	other	None
+baseline model	model	None
+features	other	other
+parse trees	other	other
+model	model	model
+model	tech	model
+F-measure	measure(ment)	measure(ment)
+F-measure	measure(ment)	None
+baseline model’s score	measure(ment)	None
+boosting approach	tech	tech
+sparsity of the feature space	other	None
+parsing data	other	other
+implementation	other	None
+boosting approach	tech	tech
+feature selection methods	tech	tech
+log-linear ( maximum-entropy ) models	tech	model
+natural language parsing ( NLP )	None	None
+NLP problems	None	None
+ranking tasks	None	None
+speech recognition	None	None
+machine translation	None	None
+natural language generation	None	None
+discovering parallel sentences	tech	None
+comparable , non-parallel corpora	lr	lr
+maximum entropy classifier	tech	tech
+sentences	other	None
+translations	other	other
+parallel data	lr	other
+Chinese , Arabic , and English non-parallel newspaper corpora	lr	None
+quality of the extracted data	measure(ment)	None
+statistical machine translation system	tech	tech
+MT system	tech	tech
+parallel corpus	lr	lr
+words	other	None
+non-parallel corpus	lr	lr
+language pairs	other	other
+resources	lr	None
+natural language question answering system	tech	tech
+Chat-80	tool	tool
+Chat-80	tool	tool
+Prolog	tech	tech
+programming language	tech	tech
+logic	other	other
+logic-based grammar formalism	other	other
+extraposition grammars	other	other
+Chat-80	tool	tool
+English questions	other	None
+Prolog	tech	None
+subset of logic	other	None
+logical expression	other	model
+planning algorithm	tech	tech
+Prolog	tech	tech
+query optimisation	tech	tech
+relational database	tech	tech
+Prolog form	other	other
+error correction	tech	tech
+ill-formed input	other	other
+dialogue patterns	other	model
+patterns	other	model
+Error correction	tech	tech
+parsing	tech	tech
+meanings	other	None
+sentence	other	other
+dialogue acquisition and tracking algorithm	tech	tech
+implementation	other	None
+voice interactive system	tech	tech
+error correction methodology	tech	tech
+stereotypic dialogue	other	None
+theory of discourse structure	other	None
+purpose	other	other
+processing	other	tech
+discourse	other	other
+discourse structure	other	other
+utterances	other	other
+linguistic structure	other	other
+purposes	other	other
+intentional structure	other	other
+focus of attention	other	None
+attentional state	other	other
+linguistic structure	other	other
+discourse	other	other
+utterances	other	other
+intentional structure	other	other
+discourse-relevant purposes	other	other
+linguistic segments	other	other
+attentional state	other	other
+focus of attention	other	None
+participants	other	other
+discourse	other	other
+attentional state	other	other
+discourse	other	other
+discourse phenomena	other	other
+cue phrases	other	other
+referring expressions	other	other
+interruptions	other	other
+theory of attention , intention , and aggregation of utterances	other	None
+discourses	other	other
+discourse	other	other
+cue phrases	other	other
+referring expressions	other	other
+interruptions	other	other
+theory	other	None
+utterances	other	other
+discourse	other	other
+Discourse processing	tech	tech
+utterances	other	other
+discourse	other	other
+segments	other	other
+intentions	other	other
+discourse	other	other
+intentions	other	other
+discourse	other	other
+attentional state	other	other
+recognition tasks	other	other
+discourse	other	other
+participants	other	None
+human-machine interactions	other	tech
+natural language environment	other	other
+speaker	other	other
+listener	other	other
+beliefs	other	None
+contexts	other	None
+perceptions	other	None
+backgrounds	other	None
+goals	other	None
+conversation	other	None
+listener	other	other
+speaker's utterance	other	other
+speaker	other	other
+listener	other	other
+reference failures	other	other
+speaker's intention	other	other
+miscommunication	other	other
+communication	other	other
+miscommunications	other	other
+miscommunication	other	other
+reference problems	other	other
+failures of reference	other	other
+speaker	other	other
+utterance	other	other
+extensional reference	other	other
+intelligent interactive systems	tech	tech
+humans	other	None
+system users	other	other
+user modeling	tech	tech
+systems	other	None
+user model	model	model
+user model	model	model
+user	other	other
+User models	model	model
+user model	model	model
+user modeling	tech	tech
+user modeling component	tech	other
+interaction requirements	other	other
+user modeling	tech	tech
+user modeling systems	tech	tech
+editor	tech	None
+dictionary	lr	lr
+editor	tech	None
+lexicologists	other	other
+dictionary	lr	lr
+linguistic theory	other	other
+lexicons	lr	lr
+grammars	lr	lr
+natural language processing	tech	tech
+linguistic databases	lr	lr
+editor	tech	None
+coherence rules	other	model
+lexical entries	other	other
+interface	tech	tech
+Sentence planning	tech	tech
+sentence scoping	tech	tech
+syntactic structure	other	other
+speech acts	other	None
+sentences	other	other
+SPoT	tool	tool
+sentence planner	tech	tech
+SPoT	tool	tool
+feedback	other	model
+human judges	other	other
+randomized sentence-plan-generator ( SPG )	tech	tech
+sentence plans	other	other
+text-plan input	other	other
+sentence-plan-ranker ( SPR )	tech	tech
+sentence plans	other	None
+plan	other	None
+SPR	tech	tech
+ranking rules	model	model
+training data	lr	lr
+SPR	tech	tech
+sentence plan	other	other
+top human-ranked sentence plan	other	other
+utterance classification	tech	tech
+manual transcription	other	tech
+training data	lr	lr
+domain independent acoustic models	model	model
+classifiers	tech	None
+utterance classification performance	measure(ment)	measure(ment)
+word-trigram recognition	tech	tech
+manual transcription	other	tech
+unsupervised training	tech	tech
+phone n-gram model	model	model
+domain	other	other
+output	other	other
+recognition	tech	tech
+model	model	model
+phone-string classifier	tech	tech
+classification accuracy	measure(ment)	measure(ment)
+spoken language system domains	other	other
+ensemble methods	tech	tech
+machine learning	tech	tech
+natural language processing	tech	tech
+multi-strategy and multi-source approach to question answering	tech	None
+answering agents	tech	tech
+answers	other	other
+corpora	lr	lr
+answering agents	tech	tech
+knowledge-based mechanisms	tech	None
+statistical techniques	tech	None
+multi-level answer resolution algorithm	tech	tech
+answering agents	tech	tech
+question , passage , and/or answer levels	other	other
+answer resolution algorithm	tech	tech
+baseline system	other	other
+questions correctly answered	measure(ment)	None
+average precision metric	measure(ment)	measure(ment)
+ONTOSCORE	tool	tool
+concepts	other	other
+ontology	other	tech
+scoring	other	None
+speech recognition hypotheses ( SRH )	other	other
+semantic coherence	other	other
+annotation experiment	other	other
+human annotators	other	other
+speech recognition hypotheses	other	other
+annotated data	lr	lr
+German corpus	lr	lr
+SRHs	other	other
+baseline	measure(ment)	measure(ment)
+phrase-based translation model	model	model
+decoding algorithm	tech	tech
+phrase-based translation models	model	model
+phrase-based models	model	model
+word-based models	model	model
+language pairs	other	other
+heuristic learning	tech	tech
+phrase translations	other	other
+word-based alignments	lr	lr
+lexical weighting	tech	tech
+phrase translations	other	other
+phrases	other	other
+words	other	other
+phrases	other	other
+high-accuracy word-level alignment models	model	model
+syntactically motivated phrases	other	other
+generative probabilistic optical character recognition ( OCR ) model	model	model
+noisy channel framework	other	other
+true text	other	None
+noisy output	other	other
+OCR system	tech	tech
+model	model	model
+error correction	tech	tech
+post-processing	tech	tech
+output	other	other
+OCR systems	tech	None
+NLP tasks	other	tech
+model	model	model
+finite-state models	tech	model
+model	model	model
+character and word error rate	measure(ment)	measure(ment)
+automatic extraction	tech	tech
+translation lexicons	lr	lr
+printed text	other	None
+ambiguity packing and stochastic disambiguation techniques	tech	tech
+Lexical-Functional Grammars ( LFG )	other	lr
+sentence condensation	other	tech
+linguistic parser/generator	tech	tech
+LFG	other	lr
+transfer component	tech	None
+parse reduction	tech	None
+packed parse forests	other	other
+maximum-entropy model	model	model
+stochastic output selection	tech	tech
+parser evaluation methods	tech	tech
+summarization	other	None
+sentence condensation systems	tech	tech
+experimental evaluation	tech	tech
+summarization	other	None
+automatic parse-based evaluation	tech	tech
+manual evaluation	other	tech
+strings	other	None
+summarization	other	None
+grammaticality	other	other
+system output	other	other
+constraint-based parser/generator	tech	tech
+part-of-speech tagger	tech	tech
+tag contexts	other	other
+dependency network representation	other	model
+lexical features	other	other
+jointly conditioning on multiple consecutive words	tech	None
+priors	other	other
+conditional loglinear models	model	model
+unknown word features	other	other
+tagger	tech	tech
+accuracy	measure(ment)	measure(ment)
+Penn Treebank WSJ	lr-prod	tool
+error reduction	measure(ment)	other
+tagging	tech	None
+training data	lr	lr
+language modeling	tech	tech
+conversational speech	other	other
+training data	lr	lr
+text	other	other
+web	other	other
+style	other	other
+topic	other	other
+recognition task	tech	None
+data	lr	lr
+class-dependent interpolation	tech	tech
+N-grams	other	other
+translation quality	other	measure(ment)
+EBMT	tech	tech
+bilingual corpus	lr	None
+bilingual corpus	lr	None
+language model	model	model
+monolingual corpus	lr	None
+EBMT system	tech	tech
+evaluation measures	measure(ment)	measure(ment)
+BLEU score	measure(ment)	measure(ment)
+NIST score	measure(ment)	measure(ment)
+bilingual corpus	lr	None
+language model	model	model
+unsupervised technique	tech	tech
+morphology	other	other
+hubs	other	other
+automaton	tech	tech
+hub	other	other
+node	other	other
+graph	other	other
+in-degree	other	other
+out-degree	other	other
+word-trie	other	other
+minimal DFA	other	other
+hubs	other	other
+hubs	other	other
+root	other	other
+suffix	other	other
+performance	other	None
+syntax-based constraint	other	model
+word alignment	tech	tech
+cohesion constraint	other	model
+English phrases	other	other
+French sentence	other	other
+constraint	other	model
+alignment quality	measure(ment)	measure(ment)
+bootstrapping approach	tech	tech
+Named Entity ( NE ) tagging	tech	tech
+concept-based seeds	other	model
+successive learners	tech	tech
+common noun	other	None
+pronoun	other	None
+seeds	other	None
+concept	other	other
+NE	other	other
+PERSON NE	other	other
+bootstrapping procedure	tech	tech
+successive learners	tech	tech
+decision list	tech	tech
+parsing-based NE rules	model	model
+Hidden Markov Model	model	tech
+corpus	lr	lr
+learner	tech	tech
+NE system	tech	tech
+supervised NE	tech	None
+NE types	other	other
+phrase-based unigram model	model	model
+statistical machine translation	tech	tech
+model parameters	other	other
+phrase-based models	model	model
+units of translation	other	other
+blocks	other	other
+phrases	other	other
+decoding	tech	tech
+block unigram model	model	model
+word-based trigram language model	model	model
+training	tech	tech
+blocks	other	other
+source interval projections	other	other
+word alignment	model	model
+block selection criteria	other	model
+unigram	other	None
+phrase	other	None
+Cooperative Model	tech	tech
+natural language understanding	tech	tech
+dialogue system	tech	tech
+Finite State Model ( FSM )	tech	tech
+Statistical Learning Model ( SLM )	tech	tech
+FSM	tech	tech
+language understanding	tech	tech
+Statistical approach	tech	tech
+Cooperative Model	tech	tech
+TAP-XL Automated Analyst's Assistant	tool	tool
+English	other	None
+topical report	other	None
+multilingual , multimedia data	other	None
+languages	other	other
+human language technology	tech	tech
+JAVELIN system	tool	tool
+planning-based architecture	other	other
+language processing modules	tech	tech
+open-domain question answering capability	tech	tech
+free text	other	other
+JAVELIN	tool	tool
+questions	other	other
+answer candidates	other	other
+text corpus	lr	lr
+repository	other	other
+data objects	other	other
+question answering session	other	other
+Question Answering ( QA ) systems	tech	tech
+information need	other	other
+language	other	None
+need	other	other
+MT-based paraphrasing technique	tech	tech
+QA system	tech	None
+paraphrased questions	other	None
+MRR	measure(ment)	measure(ment)
+question	other	None
+information extraction	tech	tech
+token classification task	tech	tech
+tagging strategies	tech	tech
+tokens	other	other
+tagging strategies	tech	tech
+Begin/After tagging	tech	tech
+BIA	tech	tech
+interactive corpus exploration tool	tech	None
+InfoMagnets	tool	tool
+InfoMagnets	tool	tool
+exploratory corpus analysis	tech	None
+text mining	tech	tech
+language	other	other
+behavioral patterns	other	None
+tutorial dialogue	other	None
+on-line communities	other	None
+educational tool	tech	None
+protocol analysis	tech	None
+Educational Research Methods course	other	None
+segment order	other	other
+segmentation	tech	tech
+segment contiguity	other	other
+retrieval performance	measure(ment)	measure(ment)
+translation memory system	tech	tech
+bag-of-words and segment order-sensitive string comparison methods	tech	tech
+character- and word-segmented data	lr	None
+local segment contiguity models	model	model
+N-grams	model	model
+datasets	lr	None
+indexing	tech	tech
+character bigrams	model	model
+retrieval accuracy	measure(ment)	measure(ment)
+word N-gram models	model	model
+configuration	other	None
+bag-of-words methods	tech	tech
+segment order-sensitive methods	tech	tech
+retrieval accuracy	measure(ment)	measure(ment)
+range concatenation grammar [RCG] formalism	other	other
+NLP	tech	other
+range concatenation languages [RCL]	other	other
+polynomial time	other	other
+grammatical formalisms	other	None
+RCGs	other	other
+worst-case parsing time complexity	other	other
+translation	tech	tech
+RCG	other	other
+tree adjoining grammar	lr	lr
+O( n6 ) time	other	None
+parsing technique	tech	tech
+RCL parsers	tech	tech
+non-deterministic parsing choices	other	tech
+main parser	tech	tech
+language L	other	other
+guide	tech	None
+shared derivation forest	model	None
+RCL parser	tech	tech
+superset of L	other	None
+wide coverage English grammar	model	lr
+paraphrasing	tech	tech
+interpretation and generation of natural language	tech	tech
+paraphrases	other	other
+unsupervised learning algorithm	tech	tech
+identification of paraphrases	tech	tech
+corpus of multiple English translations	lr	lr
+source text	other	other
+phrasal and single word lexical paraphrases	other	other
+syntactic paraphrases	other	other
+formal analysis	other	None
+words	other	other
+alternative markers	other	other
+other ( than )	other	None
+such ( as )	other	None
+besides	other	None
+words	other	other
+dialog	other	other
+attention	other	None
+natural language search engines	tech	tech
+queries	other	other
+performance	measure(ment)	measure(ment)
+search engine	tech	tech
+formal analysis	other	None
+search engine	tech	None
+operational semantics	other	None
+operational semantics	other	tech
+natural language applications	tech	tech
+logical definition	other	other
+Minimalist grammars	other	other
+Stabler's formalization	other	other
+Chomsky's minimalist program	other	other
+logical definition	other	other
+categorial grammar	other	other
+Montague semantics	other	other
+parsing-as-deduction	tech	tech
+resource sensitive logic	other	other
+learning algorithm	tech	tech
+structured data	other	other
+typing-algorithm	tech	tech
+type-unification	tech	tech
+Montague semantics	other	other
+formal computation	other	None
+logical form	other	None
+Techniques for automatically training	tech	None
+natural language generator	tech	tech
+quality	measure(ment)	measure(ment)
+utterances	other	other
+trainable components	other	None
+hand-crafted template-based or rule-based approaches	tech	tech
+trainable sentence planner	tech	tech
+spoken dialogue system	tech	tech
+subjective human judgments	other	other
+hand-crafted template-based generation component	tech	tech
+rule-based sentence planners	tech	tech
+baseline sentence planners	tech	tech
+trainable sentence planner	tech	tech
+rule-based systems	tech	tech
+baselines	tech	tech
+hand-crafted system	tech	tech
+supervised machine learning	tech	None
+statistical models	other	model
+WH-questions	other	other
+models	model	model
+shallow linguistic features	other	other
+questions	other	None
+user's informational goals	other	other
+predictive performance	measure(ment)	measure(ment)
+models	other	model
+training and testing factors	other	None
+predictive performance	measure(ment)	measure(ment)
+IE paradigm	other	tech
+predicate-argument structures	other	other
+predicate argument structures	other	other
+IE paradigm	other	tech
+features	other	other
+inductive decision tree learning	tech	tech
+predicate-argument structures	other	other
+IE	tech	None
+Hierarchical Directed Acyclic Graph ( HDAG ) Kernel	tech	tech
+structured natural language data	other	other
+HDAG Kernel	tech	tech
+chunks	other	other
+relations	other	other
+weighed sum	other	measure(ment)
+attribute sequences	other	other
+HDAGs	other	tech
+question classification	tech	tech
+sentence alignment tasks	tech	tech
+similarity measure	measure(ment)	measure(ment)
+kernel function	tech	tech
+HDAG Kernel	tech	tech
+kernel functions	tech	tech
+baseline methods	other	tech
+clustering	tech	tech
+semantic verb classes	other	other
+corpus data	other	other
+subcategorization frame ( SCF )	other	None
+Information Bottleneck	tech	None
+nearest neighbour	tech	None
+polysemic verbs	other	other
+evaluation scheme	tech	tech
+polysemy	other	other
+clusters	other	other
+semantically classifying	tech	None
+undisambiguated SCF data	other	None
+decision tree based approach	tech	tech
+pronoun resolution	tech	tech
+spoken dialogue	other	other
+pronouns	other	other
+NP- and non-NP-antecedents	other	other
+features	other	other
+pronoun resolution	tech	tech
+spoken dialogue	other	other
+features	other	other
+Switchboard dialogues	other	other
+Byron's ( 2002 ) manually tuned system	tool	None
+Link detection	tech	tech
+Topic Detection and Tracking tasks	tech	tech
+new event detection	tech	tech
+story link detection	tech	tech
+new event detection	tech	tech
+information retrieval task	tech	tech
+precision	measure(ment)	measure(ment)
+recall	measure(ment)	measure(ment)
+part of speech tagging	tech	tech
+similarity measures	other	measure(ment)
+stop lists	lr	lr
+discourse understanding process	tech	other
+spoken dialogue systems	tech	tech
+user utterances	other	other
+context	other	other
+dialogue	other	other
+candidates	other	other
+understanding	tech	None
+user utterance	other	other
+ambiguity	other	other
+speech understanding	tech	tech
+understanding	tech	None
+user utterance	other	other
+candidates	other	other
+understanding	tech	None
+ambiguity	other	other
+dialogue	other	other
+discourse understanding accuracy	measure(ment)	measure(ment)
+ambiguity	other	other
+statistical information	other	other
+dialogue corpora	lr	lr
+hand-crafted rules	other	model
+discourse understanding process	tech	other
+candidates	other	other
+understanding	tech	None
+user modeling	tech	tech
+cooperative responses	other	other
+user	other	None
+spoken dialogue systems	tech	tech
+user	other	None
+knowledge	other	None
+users	other	other
+user model	model	model
+user models	model	model
+skill level	other	other
+knowledge level	other	other
+target domain	other	other
+hastiness	other	other
+models	model	model
+decision tree learning	tech	tech
+dialogue data	lr	lr
+classification accuracy	measure(ment)	measure(ment)
+Dialogue strategies	other	other
+user modeling	tech	tech
+Kyoto city bus information system	tool	None
+cooperative responses	other	other
+individual users	other	other
+novice users	other	other
+dialogue duration	other	other
+skilled users	other	other
+unsupervised learning approach	tech	tech
+non-English ( Arabic ) stemmer	tech	tech
+stemming model	model	model
+statistical machine translation	tech	tech
+English stemmer	tech	tech
+parallel corpus	lr	None
+training resources	lr	lr
+parallel text	lr	lr
+training phase	other	other
+Monolingual , unannotated text	lr	lr
+stemmer	tech	tech
+domain	other	other
+genre	other	other
+Arabic	other	other
+language	other	other
+affix removal	tech	tech
+resource-frugal approach	tech	tech
+agreement	measure(ment)	measure(ment)
+Arabic stemmer	tech	tech
+rules	model	model
+affix lists	lr	lr
+human annotated text	lr	lr
+unsupervised component	tech	tech
+Task-based evaluation	tech	tech
+Arabic information retrieval	tech	tech
+average precision	measure(ment)	measure(ment)
+unstemmed text	other	other
+stemmer	tech	tech
+Arabic's rich morphology	other	other
+model	model	None
+word	other	other
+morphemes	other	other
+pattern	other	other
+prefix*-stem-suffix*	other	None
+morpheme	other	other
+manually segmented Arabic corpus	lr	None
+unsupervised algorithm	tech	tech
+Arabic word segmenter	tech	tech
+unsegmented Arabic corpus	lr	None
+trigram language model	model	model
+morpheme sequence	other	other
+input	other	other
+language model	model	model
+manually segmented corpus	lr	None
+words	other	other
+segmentation	tech	None
+accuracy	measure(ment)	None
+unsupervised algorithm	tech	tech
+stems	other	other
+word	other	None
+unsegmented corpus	lr	None
+model parameters	other	model
+vocabulary	other	other
+training corpus	lr	lr
+Arabic word segmentation system	tech	tech
+exact match accuracy	measure(ment)	measure(ment)
+test corpus	lr	lr
+word tokens	other	other
+highly inflected languages	other	other
+manually segmented corpus	lr	None
+language	other	other
+word sense disambiguation ( WSD )	tech	tech
+manually sense-tagged data	lr	lr
+supervised learning	tech	tech
+sense-tagged training data	lr	lr
+English-Chinese parallel corpora	lr	lr
+nouns	other	other
+SENSEVAL-2 English lexical sample task	other	other
+method of acquiring sense-tagged data	tech	None
+SENSEVAL-2 nouns	other	other
+accuracy	measure(ment)	None
+manually sense-tagged data	lr	lr
+sense coverage	other	None
+domain dependence	other	other
+WSD programs	tech	tech
+semantically annotated corpus	lr	None
+acquisition of word-semantic information	tech	None
+domain-independent lexica	lr	lr
+annotation	tech	tech
+semantic roles	other	other
+frame semantics paradigm	other	other
+annotated data	other	other
+vagueness	other	other
+ambiguity	other	other
+semantic annotation	tech	tech
+verbal and nonverbal means	other	other
+grounding	other	other
+embodied conversational agents	tech	tech
+signals	other	other
+common ground	other	other
+human-computer interaction	tech	tech
+eye gaze	other	other
+head nods	other	other
+attentional focus	other	other
+direction-giving task	other	None
+nonverbal behaviors	other	other
+dialogue move	other	other
+negative feedback	other	other
+ECA	tech	tech
+verbal and nonverbal grounding acts	other	other
+dialogue state	other	other
+CFG filtering techniques	tech	tech
+LTAG	other	other
+HPSG	other	other
+HPSG	other	other
+CFG filter	other	tech
+LTAG	other	other
+data structure	other	other
+phrase-based statistical machine translation	tech	tech
+retrieval	tech	other
+phrases	other	other
+memory	other	other
+decoder	tech	None
+computational complexity	other	other
+average retrieval times	measure(ment)	other
+phrase translations	other	other
+suffix array-based data structure	other	other
+sampling	tech	None
+retrieval time	measure(ment)	other
+translation quality	measure(ment)	other
+statistical machine translation	tech	tech
+syntactic information	other	other
+source language	other	other
+phrasal translation	other	tech
+source-language	other	other
+dependency parser	tech	tech
+target language	other	other
+word segmentation	tech	tech
+unsupervised word alignment component	tech	other
+parallel corpus	lr	lr
+source dependency parse	other	other
+sentence	other	None
+dependency treelet translation pairs	other	other
+tree-based ordering model	model	model
+decoder	tech	tech
+tree-based models	model	model
+SMT models	model	model
+phrasal SMT	tech	tech
+parser	tech	tech
+word sense disambigation models	tech	model
+statistical machine translation	tech	None
+quality	measure(ment)	None
+Chinese word sense disambiguation model	tech	model
+translation candidates	other	other
+IBM statistical MT system	tool	tech
+word sense disambiguation	tech	tech
+translation quality	measure(ment)	measure(ment)
+statistical machine translation system	tech	tech
+Error analysis	tech	tech
+statistical MT architectures	other	other
+Syntax-based statistical machine translation ( MT )	tech	tech
+statistical models	tech	model
+structured data	other	other
+syntax-based statistical machine translation system	tech	tech
+probabilistic synchronous dependency insertion grammar	other	lr
+Synchronous dependency insertion grammars	other	lr
+synchronous grammars	other	lr
+dependency trees	other	lr
+grammar	other	lr
+parallel corpora	lr	lr
+graphical model	tech	model
+machine translation task	other	other
+stochastic tree-to-tree transducer	tech	tech
+polynomial time decoding algorithm	tech	tech
+model	tech	model
+MT system	tech	tech
+NIST and Bleu automatic MT evaluation software	measure(ment)	None
+baseline system	other	tech
+IBM models	tech	model
+translation speed and quality	measure(ment)	measure(ment)
+training method	tech	tech
+localized phrase-based prediction model	model	model
+statistical machine translation ( SMT )	tech	tech
+model	model	model
+blocks	other	None
+local phrase re-ordering	other	tech
+maximum likelihood criterion	other	measure(ment)
+log-linear block bigram model	model	model
+real-valued features	other	other
+language model score	other	None
+binary features	other	None
+block	other	None
+training algorithm	tech	tech
+features	other	other
+baseline	measure(ment)	other
+Arabic-English translation task	tech	other
+monolingual parallel corpora	lr	lr
+paraphrases	other	other
+bilingual parallel corpora	lr	lr
+resource	lr	None
+alignment techniques	tech	tech
+phrase-based statistical machine translation	tech	tech
+paraphrases	other	other
+language	other	None
+phrase	other	other
+paraphrase probability	other	measure(ment)
+paraphrases	other	other
+bilingual parallel corpus	lr	lr
+translation probabilities	other	measure(ment)
+contextual information	other	other
+paraphrase extraction and ranking methods	tech	tech
+manual word alignments	other	lr
+quality	measure(ment)	None
+paraphrases	other	other
+automatic alignments	other	lr
+Czech-English statistical machine translation system	tech	tech
+tree-to-tree translation	tech	tech
+dependency structures	other	other
+bilingual resource	lr	lr
+sentence-aligned parallel corpus	lr	lr
+resources	lr	None
+monolingual	other	None
+evaluation method	measure(ment)	tech
+system's output	other	None
+benchmark system	measure(ment)	tech
+interactively visualizing and directing the process	tech	None
+translating a sentence	tech	None
+user	other	None
+model	model	None
+syntax-based statistical machine translation ( MT )	tech	None
+model	model	model
+MT systems	tech	tech
+visualization method	tech	tech
+MT system	tech	tech
+ACL	other	None
+users	other	None
+syntax-based decoder	tech	tech
+Combination methods	tech	tech
+system performance	other	None
+system combination	tech	tech
+unsupervised WSD	tech	tech
+voting- and arbiter-based combination strategies	tech	tech
+unsupervised WSD systems	tech	tech
+combination methods	tech	tech
+predominant senses	other	None
+raw text	other	other
+SemCor	lr-prod	None
+Senseval-3 data sets	lr-prod	None
+mathematical formalism	other	other
+structures	other	None
+strings	other	other
+trees	other	other
+dags	other	other
+graphs	other	other
+polarization	other	other
+elementary structures	other	None
+saturation	other	other
+structure	other	None
+grammar formalisms	other	other
+rewriting systems	other	other
+dependency grammars	other	other
+TAG	other	other
+HPSG	other	other
+LFG	other	other
+redundancy elimination problem	other	other
+underspecified semantic representation ( USR )	other	model
+scope ambiguity	other	other
+USR	other	model
+equivalent readings	other	None
+underspecified chart representations	other	model
+dominance graphs	other	other
+USRs	other	model
+large-scale grammars	other	lr
+corpus	lr	lr
+ambiguity	other	other
+machine learning techniques	tech	tech
+comma checker	tech	tech
+grammar checker	tech	tech
+Basque	other	other
+corpus	lr	lr
+words	other	None
+commas	other	other
+precision	measure(ment)	measure(ment)
+recall	measure(ment)	measure(ment)
+precision	measure(ment)	measure(ment)
+recall	measure(ment)	measure(ment)
+commas	other	other
+corpus	lr	lr
+corpus	lr	lr
+author	other	None
+unsupervised learning approach	tech	tech
+named entities	other	other
+lexical and syntactic features	other	other
+contexts	other	other
+eigenvectors	other	other
+adjacency graph's	other	None
+Laplacian	other	None
+submanifold	other	other
+high dimensionality space	other	other
+cluster number estimation	tech	tech
+eigenvectors	other	other
+ACE corpora	lr-prod	lr-prod
+spectral clustering based approach	tech	tech
+clustering methods	tech	tech
+polarity-tagged corpus	lr	lr
+HTML documents	other	None
+HTML documents	other	None
+layout structures	other	None
+linguistic pattern	other	model
+sentences	other	other
+corpus	lr	lr
+sentences	other	other
+similarity	other	other
+words	other	other
+word vectors	other	model
+vector space model	other	tech
+methods for constructing word vectors	tech	None
+LSA-based , cooccurrence-based and dictionary-based methods	other	tech
+similarity	other	other
+taxonomic similarity	other	other
+associative similarity	other	other
+dictionary-based word vectors	other	model
+taxonomic similarity	other	other
+LSA-based and the cooccurrence-based word vectors	other	model
+associative similarity	other	other
+mutli-document summarization approaches	tech	None
+events	other	other
+event terms	other	other
+associated event elements	other	None
+contents	other	None
+events	other	other
+PageRank algorithm	tech	tech
+event map	other	model
+documents	other	None
+FERRET	tool	tool
+interactive question-answering ( Q/A ) system	tech	tech
+automatic Q/A	tech	None
+FERRET	tool	tool
+Q/A	tech	tech
+predictive questioning	tech	tech
+questions	other	other
+answers	other	other
+users	other	other
+user	other	other
+computational analysis of move structures	tech	None
+abstracts	other	other
+research articles	other	None
+sentences	other	other
+abstract	other	None
+move	other	other
+rhetorical functions	other	other
+abstracts	other	other
+Web	other	other
+language model	model	model
+abstract moves	other	other
+concordancer	tech	None
+CARE	tool	tool
+move-tagged abstracts	other	other
+digital learning	other	tech
+Web-based computer-assisted academic writing	tech	tech
+LOGON MT demonstrator	tool	tool
+general-purpose NLP components	tech	other
+machine translation pipeline	tech	tech
+output quality	other	measure(ment)
+hand-built , symbolic resources	lr	None
+stochastic processes	tech	tech
+metaphors	other	None
+human understanding of natural language	other	None
+method of analyzing metaphors	tech	None
+generalized metaphor mappings	other	model
+generalized metaphor	other	other
+recognition network	other	model
+basic mapping	other	model
+transfer mappings	other	model
+implicit intention component	other	other
+metaphor interpretation	tech	other
+reconstruction	tech	None
+recognition task	tech	other
+language learning	tech	other
+natural language interfaces	tech	tech
+meaning	other	None
+input	other	None
+users	other	None
+decoding	tech	tech
+natural language interfaces	tech	tech
+non-literal aspects of communication	other	other
+communication procedures	other	None
+non-literal aspects of communication	other	other
+personal computers	tech	None
+graphics displays	tech	None
+human communication needs	other	other
+interfaces	tech	tech
+natural language interfaces	tech	tech
+natural language	other	other
+human listeners	other	None
+computer system	tech	tech
+natural language input	other	other
+users	other	None
+parsing flexibilities	other	tech
+FlexP	tool	tool
+bottom-up pattern-matching parser	tech	tech
+restricted natural language	other	None
+text-understanding systems	tech	tech
+text	other	None
+newspaper stories	other	other
+edited texts	other	None
+natural language texts	other	other
+conversation transcripts	None	other
+texts	None	other
+words	None	None
+words	None	other
+syntactic construction	None	other
+expectations	other	other
+surface English	other	None
+world knowledge	other	other
+syntactic and semantic expectations	other	other
+unknown words	other	None
+context	other	other
+word-senses	other	other
+words with multiple meanings	other	None
+ambiguity	other	other
+missing words	other	None
+ellipsis	other	other
+referents	other	other
+anaphora	other	other
+expectations	other	None
+scruffy texts	other	None
+computer program	tech	None
+NOMAD	tool	tool
+scruffy texts	other	None
+natural language system	tech	tech
+ungrammatical input	other	other
+computer aided second language learning	tech	tech
+syntax	other	other
+semantics	other	other
+machine translation	tech	tech
+English-Japanese machine translation	tech	tech
+syntax directed approach	tech	None
+Heuristic Parsing Model ( HPM )	model	model
+Syntactic Role System	tech	tech
+Japanese-English translation	tech	tech
+semantics directed approach	tech	None
+Conceptual Dependency Diagram ( CDD )	model	model
+Augmented Case Marker System	tech	tech
+Semantic Role System	tech	tech
+Japanese sentence structure	other	other
+English sentence structure	other	other
+machine translation	tech	tech
+ambiguities	other	other
+entity-oriented approach to restricted-domain parsing	tech	None
+structure	other	other
+surface representation	other	other
+domain entities	other	other
+semantic grammar	other	other
+limited domain semantics	other	other
+fragmentary recognition	tech	tech
+multiple parsing strategies	tech	None
+recognition of extra-grammatical input	tech	None
+language definition	other	tech
+entity-oriented language definition	other	tech
+control structure	other	model
+entity-oriented parser	tech	tech
+parsing strategies	other	model
+control structure	other	model
+parses	other	other
+parser	tech	tech
+control structure	other	model
+parsing strategies	other	model
+implementation	other	None
+disposition	other	other
+proposition	other	other
+disposition	other	other
+propositions	other	other
+disposition	other	other
+proposition	other	other
+fuzzy quantifiers	other	None
+fuzzy quantifier	other	other
+proposition	other	other
+disposition	other	other
+proposition	other	other
+explicitation	other	tech
+restoration	other	tech
+Explicitation	other	tech
+meaning	other	other
+proposition	other	other
+test-score semantics	other	other
+semantics	other	other
+meaning	other	other
+proposition	other	other
+reasoning with dispositions	tech	None
+fuzzy syllogism	other	tech
+Syllogistic reasoning with dispositions	tech	tech
+commonsense reasoning	tech	tech
+management of uncertainty	tech	tech
+expert systems	tech	tech
+typicality	other	other
+human cognition	other	other
+default reasoning	other	tech
+Paul	tool	tool
+computer text generation system	tech	tech
+cohesive text	other	other
+lexical substitutions	other	other
+pronominalization	other	other
+superordinate substitution	other	other
+noun phrase reiteration	other	None
+antecedence recovery	other	None
+lexical substitutions	other	other
+strength of potential antecedence	other	measure(ment)
+text	other	other
+substitutions	other	other
+grammatical formalisms	other	other
+Tree Adjoining Grammars	other	tech
+Head Grammars	other	tech
+equivalence	other	None
+formalisms	other	other
+linguistic expressiveness	other	other
+formalisms	other	other
+Unification-based grammar formalisms	other	other
+features	other	other
+linguistic objects	other	other
+computational algorithms for unification of feature structures	tech	None
+feature structures	other	other
+model	model	model
+feature structures	other	other
+logical formulas	other	tech
+directed graphs	other	tech
+graphs	other	tech
+transition graphs	other	tech
+deterministic finite automaton	tech	tech
+semantics	other	other
+feature structures	other	other
+disjunctions	other	other
+path values	other	other
+disjunctions	other	other
+logical model	other	model
+denotational semantics	other	other
+logical model	other	model
+equivalences	other	None
+formulas	other	tech
+Unification	tech	tech
+model	other	model
+computational complexity	other	other
+unification	tech	tech
+consistency problem	other	other
+formulas	other	tech
+disjunctive values	other	None
+NP-complete	other	None
+complexity	other	other
+disjunctive	other	None
+expansion	tech	None
+disjunctive normal form	other	other
+free indexation	other	tech
+referential properties of noun phrases	other	None
+principle-and-parameters language framework	other	other
+free indexation	other	tech
+indexings	other	model
+exponential time	other	other
+free indexation algorithm	tech	tech
+representational format for meaning	other	None
+verbs	other	other
+subpredicates	other	other
+subpredicates	other	other
+inferences	other	other
+listener	other	other
+verb	other	other
+sentence	other	other
+meaning structure	other	model
+sentence	other	other
+verb	other	other
+computational theory	other	other
+human plausible reasoning	other	tech
+logic	other	other
+theory	other	other
+content-independent formalism	other	other
+logic	other	other
+theory	other	other
+memory	other	other
+theory	other	other
+dimensionalized space	other	model
+inference types	other	other
+certainty conditions	other	model
+meta-inference types	other	other
+inference	other	other
+inference types	other	other
+memory	other	other
+inference types	other	other
+memory	other	other
+inference types	other	other
+inference	other	tech
+semantic networks	other	model
+Path-based inference	tech	tech
+arc	other	other
+path of arcs	other	other
+nodes	other	other
+path	other	other
+nodes	other	other
+Path-based inference rules	other	model
+binary relational calculus notation	other	tech
+Node-based inference	tech	tech
+structure	other	None
+nodes	other	other
+node structures	other	other
+Node-based inference rules	other	model
+semantic network	other	model
+predicate calculus notation	other	tech
+Path-based inference	tech	tech
+node-based inference	tech	tech
+path-based inference rules	other	model
+extensional equivalence	other	other
+intensional concepts	other	other
+explication	other	None
+inheritance	other	other
+hierarchies	other	other

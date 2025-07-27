@@ -1,0 +1,24 @@
+tech	inference	1, 5
+model	semantic networks	1, 7, 8
+tech	Path-based inference	2, 1, 2
+other	arc	2, 5
+other	path of arcs	2, 8, 9, 10
+other	nodes	2, 14
+other	path	2, 24
+other	nodes	2, 29
+model	Path-based inference rules	3, 1, 2, 3
+tech	binary relational calculus notation	3, 9, 10, 11, 12
+tech	Node-based inference	4, 1, 2
+other	nodes	4, 7
+model	pattern	4, 19
+other	node structures	4, 21, 22
+model	Node-based inference rules	5, 1, 2, 3
+model	semantic network	5, 9, 10
+tech	predicate calculus notation	5, 16, 17, 18
+tech	Path-based inference	6, 1, 2
+tech	node-based inference	6, 8, 9
+model	path-based inference rules	8, 3, 4, 5
+other	extensional equivalence	8, 11, 12
+other	intensional concepts	8, 14, 15
+other	inheritance	8, 22
+other	hierarchies	8, 24

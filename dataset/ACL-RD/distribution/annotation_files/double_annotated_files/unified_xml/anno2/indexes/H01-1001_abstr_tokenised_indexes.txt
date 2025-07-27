@@ -1,0 +1,14 @@
+other	Oral communication	1, 1, 2
+tech	large database	3, 17, 18
+tech	information retrieval techniques	4, 2, 3, 4
+model	histogram	4, 7
+other	keywords	4, 9
+other	document representation	4, 12, 13
+other	oral communication	4, 15, 16
+model	indices	4, 20
+model	index	5, 3
+other	subsets	7, 19
+tech	database	7, 22
+model	indices	8, 4
+tech	databases	9, 7
+model	indices	9, 16

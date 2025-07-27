@@ -1,0 +1,22 @@
+tech	Spelling-checkers	1, 1
+tech	text processing software	1, 9, 10, 11
+lr	dictionaries	2, 16
+other	word forms	2, 18, 19
+other	words	2, 22
+other	languages	3, 6
+other	inflection	3, 9
+other	English	3, 12
+other	highly inflective languages	3, 17, 18, 19
+other	Czech	3, 22
+other	Russian	3, 24
+other	Slovak	3, 26
+other	Slavonic languages	3, 29, 30
+other	inflection	4, 9
+tech	spelling-checkers	4, 15
+other	languages	4, 18
+tech	spelling-checkers	5, 17
+other	English	5, 19
+lr	dictionary	5, 23
+other	word forms	5, 36, 37
+other	Czech	5, 43
+tech	word classification	6, 11, 12

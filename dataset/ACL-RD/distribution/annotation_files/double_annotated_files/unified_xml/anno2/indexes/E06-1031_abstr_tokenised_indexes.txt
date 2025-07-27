@@ -1,0 +1,20 @@
+measure(ment)	evaluation measures	1, 3, 4
+tech	machine translation	1, 6, 7
+measure(ment)	costs	1, 10
+other	movements	1, 12
+other	word blocks	1, 14, 15
+other	movements	2, 6
+other	sentences	2, 14
+measure(ment)	evaluation measure	3, 10, 11
+other	block reordering	3, 15, 16
+other	edit operation	3, 19, 20
+measure(ment)	measure	4, 2
+other	quadratic time	4, 8, 9
+measure(ment)	evaluation measures	5, 8, 9
+measure(ment)	word-dependent substitution costs	5, 17, 18, 19
+measure(ment)	measure	6, 6
+other	human judgment	6, 8, 9
+other	language pairs	6, 17, 18
+measure(ment)	word dependent substitution costs	8, 5, 6, 7, 8
+measure(ment)	automatic evaluation measures	8, 17, 18, 19
+other	human judgment	8, 21, 22

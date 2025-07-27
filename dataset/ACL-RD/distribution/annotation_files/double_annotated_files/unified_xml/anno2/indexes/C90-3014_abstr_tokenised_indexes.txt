@@ -1,0 +1,7 @@
+lr	Korean phonological knowledge base system	1, 8, 9, 10, 11, 12
+other	unification-based grammar formalism	1, 15, 16, 17
+lr	Korean Phonology Structure Grammar ( KPSG )	1, 19, 20, 21, 22, 23, 24, 25
+lr	KPSG	2, 4
+tech	computational phonological system	2, 13, 14, 15
+tech	speech recognition and synthesis system	2, 17, 18, 19, 20, 21
+other	generative phonological approach	3, 19, 20, 21

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1079">
+  <Title>PRINCIPAR--An Efficient, Broad-coverage, Principle-based Parser</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present an efficient, broad-coverage, principle-based parser for English.</S>
+    <S>The parser has been implemented in C++ and runs on SUN Sparcstations with X-windows.</S>
+    <S>It contains a lexicon with over 90,000 entries, constructed automatically by applying a set of extraction and conversion rules to entries from machine readable dictionaries.</S>
+  </Section></Paper>

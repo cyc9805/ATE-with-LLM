@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P01-1004">
+  <Title>Low-cost, High-performance Translation Retrieval: Dumber is Better</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper, we compare the relative effects of segment order, segmentation and segment contiguity on the retrieval performance of a translation memory system.</S>
+    <S>We take a selection of both bag-of-words and segment order-sensitive string comparison methods, and run each over both character- and word-segmented data, in combination with a range of local segment contiguity models (in the form of N-grams).</S>
+    <S>Over two distinct datasets, we find that indexing according to simple character bigrams produces a retrieval accuracy superior to any of the tested word N-gram models.</S>
+    <S>Further,in their optimum configuration, bag-of-words methods are shown to be equivalent to segment order-sensitive methods in terms of retrieval accuracy, but much faster.</S>
+    <S>We also provide evidence that our findings are scalable.</S>
+  </Section></Paper>

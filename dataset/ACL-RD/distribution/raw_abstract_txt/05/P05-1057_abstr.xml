@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1057">
+  <Title>Log-linear Models for Word Alignment</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present a framework for word alignment based on log-linear models.</S>
+    <S>All knowledge sources are treated as feature functions, which depend on the source language sentence, the target language sentence and possible additional variables.</S>
+    <S>Log-linear models allow statistical alignment models to be easily extended by incorporating syntactic information.</S>
+    <S>In this paper, we use IBM Model 3 alignment properties, POS correspondence, and bilingual dictionary coverage as features.</S>
+    <S>Our experiments show that log-linear models significantly outperform IBM translation models.</S>
+  </Section></Paper>

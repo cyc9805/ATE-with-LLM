@@ -1,0 +1,12 @@
+lr	training data	1, 3, 4
+tech	language modeling	1, 7, 8
+other	conversational speech	1, 10, 11
+lr	training data	2, 8, 9
+other	text	2, 14
+other	web	2, 17
+other	style	2, 22
+other	topic	2, 24
+tech	target recognition task	2, 27, 28, 29
+lr	data	2, 44
+tech	class-dependent interpolation	2, 47, 48
+other	N-grams	2, 50

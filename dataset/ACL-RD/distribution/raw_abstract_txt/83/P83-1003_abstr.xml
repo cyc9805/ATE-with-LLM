@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P83-1003">
+  <Title>Crossed Serial Dependencies: A low-power parseable extension to GPSG</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>An extension to the GPSG grammatical formalism is proposed, allowing non-terminals to consist of finite sequences of category labels, and allowing schematic variables to range over such sequences.</S>
+    <S>The extension is shown to be sufficient to provide a strongly adequate grammar for crossed serial dependencies, as found in e.g. Dutch subordinate clauses.</S>
+    <S>The structures induced for such constructions are argued to be more appropriate to data involving conjunction than some previous proposals have been.</S>
+    <S>The extension is shown to be parseable by a simple extension to an existing parsing method for GPSG.</S>
+  </Section></Paper>

@@ -1,0 +1,28 @@
+tech	chart-based phrase structure parsing	1, 7, 8, 9, 10
+other	natural language	1, 12, 13
+other	information	1, 23
+other	unrestricted texts	1, 25, 26
+other	words	1, 31
+other	text	1, 38
+tech	parser	2, 2
+other	algorithmic efficiency	2, 4, 5
+other	search space	2, 11, 12
+other	edge	3, 4
+other	chart	3, 9
+other	edges	3, 19
+other	edges	3, 28
+other	spanning edges	4, 3, 4
+other	edges	4, 19
+other	constituent	4, 26
+model	phrase boundary heuristics	5, 8, 9, 10
+other	function words	5, 16, 17
+model	heuristic rules	5, 21, 22
+other	phrases	5, 28
+other	unknown words	5, 36, 37
+other	search space	6, 6, 7
+other	syntactic categories	6, 15, 16
+other	terminal and non-terminal edges	6, 19, 20, 21, 22
+other	ambiguity	6, 29
+other	edges	6, 35
+other	edges	6, 39
+other	semantic interpretation	6, 43, 44

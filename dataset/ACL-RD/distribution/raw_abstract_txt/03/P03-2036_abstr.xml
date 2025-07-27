@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P03-2036">
+  <Title>Comparison between CFG filtering techniques for LTAG and HPSG</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>An empirical comparison of CFG filtering techniques for LTAG and HPSG is presented.</S>
+    <S>We demonstrate that an approximation of HPSG produces a more effective CFG filter than that of LTAG.</S>
+    <S>We also investigate the reason for that difference.</S>
+  </Section></Paper>

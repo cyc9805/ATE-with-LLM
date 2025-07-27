@@ -1,0 +1,13 @@
+tech	inference method	1, 5, 6
+other	Horn logic program	1, 8, 9, 10
+tech	chart Parsing	2, 8, 9
+tech	partial instantiation	2, 11, 12
+other	clauses	2, 14
+other	arcs	2, 21
+model	chart	2, 24
+tech	Chart-like parsing	3, 1, 2
+tech	semantic-head-driven generation	3, 4, 5
+model	parsimonious instantiation scheme	4, 3, 4, 5
+tech	ambiguity packing	4, 7, 8
+other	parsing complexity	4, 11, 12
+tech	chart-based algorithms	4, 18, 19

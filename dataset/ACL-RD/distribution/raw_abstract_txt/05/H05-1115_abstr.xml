@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H05-1115">
+  <Title>Using Random Walks for Question-focused Sentence Retrieval</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We consider the problem of question-focused sentence retrieval from complex news articles describing multi-event stories published over time.</S>
+    <S>Annotators generated a list of questions central to understanding each story in our corpus.</S>
+    <S>Because of the dynamic nature of the stories, many questions are time-sensitive (e.g. How many victims have been found?)</S>
+    <S>Judges found sentences providing an answer to each question.</S>
+    <S>To address the sentence retrieval problem, we apply a stochastic, graph-based method for comparing the relative importance of the textual units, which was previously used successfully for generic summarization.</S>
+    <S>Currently, we present a topic-sensitive version of our method and hypothesize that it can outperform a competitive baseline, which compares the similarity of each sentence to the input question via IDF-weighted word overlap.</S>
+    <S>In our experiments, the method achieves a TRDR score that is significantly higher than that of the baseline.</S>
+  </Section></Paper>

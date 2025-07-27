@@ -1,0 +1,4 @@
+tech	left corner parsing algorithm	1, 10, 11, 12, 13
+other	context-free grammars	1, 15, 16
+tech	parser	2, 23
+tech	natural language interface	2, 27, 28, 29

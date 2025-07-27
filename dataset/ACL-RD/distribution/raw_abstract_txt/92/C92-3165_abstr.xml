@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C92-3165">
+  <Title>Interactive Speech Understanding</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper introduces a robust interactive method for speech understanding.</S>
+    <S>The generalized LR parsing is enhanced in this approach.</S>
+    <S>Parsing proceeds from left to right correcting minor errors.</S>
+    <S>When a very noisy portion is detected, the parser skips that portion using a fake non-terminal symbol.</S>
+    <S>The unidentified portion is resolved by re-utterance of that portion which is parsed very efficiently by using the parse record of the first utterance.</S>
+    <S>The user does not have to speak the whole sentence again.</S>
+    <S>This method is also capable of handling unknown words, which is important in practical systems.</S>
+    <S>Detected unknown words can be incrementally incorporated into the dictionary after the interaction with the user.</S>
+    <S>A pilot system has shown great effectiveness of this approach.</S>
+  </Section></Paper>

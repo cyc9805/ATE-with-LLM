@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1020">
+  <Title>Reading more into Foreign Languages</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>GLOSSER is designed to support reading and learning to read in a foreign language.</S>
+    <S>There are four language pairs currently supported by GLOSSER: English-Bulgarian, English-Estonian, English-Hungarian and French-Dutch.</S>
+    <S>The program is operational on UNIX and Windows '95 platforms, and has undergone a pilot user-study.</S>
+    <S>A demonstration (in UNIX) for Applied Natural Language Processing emphasizes components put to novel technical uses in intelligent computer-assisted morphological analysis (ICALL), including disambiguated morphological analysis and lemmatized indexing for an aligned bilingual corpus of word examples.</S>
+  </Section></Paper>

@@ -1,0 +1,15 @@
+other	computational analysis	1, 7, 8
+other	move structures	1, 10, 11
+other	abstracts	1, 13
+other	sentences	2, 5
+other	move	2, 17
+other	rhetorical functions	2, 22, 23
+other	abstracts	3, 10
+other	Web	3, 13
+model	language model	3, 17, 18
+other	abstract moves	3, 20, 21
+tech	prototype concordancer	4, 5, 6
+tool	CARE	4, 8
+other	move-tagged abstracts	4, 13, 14
+tech	digital learning	4, 16, 17
+tech	Web-based computer-assisted academic writing	5, 8, 9, 10, 11

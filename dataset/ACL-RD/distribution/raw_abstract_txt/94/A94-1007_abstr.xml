@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A94-1007">
+  <Title>Symmetric Pattern Matching Analysis for English Coordinate Structures</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The authors propose a model for analyzing English sentences including coordinate conjunctions such as and, or, but and the equivalent words.</S>
+    <S>Syntactic analysis of the English coordinate sentences is one of the most difficult problems for machine translation (MT) systems.</S>
+    <S>The problem is selecting, from all possible candidates, the correct syntactic structure formed by an individual coordinate conjunction, i.e. determining which constituents are coordinated by the conjunction.</S>
+    <S>Typically, so many possible structures are produced that MT systems cannot select the correct one, even if the grammars allow to write the rules in the simple notations.</S>
+    <S>This paper presents an English coordinate structure analysis model, which provides top-down scope information of the correct syntactic structure by taking advantage of the symmetric patterns of the parallelism.</S>
+    <S>The model is based on a balance matching operation for two lists of the feature sets, which provides four effects: the reduction of analysis cost, the improvement of word disambiguation, the interpretation of ellipses, and robust analysis.</S>
+    <S>This model was practically implemented and incorporated into the English-Japanese MT system, and provided about 75% accuracy in the practical translation use.</S>
+  </Section></Paper>

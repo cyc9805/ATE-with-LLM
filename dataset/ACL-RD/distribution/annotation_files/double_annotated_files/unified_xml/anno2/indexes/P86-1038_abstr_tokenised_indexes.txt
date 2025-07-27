@@ -1,0 +1,33 @@
+other	Unification-based grammar formalisms	1, 1, 2, 3
+other	structures	1, 5
+other	features	1, 9
+other	linguistic objects	1, 12, 13
+tech	computational algorithms	2, 2, 3
+tech	unification of feature structures	2, 5, 6, 7, 8
+other	feature structures	2, 29, 30
+model	model	3, 5
+other	feature structures	3, 10, 11
+tech	logical formulas	3, 16, 17
+tech	directed graphs	3, 24, 25
+tech	graphs	4, 2
+tech	transition graphs	4, 8, 9
+tech	deterministic finite automaton	4, 15, 16, 17
+other	semantics	5, 2
+other	feature structures	5, 4, 5
+other	disjunctions	5, 25
+other	path values	5, 27, 28
+other	disjunctions	5, 31
+model	logical model	6, 13, 14
+other	denotational semantics	6, 19, 20
+model	logical model	7, 2, 3
+tech	calculus of equivalences	7, 6, 7, 8
+tech	formulas	7, 16
+tech	Unification	8, 1
+model	model	9, 2
+other	computational complexity	9, 9, 10
+tech	unification	9, 12
+other	consistency problem	10, 6, 7
+tech	formulas	10, 9
+other	complexity	11, 5
+other	disjunctive values	11, 10, 11
+other	disjunctive normal form	11, 22, 23, 24

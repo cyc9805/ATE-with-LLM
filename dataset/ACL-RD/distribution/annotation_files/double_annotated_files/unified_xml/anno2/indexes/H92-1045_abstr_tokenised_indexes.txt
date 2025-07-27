@@ -1,0 +1,20 @@
+other	polysemous words	1, 7, 8
+other	sentence	1, 10
+other	meaning	1, 12
+other	sense	1, 14
+other	context of use	1, 18, 19, 20
+tech	word-sense disambiguation systems	2, 8, 9, 10
+lr-prod	Canadian Hansards	2, 19, 20
+lr-prod	Roget's Thesaurus	2, 30, 31
+lr-prod	Grolier's Encyclopedia	2, 33, 34
+other	discourse effect	3, 13, 14
+other	polysemous word	4, 6, 7
+other	sentence	4, 10
+other	discourse	4, 19
+other	sense	4, 32
+other	sense	5, 17
+other	discourse	5, 21
+model	constraint	6, 11
+tech	word-sense disambiguation algorithm	6, 18, 19, 20
+tech	disambiguation algorithms	7, 12, 13
+model	discourse constraint	7, 21, 22

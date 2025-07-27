@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1061">
+  <Title>CONCURRENT LEXICAIJZEID DEPENDENCY PARSING: THE ParseTalk MODEL</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A grammar model for concurrent, object-oriented natural language parsing is introduced.</S>
+    <S>Complete lexical distribution of grammatical knowledge is achieved building upon the head-oriented notions of valency and dependency, while inheritance mechanisms are used to capture lexical generalizations.</S>
+    <S>The underlying concurrent computation model relies upon the actor paradigm.</S>
+    <S>We consider message passing protocols for establishing dependency relations and ambiguity handling.</S>
+  </Section></Paper>

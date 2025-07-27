@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P83-1021">
+  <Title>PARSING AS DEDUCTION</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>By exploring the relationship between parsing and deduction, a new and more general view of chart parsing is obtained, which encompasses parsing for grammar formalisms based on unification, and is the basis of the Earley Deduction proof procedure for definite clauses.</S>
+    <S>The efficiency of this approach for an interesting class of grammars is discussed.</S>
+  </Section></Paper>

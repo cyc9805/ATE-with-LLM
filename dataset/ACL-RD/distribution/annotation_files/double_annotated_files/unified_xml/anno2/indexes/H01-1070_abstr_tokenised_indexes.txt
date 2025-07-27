@@ -1,0 +1,10 @@
+model	n-gram models	1, 8, 9
+model	error-correction rules	1, 11, 12
+tech	Thai key prediction	1, 14, 15, 16
+tech	Thai-English language identification	1, 18, 19, 20
+tech	rule-reduction algorithm	2, 5, 6
+measure(ment)	mutual information	2, 8, 9
+model	error-correction rules	2, 13, 14
+measure(ment)	accuracy	3, 7
+tech	language identification	3, 10, 11
+tech	key prediction	3, 13, 14

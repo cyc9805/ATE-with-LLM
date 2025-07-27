@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H92-1074">
+  <Title>CSR Corpus Development</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>The CSR (Connected Speech Recognition) corpus represents a new DARPA speech recognition technology development initiative to advance the state of the art in CSR.</S>
+    <S>This corpus essentially supersedes the now old Resource Management (RM) corpus that has fueled DARPA speech recognition technology development for the past 5 years.</S>
+    <S>The new CSR corpus supports research on major new problems including unlimited vocabulary, natural grammar, and spontaneous speech.</S>
+    <S>This paper presents an overview of the CSR corpus, reviews the definition and development of the CSR pilot corpus, and examines the dynamic challenge of extending the CSR corpus to meet future needs.</S>
+  </Section></Paper>

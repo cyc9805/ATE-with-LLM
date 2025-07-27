@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H89-2019">
+  <Title>A PROPOSAL FOR SLS EVALUATION</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>This paper proposes an automatic, essentially domain-independent means of evaluating Spoken Language Systems (SLS) which combines software we have developed for that purpose (the Comparator) and a set of specifications for answer expressions (the Common Answer Specification, or CAS).</S>
+    <S>The Comparator checks whether the answer provided by a SLS accords with a canonical answer, returning either true or false.</S>
+    <S>The Common Answer Specification determines the syntax of answer expressions, the minimal content that must be included in them, the data to be included in and excluded from test corpora, and the procedures used by the Comparator.</S>
+    <S>Though some details of the CAS are particular to individual domains, the Comparator software is domain-independent, as is the CAS approach.</S>
+  </Section></Paper>

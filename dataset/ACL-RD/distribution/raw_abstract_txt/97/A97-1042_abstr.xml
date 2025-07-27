@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1042">
+  <Title>Identifying Topics by Position</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper addresses the problem of identifying likely topics of texts by their position in the text.</S>
+    <S>It describes the automated training and evaluation of an Optimal Position Policy, a method of locating the likely positions of topic-bearing sentences based on genre-specific regularities of discourse structure.</S>
+    <S>This method can be used in applications such as information retrieval, routing, and text summarization.</S>
+  </Section></Paper>

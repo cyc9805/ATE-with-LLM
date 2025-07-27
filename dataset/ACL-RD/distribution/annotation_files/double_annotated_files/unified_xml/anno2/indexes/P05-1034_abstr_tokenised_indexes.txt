@@ -1,0 +1,19 @@
+tech	statistical machine translation	1, 7, 8, 9
+other	syntactic information	1, 12, 13
+other	source language	1, 16, 17
+tech	phrasal translation	1, 22, 23
+other	source-language	2, 5
+tech	dependency parser	2, 6, 7
+other	target language	2, 9, 10
+tech	word segmentation	2, 11, 12
+other	unsupervised word alignment component	2, 15, 16, 17, 18
+lr	parallel corpus	3, 4, 5
+other	source dependency parse	3, 9, 10, 11
+other	target sentence	3, 14, 15
+other	dependency treelet translation pairs	3, 18, 19, 20, 21
+model	tree-based ordering model	3, 26, 27, 28
+tech	decoder	4, 5
+model	tree-based models	4, 11, 12
+model	SMT models	4, 17, 18
+tech	phrasal SMT	4, 28, 29
+tech	parser	4, 37

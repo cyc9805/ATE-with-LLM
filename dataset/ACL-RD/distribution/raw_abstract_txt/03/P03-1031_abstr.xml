@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P03-1031">
+  <Title>Corpus-based Discourse Understanding in Spoken Dialogue Systems</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper concerns the discourse understanding process in spoken dialogue systems.</S>
+    <S>This process enables the system to understand user utterances based on the context of a dialogue.</S>
+    <S>Since multiple candidates for the understanding result can be obtained for a user utterance due to the ambiguity of speech understanding, it is not appropriate to decide on a single understanding result after each user utterance.</S>
+    <S>By holding multiple candidates for understanding results and resolving the ambiguity as the dialogue progresses, the discourse understanding accuracy can be improved.</S>
+    <S>This paper proposes a method for resolving this ambiguity based on statistical information obtained from dialogue corpora.</S>
+    <S>Unlike conventional methods that use hand-crafted rules, the proposed method enables easy design of the discourse understanding process.</S>
+    <S>Experiment results have shown that a system that exploits the proposed method performs sufficiently and that holding multiple candidates for understanding results is effective.</S>
+  </Section></Paper>

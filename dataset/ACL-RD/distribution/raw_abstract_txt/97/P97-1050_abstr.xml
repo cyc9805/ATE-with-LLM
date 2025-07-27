@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1050">
+  <Title>Efficient Construction of Underspecified Semantics under Massive Ambiguity</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We investigate the problem of determining a compact underspecified semantical representation for sentences that may be highly ambiguous.</S>
+    <S>Due to combinatorial explosion, the naive method of building semantics for the different syntactic readings independently is prohibitive.</S>
+    <S>We present a method that takes as input a syntactic parse forest with associated constraint-based semantic construction rules and directly builds a packed semantic structure.</S>
+    <S>The algorithm is fully implemented and runs in O(n4log(n)) in sentence length, if the grammar meets some reasonable 'normality' restrictions.</S>
+  </Section></Paper>

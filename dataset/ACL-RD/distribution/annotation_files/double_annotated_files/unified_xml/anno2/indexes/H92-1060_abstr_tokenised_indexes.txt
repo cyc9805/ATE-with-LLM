@@ -1,0 +1,20 @@
+tool	MIT ATIS ( Air Travel Information Service ) system	1, 8, 9, 10, 11, 12, 13, 14, 15, 16
+tech	full linguistic analysis	1, 27, 28, 29
+other	robust parsing capability	2, 2, 3, 4
+other	full linguistic analysis component	2, 18, 19, 20, 21
+tech	Robust parsing	3, 1, 2
+tech	full analysis	3, 8, 9
+tech	parsing	3, 22
+other	phrases	3, 26
+other	clauses	3, 28
+model	semantic frame	3, 40, 41
+other	meaning	3, 45
+other	sentence	3, 48
+tech	robust parsing mechanism	4, 10, 11, 12
+other	sentences	4, 26
+other	October '91 dry-run test set	4, 29, 30, 31, 32, 33
+tech	robust parser	5, 6, 7
+other	sentences	5, 23
+lr	grammar	5, 29
+other	February '92 test sentences	6, 13, 14, 15, 16
+other	evaluation methodology	6, 26, 27

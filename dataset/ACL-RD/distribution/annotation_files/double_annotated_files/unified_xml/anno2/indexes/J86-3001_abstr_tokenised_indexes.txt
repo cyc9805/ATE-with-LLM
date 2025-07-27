@@ -1,0 +1,53 @@
+other	discourse structure	1, 10, 11
+other	purpose	1, 17
+tech	processing	1, 19
+other	discourse	1, 21
+other	discourse structure	2, 5, 6
+other	utterances	2, 22
+other	linguistic structure	2, 26, 27
+other	purposes	2, 33
+other	intentional structure	2, 37, 38
+other	attention	2, 47
+other	attentional state	2, 51, 52
+other	linguistic structure	3, 2, 3
+other	segments	3, 6
+other	discourse	3, 9
+other	utterances	3, 13
+other	intentional structure	4, 2, 3
+other	discourse-relevant purposes	4, 6, 7
+other	linguistic segments	4, 14, 15
+other	attentional state	5, 2, 3
+other	attention	5, 11
+other	participants	5, 14
+other	discourse	5, 17
+other	attentional state	6, 2, 3
+other	discourse	6, 24
+other	discourse phenomena	7, 15, 16
+other	cue phrases	7, 18, 19
+other	referring expressions	7, 21, 22
+other	interruptions	7, 25
+other	attention	8, 4
+other	intention	8, 6
+other	utterances	8, 11
+other	discourses	8, 22
+other	discourse	9, 4
+other	cue phrases	9, 14, 15
+other	referring expressions	9, 17, 18
+other	interruptions	9, 21
+tech	processing	10, 9
+other	utterances	10, 11
+other	discourse	10, 14
+tech	Discourse processing	11, 1, 2
+other	utterances	11, 7
+other	discourse	11, 10
+other	segments	11, 13
+other	intentions	11, 17
+other	discourse	11, 21
+other	intentions	11, 26
+other	discourse	11, 31
+other	attentional state	11, 40, 41
+other	recognition tasks	12, 7, 8
+other	information	12, 12
+other	discourse	12, 15
+other	participants' knowledge	12, 19, 20
+other	domain	12, 23

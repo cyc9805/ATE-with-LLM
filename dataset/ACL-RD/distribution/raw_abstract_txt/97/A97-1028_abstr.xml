@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1028">
+  <Title>A Statistical Profile of the Named Entity Task</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper we present a statistical profile of the Named Entity task, a specific information extraction task for which corpora in several languages are available.</S>
+    <S>Using the results of the statistical analysis, we propose an algorithm for lower bound estimation for Named Entity corpora and discuss the significance of the cross-lingual comparisons provided by the analysis.</S>
+  </Section></Paper>

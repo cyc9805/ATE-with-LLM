@@ -1,0 +1,8 @@
+tech	pronominal anaphora resolution module	1, 8, 9, 10, 11
+tool	Lucy	1, 13
+tech	English understanding system	1, 17, 18, 19
+tech	module	2, 5
+tech	anaphora resolution	2, 19, 20
+other	architecture	3, 7
+tech	modules	3, 18
+other	candidate antecedents	3, 24, 25

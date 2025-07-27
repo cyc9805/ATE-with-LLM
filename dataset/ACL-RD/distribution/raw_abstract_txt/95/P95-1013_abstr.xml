@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P95-1013">
+  <Title>Compilation of HPSG to TAG</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present an implemented compilation algorithm that translates HPSG into lexicalized feature-based TAG, relating concepts of the two theories.</S>
+    <S>While HPSG has a more elaborated principle-based theory of possible phrase structures, TAG provides the means to represent lexicalized structures more explicitly.</S>
+    <S>Our objectives are met by giving clear definitions that determine the projection of structures from the lexicon, and identify maximal projections, auxiliary trees and foot nodes.</S>
+  </Section></Paper>

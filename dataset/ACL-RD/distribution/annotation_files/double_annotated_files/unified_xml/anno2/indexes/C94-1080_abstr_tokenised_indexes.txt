@@ -1,0 +1,19 @@
+other	behavioral specification	1, 2, 3
+model	object-oriented grammar model	1, 6, 7, 8
+model	model	2, 2
+tech	full lexicalization	2, 6, 7
+tech	head-orientation	2, 9
+model	valency constraints	2, 11, 12
+other	dependency relations	2, 14, 15
+other	inheritance	2, 17
+other	non-redundant lexicon specification	2, 22, 23, 24
+tech	concurrency of computation	2, 27, 28, 29
+model	computation model	3, 2, 3
+tech	actor paradigm	3, 7, 8
+tech	concurrency	3, 11
+tech	asynchronous message passing	3, 14, 15, 16
+other	actors	3, 18
+lr	lexically distributed grammar	4, 16, 17, 18
+tech	parser	4, 22
+other	event type networks	4, 29, 30, 31
+other	event networks	4, 33, 34

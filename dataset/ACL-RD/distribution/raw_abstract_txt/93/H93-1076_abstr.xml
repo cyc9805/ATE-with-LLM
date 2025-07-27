@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H93-1076">
+  <Title>Speech and Text-Image Processing in Documents</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>Two themes have evolved in speech and text image processing work at Xerox PARC that expand and redefine the role of recognition technology in document-oriented applications.</S>
+    <S>One is the development of systems that provide functionality similar to that of text processors but operate directly on audio and scanned image data.</S>
+    <S>A second, related theme is the use of speech and text-image recognition to retrieve arbitrary, user-specified information from documents with signal content.</S>
+    <S>This paper discusses three research initiatives at PARC that exemplify these themes: a text-image editor\[1\], a wordspotter for voice editing and indexing\[12\], and a decoding framework for scanned-document content retrieval\[4\].</S>
+    <S>The discussion focuses on key concepts embodied in the research that enable novel signal-based document processing functionality.</S>
+  </Section></Paper>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1015">
+  <Title>Probing the lexicon in evaluating commercial MT systems</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In the past the evaluation of machine translation systems has focused on single system evaluations because there were only few systems available.</S>
+    <S>But now there are several commercial systems for the same language pair.</S>
+    <S>This requires new methods of comparative evaluation.</S>
+    <S>In the paper we propose a black-box method for comparing the lexical coverage of MT systems.</S>
+    <S>The method is based on lists of words from different frequency classes.</S>
+    <S>It is shown how these word lists can be compiled and used for testing.</S>
+    <S>We also present the results of using our method on 6 MT systems that translate between English and German.</S>
+  </Section></Paper>

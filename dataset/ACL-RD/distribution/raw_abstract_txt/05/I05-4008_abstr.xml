@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="I05-4008">
+  <Title>Taiwan Child Language Corpus: Data Collection and Annotation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Taiwan Child Language Corpus contains scripts transcribed from about 330 hours of recordings of fourteen young children from Southern Min Chinese speaking families in Taiwan.</S>
+    <S>The format of the corpus adopts the Child Language Data Exchange System (CHILDES).</S>
+    <S>The size of the corpus is about 1.6 million words.</S>
+    <S>In this paper, we describe data collection, transcription, word segmentation, and part-of-speech annotation of this corpus.</S>
+    <S>Applications of the corpus are also discussed.</S>
+  </Section></Paper>

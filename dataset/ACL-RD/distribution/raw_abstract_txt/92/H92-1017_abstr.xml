@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H92-1017">
+  <Title>Recent Improvements and Benchmark Results for Paramax ATIS System</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>This paper describes three relatively domain-independent capabilities recently added to the Paramax spoken language understanding system: non-monotonic reasoning, implicit reference resolution, and database query paraphrase.</S>
+    <S>In addition, we discuss the results of the February 1992 ATIS benchmark tests.</S>
+    <S>We describe a variation on the standard evaluation metric which provides a more tightly controlled measure of progress.</S>
+    <S>Finally, we briefly describe an experiment which we have done in extending the n-best speech/language integration architecture to improving OCR accuracy.</S>
+  </Section></Paper>

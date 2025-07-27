@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P95-1053">
+  <Title>Conciseness through Aggregation in Text Generation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Aggregating different pieces of similar information is necessary to generate concise and easy to understand reports in technical domains.</S>
+    <S>This paper presents a general algorithm that combines similar messages in order to generate one or more coherent sentences for them.</S>
+    <S>The process is not as trivial as might be expected.</S>
+    <S>Problems encountered are briefly described.</S>
+  </Section></Paper>

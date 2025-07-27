@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C92-2068">
+  <Title>Quasi-Destructive Graph Unification with Structure-Sharing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Graph unification remains the most expensive part of unification-based grammar parsing.</S>
+    <S>We focus on one speed-up element in the design of unification algorithms: avoidance of copying of unmodified subgraphs.</S>
+    <S>We propose a method of attaining such a design through a method of structure-sharing which avoids log(d) overheads often associated with structure-sharing of graphs without any use of costly dependency pointers.</S>
+    <S>The proposed scheme eliminates redundant copying while maintaining the quasi-destructive scheme's ability to avoid over copying and early copying combined with its ability to handle cyclic structures without algorithmic additions.</S>
+  </Section></Paper>

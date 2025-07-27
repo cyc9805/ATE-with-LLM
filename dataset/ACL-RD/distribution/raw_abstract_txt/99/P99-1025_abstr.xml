@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P99-1025">
+  <Title>Construct Algebra: Analytical Dialog Management</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper we describe a systematic approach for creating a dialog management system based on a Construct Algebra, a collection of relations and operations on a task representation.</S>
+    <S>These relations and operations are analytical components for building higher level abstractions called dialog motivators.</S>
+    <S>The dialog manager, consisting of a collection of dialog motivators, is entirely built using the Construct Algebra.</S>
+  </Section></Paper>

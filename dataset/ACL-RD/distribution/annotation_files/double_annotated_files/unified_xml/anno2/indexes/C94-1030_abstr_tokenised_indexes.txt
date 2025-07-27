@@ -1,0 +1,15 @@
+tech	optical character recognition	1, 2, 3, 4
+tech	continuous speech recognition	1, 6, 7, 8
+other	natural language	1, 11, 12
+other	error characters	1, 20, 21
+other	characters	2, 13
+other	Japanese bunsetsu	2, 22, 23
+other	English word	2, 26, 27
+tech	m-th order Markov chain model	2, 41, 42, 43, 44, 45
+other	Japanese kanji-kana characters	2, 47, 48, 49
+other	English alphabets	2, 51, 52
+measure(ment)	Markov probability	2, 56, 57
+other	syllables	2, 63
+other	kanji-kana characters	2, 65, 66
+other	Japanese bunsetsu	3, 25, 26
+other	English words	3, 28, 29

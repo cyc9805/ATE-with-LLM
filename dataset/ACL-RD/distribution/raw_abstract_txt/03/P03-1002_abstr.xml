@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P03-1002">
+  <Title>Using Predicate-Argument Structures for Information Extraction</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper we present a novel, customizable IE paradigm that takes advantage of predicate-argument structures.</S>
+    <S>We also introduce a new way of automatically identifying predicate argument structures, which is central to our IE paradigm.</S>
+    <S>It is based on: (1) an extended set of features; and (2) inductive decision tree learning.</S>
+    <S>The experimental results prove our claim that accurate predicate-argument structures enable high quality IE results.</S>
+  </Section></Paper>

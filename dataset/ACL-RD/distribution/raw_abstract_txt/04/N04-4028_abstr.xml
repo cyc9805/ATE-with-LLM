@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N04-4028">
+  <Title>Confidence Estimation for Information Extraction</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Information extraction techniques automatically create structured databases from unstructured data sources, such as the Web or newswire documents.</S>
+    <S>Despite the successes of these systems, accuracy will always be imperfect.</S>
+    <S>For many reasons, it is highly desirable to accurately estimate the confidence the system has in the correctness of each extracted field.</S>
+    <S>The information extraction system we evaluate is based on a linear-chain conditional random field (CRF), a probabilistic model which has performed well on information extraction tasks because of its ability to capture arbitrary, overlapping features of the input in a Markov model.</S>
+    <S>We implement several techniques to estimate the confidence of both extracted fields and entire multi-field records, obtaining an average precision of 98% for retrieving correct fields and 87% for multi-field records.</S>
+  </Section></Paper>

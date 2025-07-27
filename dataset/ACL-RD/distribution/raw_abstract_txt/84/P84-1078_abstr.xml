@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P84-1078">
+  <Title>Controlling Lexical Substitution in Computer Text Generation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This report describes Paul, a computer text generation system designed to create cohesive text through the use of lexical substitutions.</S>
+    <S>Specifically, this system is designed to deterministically choose between pronominalization, superordinate substitution, and definite noun phrase reiteration.</S>
+    <S>The system identifies a strength of antecedence recovery for each of the lexical substitutions, and matches them against the strength of potential antecedence of each element in the text to select the proper substitutions for these elements.</S>
+  </Section></Paper>

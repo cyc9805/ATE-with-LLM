@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P06-3007">
+  <Title>Investigations on Event-Based Summarization</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We investigate independent and relevant event-based extractive mutli-document summarization approaches.</S>
+    <S>In this paper, events are defined as event terms and associated event elements.</S>
+    <S>With independent approach, we identify important contents by frequency of events.</S>
+    <S>With relevant approach, we identify important contents by PageRank algorithm on the event map constructed from documents.</S>
+    <S>Experimental results are encouraging.</S>
+  </Section></Paper>

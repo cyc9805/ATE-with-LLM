@@ -1,0 +1,7 @@
+tech	method of interactively visualizing and directing the process of translating a sentence	1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+model	model of syntax-based statistical machine translation ( MT )	2, 9, 10, 11, 12, 13, 14, 15, 16, 17
+model	model's	2, 22
+tech	MT systems	2, 33, 34
+tech	visualization method	3, 3, 4
+tech	MT system	3, 17, 18
+tech	syntax-based decoder	4, 15, 16

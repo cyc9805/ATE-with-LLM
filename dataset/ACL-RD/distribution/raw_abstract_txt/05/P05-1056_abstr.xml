@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1056">
+  <Title>Using Conditional Random Fields For Sentence Boundary Detection In Speech</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Sentence boundary detection in speech is important for enriching speech recognition output, making it easier for humans to read and downstream modules to process.</S>
+    <S>In previous work, we have developed hidden Markov model (HMM) and maximum entropy (Maxent) classifiers that integrate textual and prosodic knowledge sources for detecting sentence boundaries.</S>
+    <S>In this paper, we evaluate the use of a conditional random field (CRF) for this task and relate results with this model to our prior work.</S>
+    <S>We evaluate across two corpora (conversational telephone speech and broadcast news speech) on both human transcriptions and speech recognition output.</S>
+    <S>In general, our CRF model yields a lower error rate than the HMM and Maxent models on the NIST sentence boundary detection task in speech, although it is interesting to note that the best results are achieved by three-way voting among the classifiers.</S>
+    <S>This probably occurs because each model has different strengths and weaknesses for modeling the knowledge sources.</S>
+  </Section></Paper>

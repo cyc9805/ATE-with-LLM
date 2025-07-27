@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C80-1073">
+  <Title>ATNS USED AS A PROCEDURAL DIALOG MODEL</Title>
+  <Section>
+    <SectionTitle>Summary</SectionTitle>
+    <S>An attempt has been made to use an Augmented Transition Network as a procedural dialog model.</S>
+    <S>The development of such a model appears to be important in several respects:</S>
+    <S>as a device to represent and to use different dialog schemata proposed in empirical conversation analysis;</S>
+    <S>as a device to represent and to use models of verbal interaction;</S>
+    <S>as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs.</S>
+    <S>A standard ATN should be further developed in order to account for the verbal interactions of task-oriented dialogs.</S>
+  </Section></Paper>

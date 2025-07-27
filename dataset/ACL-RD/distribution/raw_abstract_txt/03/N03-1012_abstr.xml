@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N03-1012">
+  <Title>Semantic Coherence Scoring Using an Ontology</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper we present ONTOSCORE, a system for scoring sets of concepts on the basis of an ontology.</S>
+    <S>We apply our system to the task of scoring alternative speech recognition hypotheses (SRH) in terms of their semantic coherence.</S>
+    <S>We conducted an annotation experiment and showed that human annotators can reliably differentiate between semantically coherent and incoherent speech recognition hypotheses.</S>
+    <S>An evaluation of our system against the annotated data shows that, it successfully classifies 73.2% in a German corpus of 2.284 SRHs as either coherent or incoherent (given a baseline of 54.55%).</S>
+  </Section></Paper>

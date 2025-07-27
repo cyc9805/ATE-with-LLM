@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H90-1060">
+  <Title>A New Paradigm for Speaker-Independent Training and Speaker Adaptation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper reports on two contributions to large vocabulary continuous speech recognition.</S>
+    <S>First, we present a new paradigm for speaker-independent (SI) training of hidden Markov models (HMM), which uses a large amount of speech from a few speakers instead of the traditional practice of using a little speech from many speakers.</S>
+    <S>In addition, combination of the training speakers is done by averaging the statistics of independently trained models rather than the usual pooling of all the speech data from many speakers prior to training.</S>
+    <S>With only 12 training speakers for SI recognition, we achieved a 7.5% word error rate on a standard grammar and test set from the DARPA Resource Management corpus.</S>
+    <S>This performance is comparable to our best condition for this test suite, using 109 training speakers.</S>
+    <S>Second, we show a significant improvement for speaker adaptation (SA) using the new SI corpus and a small amount of speech from the new (target) speaker.</S>
+    <S>A probabilistic spectral mapping is estimated independently for each training (reference) speaker and the target speaker.</S>
+    <S>Each reference model is transformed to the space of the target speaker and combined by averaging.</S>
+    <S>Using only 40 utterances from the target speaker for adaptation, the error rate dropped to 4.1% --- a 45% reduction in error compared to the SI result.</S>
+  </Section></Paper>

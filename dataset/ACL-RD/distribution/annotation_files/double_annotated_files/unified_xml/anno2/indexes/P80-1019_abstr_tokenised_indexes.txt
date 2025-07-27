@@ -1,0 +1,11 @@
+tech	natural language interfaces	1, 2, 3, 4
+other	literal meaning	1, 11, 12
+tech	decoding	2, 3
+tech	natural language interfaces	2, 14, 15, 16
+other	non-literal aspects of communication	2, 28, 29, 30, 31
+tech	robust communication procedures	2, 35, 36, 37
+other	human performance	3, 13, 14
+other	non-literal aspects of communication	3, 25, 26, 27, 28
+other	human communication needs	3, 56, 57, 58
+tech	interfaces	4, 4
+tech	natural language interfaces	4, 21, 22, 23

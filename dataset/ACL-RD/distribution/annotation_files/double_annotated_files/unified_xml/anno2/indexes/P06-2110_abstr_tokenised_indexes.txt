@@ -1,0 +1,13 @@
+other	similarity	1, 7
+other	words	1, 9
+model	word vectors	1, 17, 18
+tech	vector space model	1, 21, 22, 23
+model	word vectors	2, 9, 10
+tech	LSA-based , cooccurrence-based and dictionary-based methods	2, 16, 17, 18, 19, 20, 21
+other	similarity	2, 35
+other	taxonomic similarity	2, 41, 42
+other	associative similarity	2, 44, 45
+model	dictionary-based word vectors	3, 9, 10, 11
+other	taxonomic similarity	3, 14, 15
+model	LSA-based and the cooccurrence-based word vectors	3, 19, 20, 21, 22, 23, 24
+other	associative similarity	3, 27, 28

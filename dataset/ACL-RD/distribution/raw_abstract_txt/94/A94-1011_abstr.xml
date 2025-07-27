@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A94-1011">
+  <Title>Exploiting Sophisticated Representations for Document Retrieval</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The use of NLP techniques for document classification has not produced significant improvements in performance within the standard term weighting statistical assignment paradigm (Fagan 1987; Lewis, 1992bc; Buckley, 1993).</S>
+    <S>This perplexing fact needs both an explanation and a solution if the power of recently developed NLP techniques are to be successfully applied in IR.</S>
+    <S>A novel method for adding linguistic annotation to corpora is presented which involves using a statistical POS tagger in conjunction with unsupervised structure finding methods to derive notions of noun group, verb group, and so on which is inherently extensible to more sophisticated annotation, and does not require a pre-tagged corpus to fit.</S>
+    <S>One of the distinguishing features of a more linguistically sophisticated representation of documents over a word set based representation of them is that linguistically sophisticated units are more frequently individually good predictors of document descriptors (keywords) than single words are.</S>
+    <S>This leads us to consider the assignment of descriptors from individual phrases rather than from the weighted sum of a word set representation.</S>
+    <S>We investigate how sets of individually high-precision rules can result in a low precision when used together, and develop some theory about these probably-correct rules.</S>
+    <S>We then proceed to repeat results which show that standard statistical models are not particularly suitable for exploiting linguistically sophisticated representations, and show that a statistically fitted rule-based model provides significantly improved performance for sophisticated representations.</S>
+    <S>It therefore shows that statistical systems can exploit sophisticated representations of documents, and lends some support to the use of more linguistically sophisticated representations for document classification.</S>
+    <S>This paper reports on work done for the LRE project SmTA double check, which is creating a PC based tool to be used in the technical abstracting industry.</S>
+  </Section></Paper>

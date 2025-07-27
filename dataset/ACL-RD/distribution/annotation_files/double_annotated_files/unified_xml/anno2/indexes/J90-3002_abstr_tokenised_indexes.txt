@@ -1,0 +1,11 @@
+lr	dictionary	1, 11
+other	lexicologists	2, 16
+lr	dictionary	2, 22
+other	linguistic theory	2, 28, 29
+lr	lexicons	3, 5
+lr	grammars	3, 7
+tech	natural language processing	3, 11, 12, 13
+lr	linguistic databases	3, 31, 32
+model	coherence rules	4, 15, 16
+other	lexical entries	4, 27, 28
+tech	interface	5, 3

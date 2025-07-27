@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N03-2006">
+  <Title>Adaptation Using Out-of-Domain Corpus within EBMT</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In order to boost the translation quality of EBMT based on a small-sized bilingual corpus, we use an out-of-domain bilingual corpus and, in addition, the language model of an in-domain monolingual corpus.</S>
+    <S>We conducted experiments with an EBMT system.</S>
+    <S>The two evaluation measures of the BLEU score and the NIST score demonstrated the effect of using an out-of-domain bilingual corpus and the possibility of using the language model.</S>
+  </Section></Paper>

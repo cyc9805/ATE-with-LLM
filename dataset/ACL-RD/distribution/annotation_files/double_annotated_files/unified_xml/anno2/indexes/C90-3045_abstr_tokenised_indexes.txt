@@ -1,0 +1,18 @@
+other	tree-adjoining grammars ( TAG )	1, 5, 6, 7, 8, 9
+other	TAGs	1, 17
+other	syntax	1, 23
+tech	semantic interpretation	1, 32, 33
+tech	automatic translation	1, 35, 36
+other	natural language	1, 38, 39
+other	TAGs	2, 6
+other	synchronous TAGs	2, 9, 10
+other	languages	2, 16
+other	formalism's	3, 2
+other	expressions	3, 8
+other	natural languages	3, 10, 11
+other	semantics	3, 15
+other	logical form language	3, 19, 20, 21
+other	natural language	3, 29, 30
+other	TAGs	3, 40
+other	syntax	3, 48
+other	synchronous TAGs	4, 6, 7

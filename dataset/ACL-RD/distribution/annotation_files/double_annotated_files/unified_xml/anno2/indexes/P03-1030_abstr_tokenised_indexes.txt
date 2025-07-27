@@ -1,0 +1,11 @@
+tech	Link detection	1, 1, 2
+tech	Topic Detection and Tracking tasks	1, 12, 13, 14, 15, 16
+tech	new event detection	1, 18, 19, 20
+tech	story link detection	2, 6, 7, 8
+tech	new event detection	2, 10, 11, 12
+tech	information retrieval task	2, 14, 15, 16
+measure(ment)	precision	2, 23
+measure(ment)	recall	2, 25
+tech	part of speech tagging	3, 16, 17, 18, 19
+measure(ment)	similarity measures	3, 22, 23
+lr	stop lists	3, 26, 27

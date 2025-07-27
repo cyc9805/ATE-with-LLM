@@ -1,0 +1,13 @@
+tool	MIT ATIS system	1, 8, 9, 10
+tool	SUMMIT recognizer	1, 24, 25
+tech	context-dependent phonetic modelling	2, 3, 4, 5
+model	bigram language model	2, 11, 12, 13
+tech	probabilistic LR parser	2, 18, 19, 20
+lr	lexicon	2, 27
+lr	training set	3, 8, 9
+measure(ment)	speech recognition word and sentence error rates	3, 17, 18, 19, 20, 21, 22, 23
+other	test set	3, 40, 41
+measure(ment)	weighted error	4, 2, 3
+tech	spoken language system	4, 7, 8, 9
+other	test set	4, 13, 14
+other	benchmark evaluation	5, 10, 11

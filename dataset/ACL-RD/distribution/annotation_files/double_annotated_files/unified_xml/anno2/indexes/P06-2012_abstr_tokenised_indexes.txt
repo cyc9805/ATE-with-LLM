@@ -1,0 +1,14 @@
+tech	unsupervised learning approach	1, 5, 6, 7
+other	relations	1, 11
+other	named entities	1, 13, 14
+other	lexical and syntactic features	1, 19, 20, 21, 22
+other	contexts	1, 25
+other	eigenvectors	2, 5
+other	adjacency graph's Laplacian	2, 8, 9, 10
+other	submanifold	2, 14
+other	high dimensionality space	2, 19, 20, 21
+tech	cluster number estimation	2, 25, 26, 27
+other	eigenvectors	2, 30
+lr-prod	ACE corpora	3, 4, 5
+tech	spectral clustering based approach	3, 9, 10, 11, 12
+tech	clustering methods	3, 16, 17

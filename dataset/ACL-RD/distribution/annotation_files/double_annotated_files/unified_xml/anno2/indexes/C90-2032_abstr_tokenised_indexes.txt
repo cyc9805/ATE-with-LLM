@@ -1,0 +1,11 @@
+tech	document oriented preference sets( DoPS )	1, 4, 5, 6, 7, 8, 9
+tech	disambiguation	1, 12
+other	dependency structure	1, 15, 16
+other	sentences	1, 18
+tech	DoPS system	2, 2, 3
+model	preference knowledge	2, 5, 6
+other	Sentence ambiguities	3, 1, 2
+model	domain targeted preference knowledge	3, 8, 9, 10, 11
+lr	knowledgebases	3, 16
+other	dependency structures	4, 12, 13
+other	Japanese patent claim sentences	4, 15, 16, 17, 18

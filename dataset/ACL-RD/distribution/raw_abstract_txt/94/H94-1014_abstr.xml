@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H94-1014">
+  <Title>Language Modeling with Sentence-Level Mixtures</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>This paper introduces a simple mixture language model that attempts to capture long distance constraints in a sentence or paragraph.</S>
+    <S>The model is an m-component mixture of trigram models.</S>
+    <S>The models were constructed using a 5K vocabulary and trained using a 76 million word Wall Street Journal text corpus.</S>
+    <S>Using the BU recognition system, experiments show a 7% improvement in recognition accuracy with the mixture trigram models as compared to using a trigram model.</S>
+  </Section></Paper>

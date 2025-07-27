@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C92-1052">
+  <Title>Temporal Structure of Discourse</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper discourse segments are defined and a method for discourse segmentation primarily based on abduction of temporal relations between segments is proposed.</S>
+    <S>This method is precise and computationally feasible and is supported by previous work in the area of temporal anaphora resolution.</S>
+  </Section></Paper>

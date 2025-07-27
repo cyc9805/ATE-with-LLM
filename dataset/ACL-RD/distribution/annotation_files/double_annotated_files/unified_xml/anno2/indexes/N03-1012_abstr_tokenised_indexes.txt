@@ -1,0 +1,12 @@
+tool	ONTOSCORE	1, 6
+other	concepts	1, 14
+tech	ontology	1, 20
+other	speech recognition hypotheses ( SRH )	2, 11, 12, 13, 14, 15, 16
+other	semantic coherence	2, 21, 22
+other	annotation experiment	3, 4, 5
+other	human annotators	3, 9, 10
+other	speech recognition hypotheses	3, 19, 20, 21
+lr	annotated data	4, 8, 9
+lr	German corpus	4, 20, 21
+other	SRHs	4, 25
+measure(ment)	baseline	4, 33

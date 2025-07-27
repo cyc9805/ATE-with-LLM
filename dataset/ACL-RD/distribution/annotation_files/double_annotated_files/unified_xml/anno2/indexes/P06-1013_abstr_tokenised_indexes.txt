@@ -1,0 +1,10 @@
+tech	Combination methods	1, 1, 2
+tech	system combination	2, 7, 8
+tech	unsupervised WSD	2, 10, 11
+tech	voting- and arbiter-based combination strategies	3, 4, 5, 6, 7, 8
+tech	unsupervised WSD systems	3, 14, 15, 16
+tech	combination methods	4, 2, 3
+other	senses	4, 7
+other	raw text	4, 13, 14
+lr-prod	SemCor and Senseval-3 data sets	5, 4, 5, 6, 7, 8
+other	ensembles	5, 12

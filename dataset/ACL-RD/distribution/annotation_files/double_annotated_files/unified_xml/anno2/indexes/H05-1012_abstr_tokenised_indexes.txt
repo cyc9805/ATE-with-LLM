@@ -1,0 +1,11 @@
+tech	maximum entropy word alignment algorithm	1, 5, 6, 7, 8, 9
+other	Arabic-English	1, 11
+lr	supervised training data	1, 14, 15, 16
+lr	training material	2, 9, 10
+tech	machine translation	2, 14, 15
+tech	supervised and unsupervised methods	2, 21, 22, 23, 24
+model	probabilistic model	3, 2, 3
+tech	alignment	3, 7
+tech	traditional word alignment techniques	4, 4, 5, 6, 7
+measure(ment)	machine translation tests	4, 16, 17, 18
+measure(ment)	human annotation performance	5, 8, 9, 10

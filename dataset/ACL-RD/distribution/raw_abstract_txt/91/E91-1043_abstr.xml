@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E91-1043">
+  <Title>A BIDIRECTIONAL MODEL FOR NATURAL LANGUAGE PROCESSING</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>In this paper I will argue for a model of grammatical processing that is based on uniform processing and knowledge sources.</S>
+    <S>The main feature of this model is to view parsing and generation as two strongly interleaved tasks performed by a single parametrized deduction process.</S>
+    <S>It will be shown that this view supports flexible and efficient natural language processing.</S>
+  </Section></Paper>

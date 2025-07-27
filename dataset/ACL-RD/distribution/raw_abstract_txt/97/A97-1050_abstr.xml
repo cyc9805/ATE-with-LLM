@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1050">
+  <Title>Semi-Automatic Acquisition of Domain-Specific Translation Lexicons</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We investigate the utility of an algorithm for translation lexicon acquisition (SABLE), used previously on a very large corpus to acquire general translation lexicons, when that algorithm is applied to a much smaller corpus to produce candidates for domain-specific translation lexicons.</S>
+  </Section></Paper>

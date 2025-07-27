@@ -1,0 +1,16 @@
+tech	Manual acquisition	1, 1, 2
+model	semantic constraints	1, 4, 5
+other	broad domains	1, 7, 8
+model	co-occurrence patterns	2, 11, 12
+lr	large corpus	2, 15, 16
+model	semantic constraints	3, 9, 10
+other	anaphora references	3, 17, 18
+other	syntactic ambiguities	3, 20, 21
+other	output	4, 10
+other	linguistic tools	4, 13, 14
+other	references	5, 7
+other	pronoun	5, 10
+lr	corpus	5, 20
+model	cooccurrence statistics	6, 14, 15
+model	semantic constraints	6, 19, 20
+other	disambiguation tool	6, 29, 30

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-2151">
+  <Title>Non-constituent coordination: Theory and practice</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Despite the large amount of theoretical work done on non-constituent coordination during the last two decades, many computational systems still treat coordination using adapted parsing strategies, in a similar fashion to the SYSCONJ system developed for ATNs.</S>
+    <S>This paper reviews the theoretical literature, and shows why many of the theoretical accounts actually have worse coverage than accounts based on processing.</S>
+    <S>Finally, it shows how processing accounts can be described formally and declaratively in terms of Dynamic Grammars.</S>
+  </Section></Paper>

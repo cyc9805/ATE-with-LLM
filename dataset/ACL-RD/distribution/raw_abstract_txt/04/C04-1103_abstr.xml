@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1103">
+  <Title>Direct Orthographical Mapping for Machine Transliteration</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Machine transliteration/back-transliteration plays an important role in many multilingual speech and language applications.</S>
+    <S>In this paper, a novel framework for machine transliteration/back transliteration that allows us to carry out direct orthographical mapping (DOM) between two different languages is presented.</S>
+    <S>Under this framework, a joint source-channel transliteration model, also called n-gram transliteration model (ngram TM), is further proposed to model the transliteration process.</S>
+    <S>We evaluate the proposed methods through several transliteration/back transliteration experiments for English/Chinese and English/Japanese language pairs.</S>
+    <S>Our study reveals that the proposed method not only reduces an extensive system development effort but also improves the transliteration accuracy significantly.</S>
+  </Section></Paper>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H92-1060">
+  <Title>A Relaxation Method for Understanding Spontaneous Speech Utterances</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>This paper describes an extension to the MIT ATIS (Air Travel Information Service) system, which allows it to answer a question when a full linguistic analysis fails.</S>
+    <S>This robust parsing capability was achieved through minor extensions of pre-existing components already in place for the full linguistic analysis component.</S>
+    <S>Robust parsing is applied only after a full analysis has failed, and it involves the two stages of 1) parsing a set of phrases and clauses, and 2) gluing them together to obtain a single semantic frame encoding the full meaning of the sentence.</S>
+    <S>We have assessed the degree of success of the robust parsing mechanism through a breakdown of the performance of robustly parsed vs. fully parsed sentences on the October '91 dry-run test set.</S>
+    <S>It was clear that the robust parser allowed us to answer many more questions correctly, as over a third of the sentences were not covered by the grammar.</S>
+    <S>We also report here on the performance of the system on the February '92 test sentences, and discuss some issues with regard to the evaluation methodology.</S>
+  </Section></Paper>

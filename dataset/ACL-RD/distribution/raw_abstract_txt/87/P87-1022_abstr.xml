@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P87-1022">
+  <Title>A CENTERING APPROACH TO PRONOUNS</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper we present a formalization of the centering approach to modeling attentional structure in discourse and use it as the basis for an algorithm to track discourse context and bind pronouns.</S>
+    <S>As described in [GJW86], the process of centering attention on entities in the discourse gives rise to the intersentential transitional states of continuing, retaining and shifting.</S>
+    <S>We propose an extension to these states which handles some additional cases of multiple ambiguous pronouns.</S>
+    <S>The algorithm has been implemented in an HPSG natural language system which serves as the interface to a database query application.</S>
+  </Section></Paper>

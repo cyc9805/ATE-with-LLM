@@ -1,0 +1,14 @@
+other	Category Cooccurrence Restrictions ( CCRs )	1, 7, 8, 9, 10, 11, 12
+tech	parsing algorithms	1, 16, 17
+other	CCRs	2, 1
+model	Boolean conditions	2, 3, 4
+other	cooccurrence	2, 7
+model	local trees	2, 11, 12
+other	syntax formalisms	2, 26, 27
+other	CCRs	3, 4
+other	syntactic descriptions	3, 7, 8
+other	context free languages	4, 11, 12, 13
+other	CCR formalism	4, 19, 20
+tech	parser	5, 10
+model	logical well-formedness conditions	5, 16, 17, 18
+model	trees	5, 20

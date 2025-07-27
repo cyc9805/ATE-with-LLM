@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E95-1033">
+  <Title>ParseTalk about Sentence- and Text-Level Anaphora</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We provide a unified account of sentence-level and text-level anaphora within the framework of a dependency-based grammar model.</S>
+    <S>Criteria for anaphora resolution within sentence boundaries rephrase major concepts from GB's binding theory, while those for text-level anaphora incorporate an adapted version of a Grosz-Sidner-style focus model.</S>
+  </Section></Paper>

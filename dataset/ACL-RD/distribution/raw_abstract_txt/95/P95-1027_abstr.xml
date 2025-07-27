@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P95-1027">
+  <Title>A Quantitative Evaluation of Linguistic Tests for the Automatic Prediction of Semantic Markedness</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present a corpus-based study of methods that have been proposed in the linguistics literature for selecting the semantically unmarked term out of a pair of antonymous adjectives.</S>
+    <S>Solutions to this problem are applicable to the more general task of selecting the positive term from the pair.</S>
+    <S>Using automatically collected data, the accuracy and applicability of each method is quantified, and a statistical analysis of the significance of the results is performed.</S>
+    <S>We show that some simple methods are indeed good indicators for the answer to the problem while other proposed methods fail to perform better than would be attributable to chance.</S>
+    <S>In addition, one of the simplest methods, text frequency, dominates all others.</S>
+    <S>We also apply two generic statistical learning methods for combining the indications of the individual methods, and compare their performance to the simple methods.</S>
+    <S>The most sophisticated complex learning method offers a small, but statistically significant, improvement over the original tests.</S>
+  </Section></Paper>

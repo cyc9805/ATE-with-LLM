@@ -1,0 +1,25 @@
+other	computational theory	1, 5, 6
+tech	human plausible reasoning	1, 8, 9, 10
+other	logic	2, 2
+other	theory	2, 5
+other	content-independent formalism	2, 10, 11
+other	logic	3, 2
+other	theory	3, 5
+other	information	3, 9
+other	memory	3, 11
+measure(ment)	certainty	3, 14
+other	conclusions	3, 17
+other	theory	4, 2
+model	dimensionalized space	4, 6, 7
+other	inference types	4, 10, 11
+model	certainty conditions	4, 14, 15
+other	meta-inference types	4, 21, 22
+other	inference	4, 25
+other	knowledge	4, 30
+other	knowledge	4, 34
+other	inference types	5, 15, 16
+other	memory	6, 6
+other	inference types	6, 16, 17
+other	information	6, 22
+other	memory	6, 25
+other	inference types	6, 28, 29

@@ -1,0 +1,8 @@
+lr	spoken language corpus	1, 7, 8, 9
+other	ATIS ( Air Travel Information System ) domain	1, 12, 13, 14, 15, 16, 17, 18, 19
+other	MADCOW ( Multi-site ATIS Data COllection Working group )	2, 9, 10, 11, 12, 13, 14, 15, 16, 17
+other	multi-site data collection paradigm	3, 16, 17, 18, 19
+other	MADCOW	3, 25
+other	utterances	3, 35
+other	spontaneous speech	3, 37, 38
+other	multi-site common evaluation of speech , natural language and spoken language	3, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56

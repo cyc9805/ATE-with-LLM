@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1052">
+  <Title>TGE: Tlinks Generation Environment.</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper describes the enhancements made, within a unification framework, based on typed feature structures, in order to support linking of lexical entries to their translation equivalents.</S>
+    <S>To help this task we have developed an interactive environment: TGE.</S>
+    <S>Several experiments, corresponding to rather closed semantic domains, have been developed in order to generate lexical cross-relations between English and Spanish.</S>
+  </Section></Paper>

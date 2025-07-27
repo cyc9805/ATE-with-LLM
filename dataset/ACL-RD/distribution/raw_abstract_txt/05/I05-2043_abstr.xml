@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="I05-2043">
+  <Title>Trend Survey on Japanese Natural Language Processing Studies over the Last Decade</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Using natural language processing, we carried out a trend survey on Japanese natural language processing studies that have been done over the last ten years.</S>
+    <S>We determined the changes in the number of papers published for each research organization and on each research area as well as the relationship between research organizations and research areas.</S>
+    <S>This paper is useful for both recognizing trends in Japanese NLP and constructing a method of supporting trend surveys using NLP.</S>
+  </Section></Paper>

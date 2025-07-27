@@ -1,0 +1,18 @@
+tech	Statistical machine translation ( SMT )	1, 1, 2, 3, 4, 5, 6
+tech	natural language processing	1, 15, 16, 17
+tech	SMT	2, 22
+tech	rule-based translation systems	2, 27, 28, 29
+tech	translation systems	3, 7, 8
+other	language pairs	3, 11, 12
+other	domains	3, 15
+tech	statistical machine translation	4, 10, 11, 12
+tech	SMT system	5, 16, 17
+other	baseline results	5, 22, 23
+tech	SMT	6, 8
+tool	STTK	8, 1
+tech	statistical machine translation tool kit	8, 4, 5, 6, 7, 8
+tech	translation system	8, 19, 20
+tool	STTK	9, 1
+tech	CMU's SMT system	9, 23, 24, 25
+tech	rule-based and example based machine translation modules	10, 8, 9, 10, 11, 12, 13, 14
+tech	multi engine machine translation system	10, 18, 19, 20, 21, 22

@@ -1,0 +1,12 @@
+other	redundancy elimination problem	1, 8, 9, 10
+model	underspecified semantic representation ( USR )	1, 14, 15, 16, 17, 18, 19
+other	scope ambiguity	1, 22, 23
+model	USR	1, 27
+other	readings	1, 32
+model	underspecified chart representations	2, 5, 6, 7
+other	dominance graphs	2, 12, 13
+model	USRs	2, 21
+lr	large-scale grammars	2, 24, 25
+lr	corpus	3, 7
+other	ambiguity	3, 17
+other	runtime	3, 22

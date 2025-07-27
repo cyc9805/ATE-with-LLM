@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H89-1036">
+  <Title>Lexicalized TAGs, Parsing and Lexicons</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In our approach, each elementary structure is systematically associated with a lexical head.</S>
+    <S>These structures specify extended domains of locality (as compared to a context-free grammar) over which constraints can be stated.</S>
+    <S>These constraints either hold within the elementary structure itself or specify what other structures can be composed with a given elementary structure.</S>
+    <S>The 'grammar' consists of a lexicon where each lexical item is associated with a finite number of structures for which that item is the head.</S>
+    <S>There are no separate grammar rules.</S>
+    <S>There are, of course, 'rules' which tell us how these structures are composed.</S>
+    <S>A grammar of this form will be said to be 'lexicalized'.</S>
+    <S>A 'lexicalized' grammar naturally follows from the extended domain of locality of TAGs.</S>
+    <S>A general parsing strategy for 'lexicalized' grammars is discussed.</S>
+    <S>In the first stage, the parser selects a set of elementary structures associated with the lexical items in the input sentence, and in the second stage the sentence is parsed with respect to this set.</S>
+    <S>An Earley-type parser for TAGs has been has been developed.</S>
+    <S>It can be adapted to take advantage of the two steps parsing strategy.</S>
+    <S>The system parses unification formalisms that have a CFG skeleton and that have a TAG skeleton.</S>
+    <S>Along with the development of an Earley-type parser for TAGs, lexicons for English are under development.</S>
+    <S>A lexicons for French is also being developed.</S>
+    <S>Subsets of these lexicons are being incrementally interfaced to the parser.</S>
+    <S>We finally show how idioms are represented in lexicalized TAGs.</S>
+    <S>We assign them regular syntactic structures while representing them semantically as one entry.</S>
+    <S>We finally show how they can be parsed by a parsing strategy as mentioned above.</S>
+  </Section></Paper>

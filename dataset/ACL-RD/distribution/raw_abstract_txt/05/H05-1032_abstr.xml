@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H05-1032">
+  <Title>Bayesian Learning in Text Summarization</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The paper presents a Bayesian model for text summarization, which explicitly encodes and exploits information on how human judgments are distributed over the text.</S>
+    <S>Comparison is made against non Bayesian summarizers, using test data from Japanese news texts.</S>
+    <S>It is found that the Bayesian approach generally leverages performance of a summarizer, at times giving it a significant lead over non-Bayesian models.</S>
+  </Section></Paper>

@@ -1,0 +1,14 @@
+tech	phrase-based statistical machine translation method	1, 5, 6, 7, 8, 9
+other	non-contiguous phrases	1, 13, 14
+other	phrases	1, 19
+other	phrases	2, 6
+lr	word-aligned corpora	2, 9, 10
+model	statistical translation model	3, 2, 3, 4
+other	phrases	3, 11
+tech	training method	3, 17, 18
+tech	maximization	3, 22
+measure(ment)	translation accuracy	3, 24, 25
+measure(ment)	NIST evaluation metric	3, 31, 32, 33
+other	Translations	4, 1
+tech	beam-search decoder	4, 8, 9
+lr	training data	5, 18, 19

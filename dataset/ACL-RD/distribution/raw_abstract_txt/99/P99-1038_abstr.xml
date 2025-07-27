@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P99-1038">
+  <Title>Two Accounts of Scope Availability and Semantic Underspecification</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We propose a formal system for representing the available readings of sentences displaying quantifier scope ambiguity, in which partial scopes may be expressed.</S>
+    <S>We show that using a theory of scope availability based upon the function-argument structure of a sentence allows a deterministic, polynomial time test for the availability of a reading, while solving the same problem within theories based on the well-formedness of sentences in the meaning language has been shown to be NP-hard.</S>
+  </Section></Paper>

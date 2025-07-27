@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1077">
+  <Title>Emergent Parsing and Generation with Generalized</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A new, flexible inference method for Horn logic program is proposed.</S>
+    <S>It is also a drastic generalization of chart Parsing, partial instantiation of clauses in a program roughly corresponding to arcs in a chart.</S>
+    <S>Chart-like parsing and semantic-head-driven generation emerge from this method.</S>
+    <S>With a parsimonious instantiation scheme for ambiguity packing, the parsing complexity reduces to that of standard chart-based algorithms.</S>
+  </Section></Paper>

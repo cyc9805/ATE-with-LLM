@@ -1,0 +1,11 @@
+tech	Interactive Machine Translation	1, 5, 6, 7
+other	document	1, 20
+other	ambiguity	2, 5
+other	linguistic theory	2, 22, 23
+other	erroneous or ambiguous sentence	2, 31, 32, 33, 34
+other	analysis step of the translation process	3, 7, 8, 9, 10, 11, 12
+model	disambiguation scheme	4, 7, 8
+tech	paraphrasing	4, 12
+tech	parser's	4, 15
+other	output	4, 17
+other	ambiguous sentences	5, 5, 6

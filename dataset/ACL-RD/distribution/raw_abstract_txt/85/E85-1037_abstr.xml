@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E85-1037">
+  <Title>A PROBLEM SOLVING APPROACH TO GENERATING TEXT FROM SYSTEMIC GRAMMARS</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>Systemic grammar has been used for AI text generation work in the past, but the implementations have tended be ad hoc or inefficient.</S>
+    <S>This paper presents an approach to systemic text generation where AI problem solving techniques are applied directly to an unadulterated systemic grammar.</S>
+    <S>This approach is made possible by a special relationship between systemic grammar and problem solving: both are organized primarily as choosing from alternatives.</S>
+    <S>The result is simple, efficient text generation firmly based in a linguistic theory.</S>
+  </Section></Paper>

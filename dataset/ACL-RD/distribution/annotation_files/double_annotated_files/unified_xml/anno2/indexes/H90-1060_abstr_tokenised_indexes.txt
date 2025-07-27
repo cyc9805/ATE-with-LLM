@@ -1,0 +1,33 @@
+tech	large vocabulary continuous speech recognition	1, 8, 9, 10, 11, 12
+tech	speaker-independent ( SI ) training	2, 9, 10, 11, 12, 13
+model	hidden Markov models ( HMM )	2, 15, 16, 17, 18, 19, 20
+lr	speech	2, 28
+other	speakers	2, 32
+other	speakers	2, 45
+other	training speakers	3, 7, 8
+model	models	3, 18
+tech	pooling	3, 23
+lr	speech data	3, 27, 28
+other	speakers	3, 31
+tech	training	3, 34
+other	training speakers	4, 4, 5
+tech	SI recognition	4, 7, 8
+measure(ment)	word error rate	4, 15, 16, 17
+lr	grammar	4, 21
+other	test set	4, 23, 24
+lr-prod	DARPA Resource Management corpus	4, 27, 28, 29, 30
+other	test suite	5, 11, 12
+other	training speakers	5, 16, 17
+tech	speaker adaptation ( SA )	6, 9, 10, 11, 12, 13
+lr	SI corpus	6, 17, 18
+lr	speech	6, 24
+other	new ( target ) speaker	6, 27, 28, 29, 30, 31
+model	probabilistic spectral mapping	7, 2, 3, 4
+other	training ( reference ) speaker	7, 10, 11, 12, 13, 14
+other	target speaker	7, 17, 18
+model	reference model	8, 2, 3
+other	target speaker	8, 11, 12
+other	utterances	9, 4
+other	target speaker	9, 7, 8
+tech	adaptation	9, 10
+measure(ment)	error rate	9, 13, 14

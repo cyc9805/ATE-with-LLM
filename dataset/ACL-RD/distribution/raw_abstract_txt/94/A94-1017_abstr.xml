@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A94-1017">
+  <Title>Real-Time Spoken Language Translation Using Associative Processors</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper proposes a model using associative processors (APs) for real-time spoken language translation.</S>
+    <S>Spoken language translation requires (1) an accurate translation and (2) a real-time response.</S>
+    <S>We have already proposed a model, TDMT (Transfer-Driven Machine Translation), that translates a sentence utilizing examples effectively and performs accurate structural disambiguation and target word selection.</S>
+    <S>This paper will concentrate on the second requirement.</S>
+    <S>In TDMT, example-retrieval (ER), i.e., retrieving examples most similar to an input expression, is the most dominant part of the total processing time.</S>
+    <S>Our study has concluded that we only need to implement the ER for expressions including a frequent word on APs.</S>
+    <S>Experimental results show that the ER can be drastically speeded up.</S>
+    <S>Moreover, a study on communications between APs demonstrates the scalability against vocabulary size by extrapolation.</S>
+    <S>Thus, our model, TDMT on APs, meets the vital requirements of spoken language translation.</S>
+  </Section></Paper>

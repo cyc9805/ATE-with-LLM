@@ -1,0 +1,19 @@
+tech	language acquisition	1, 11, 12
+tech	learning methodology	2, 5, 6
+model	linguistic representation	3, 4, 5
+tech	language processing systems	3, 8, 9, 10
+tech	learning	3, 15
+model	linguistic representation	4, 5, 6
+model	Dynamic Hierarchical Phrasal Lexicon ( DHPL )	4, 9, 10, 11, 12, 13, 14, 15
+tech	language acquisition	4, 20, 21
+model	language learning model	5, 5, 6, 7
+tool	RINA	5, 13
+model	lexical hierarchy	5, 19, 20
+other	context	5, 25
+other	linguistic concepts	7, 4, 5
+other	training examples	7, 9, 10
+model	hierarchy	7, 15
+model	lexical hierarchy	8, 10, 11
+other	linguistic concepts	8, 17, 18
+other	hypothesis	9, 19
+other	lexical gap	9, 26, 27

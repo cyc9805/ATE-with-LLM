@@ -1,0 +1,12 @@
+model	representational format	1, 10, 11
+other	meaning	1, 13
+other	verbs	2, 20
+other	subpredicates	2, 27
+other	subpredicates	3, 2
+other	inferences	3, 11
+other	listener	3, 14
+other	verb	3, 18
+other	sentence	3, 23
+model	meaning structure	4, 4, 5
+other	sentence	4, 8
+other	verb	4, 12

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C88-2160">
+  <Title>Interactive Translation : a new approach</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A new approach for Interactive Machine Translation where the author interacts during the creation or the modification of the document is proposed.</S>
+    <S>The explanation of an ambiguity or an error for the purposes of correction does not use any concepts of the underlying linguistic theory: it is a reformulation of the erroneous or ambiguous sentence.</S>
+    <S>The interaction is limited to the analysis step of the translation process.</S>
+    <S>This paper presents a new interactive disambiguation scheme based on the paraphrasing of a parser's multiple output.</S>
+    <S>Some examples of paraphrasing ambiguous sentences are presented.</S>
+  </Section></Paper>

@@ -1,0 +1,12 @@
+tech	part-of-speech tagger	1, 5, 6
+other	tag contexts	1, 23, 24
+model	dependency network representation	1, 27, 28, 29
+other	lexical features	1, 37, 38
+other	priors	1, 54
+model	conditional loglinear models	1, 56, 57, 58
+other	unknown word features	1, 67, 68, 69
+tech	tagger	2, 8
+measure(ment)	accuracy	2, 13
+tool	Penn Treebank WSJ	2, 16, 17, 18
+other	error reduction	2, 21, 22
+other	automatically learned tagging result	2, 31, 32, 33, 34

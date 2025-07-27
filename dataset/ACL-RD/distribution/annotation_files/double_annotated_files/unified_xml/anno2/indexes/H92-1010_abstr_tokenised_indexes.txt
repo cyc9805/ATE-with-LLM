@@ -1,0 +1,4 @@
+tech	speech processing	1, 16, 17
+tech	Human-Machine Communication	1, 26, 27
+tech	Natural Language Processing	1, 30, 31, 32
+tech	Non Verbal and Multimodal Communication	1, 34, 35, 36, 37, 38

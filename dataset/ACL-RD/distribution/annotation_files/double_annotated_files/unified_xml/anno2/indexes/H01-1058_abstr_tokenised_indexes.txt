@@ -1,0 +1,27 @@
+model	language models ( LMs )	1, 12, 13, 14, 15, 16
+tech	interpolation methods	2, 5, 6
+tech	log-linear and linear interpolation	2, 9, 10, 11, 12
+measure(ment)	performance	2, 16
+measure(ment)	performance	2, 22
+tech	oracle	2, 25
+tech	oracle	3, 2
+other	reference word string	3, 5, 6, 7
+other	word string	3, 11, 12
+measure(ment)	performance	3, 16
+measure(ment)	word or semantic error rate	3, 19, 20, 21, 22, 23
+other	word strings	3, 28, 29
+other	word string	3, 33, 34
+model	LM	3, 42
+tech	oracle	4, 4
+tech	dynamic combiner	4, 8, 9
+model	reference	4, 15
+tech	dynamic language model combination	5, 12, 13, 14, 15
+measure(ment)	performance	5, 19
+tech	oracle	6, 11
+tech	neural network	6, 14, 15
+tech	decision tree	6, 18, 19
+model	LMs	7, 6
+measure(ment)	confidence measures	7, 8, 9
+other	hypothesis	7, 14
+model	LM	7, 18
+measure(ment)	confidence	7, 22

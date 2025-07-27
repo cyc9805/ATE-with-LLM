@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P99-1062">
+  <Title>Semantic Analysis of Japanese Noun Phrases : A New Approach to Dictionary-Based Understanding</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents a new method of analyzing Japanese noun phrases of the form N1 no N2.</S>
+    <S>The Japanese postposition no roughly corresponds to of, but it has much broader usage.</S>
+    <S>The method exploits a definition of N2 in a dictionary.</S>
+    <S>For example, rugby no coach can be interpreted as a person who teaches technique in rugby.</S>
+    <S>We illustrate the effectiveness of the method by the analysis of 300 test noun phrases.</S>
+  </Section></Paper>

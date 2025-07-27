@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C88-2162">
+  <Title>NETL: A System for Representing and Using Real-World Knowledge</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Computer programs so far have not fared well in modeling language acquisition.</S>
+    <S>For one thing, learning methodology applicable in general domains does not readily lend itself in the linguistic domain.</S>
+    <S>For another, linguistic representation used by language processing systems is not geared to learning.</S>
+    <S>We introduced a new linguistic representation, the Dynamic Hierarchical Phrasal Lexicon (DHPL) [Zernik88], to facilitate language acquisition.</S>
+    <S>From this, a language learning model was implemented in the program RINA, which enhances its own lexical hierarchy by processing examples in context.</S>
+    <S>We identified two tasks:</S>
+    <S>First, how linguistic concepts are acquired from training examples and organized in a hierarchy; this task was discussed in previous papers [Zernik87].</S>
+    <S>Second, we show in this paper how a lexical hierarchy is used in predicting new linguistic concepts.</S>
+    <S>Thus, a program does not stall even in the presence of a lexical unknown, and a hypothesis can be produced for covering that lexical gap.</S>
+  </Section></Paper>

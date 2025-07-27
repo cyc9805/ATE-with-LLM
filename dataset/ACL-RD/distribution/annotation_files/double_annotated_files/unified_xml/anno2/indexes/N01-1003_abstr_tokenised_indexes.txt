@@ -1,0 +1,23 @@
+tech	Sentence planning	1, 1, 2
+tech	sentence scoping	1, 16, 17
+other	syntactic structure	1, 25, 26
+other	elementary speech acts	1, 28, 29, 30
+other	sentences	1, 43
+tool	SPoT	2, 7
+tech	sentence planner	2, 10, 11
+tool	SPoT	2, 20
+model	feedback	2, 25
+other	human judges	2, 28, 29
+tech	randomized sentence-plan-generator ( SPG )	4, 7, 8, 9, 10, 11
+other	sentence plans	4, 19, 20
+other	text-plan input	4, 24, 25
+tech	sentence-plan-ranker ( SPR )	5, 4, 5, 6, 7
+other	output sentence plans	5, 12, 13, 14
+other	top-ranked plan	5, 20, 21
+tech	SPR	6, 2
+model	ranking rules	6, 4, 5
+lr	training data	6, 9, 10
+tech	SPR	7, 6
+other	sentence plan	7, 11, 12
+other	rating	7, 14
+other	top human-ranked sentence plan	7, 23, 24, 25, 26

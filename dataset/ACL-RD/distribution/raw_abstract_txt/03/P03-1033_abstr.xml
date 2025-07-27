@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P03-1033">
+  <Title>Flexible Guidance Generation using User Model in Spoken Dialogue Systems</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We address appropriate user modeling in order to generate cooperative responses to each user in spoken dialogue systems.</S>
+    <S>Unlike previous studies that focus on user's knowledge or typical kinds of users, the user model we propose is more comprehensive.</S>
+    <S>Specifically, we set up three dimensions of user models: skill level to the system, knowledge level on the target domain and the degree of hastiness.</S>
+    <S>Moreover, the models are automatically derived by decision tree learning using real dialogue data collected by the system.</S>
+    <S>We obtained reasonable classification accuracy for all dimensions.</S>
+    <S>Dialogue strategies based on the user modeling are implemented in Kyoto city bus information system that has been developed at our laboratory.</S>
+    <S>Experimental evaluation shows that the cooperative responses adaptive to individual users serve as good guidance for novice users without increasing the dialogue duration for skilled users.</S>
+  </Section></Paper>

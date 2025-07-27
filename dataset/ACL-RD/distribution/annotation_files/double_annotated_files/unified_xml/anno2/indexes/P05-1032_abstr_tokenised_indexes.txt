@@ -1,0 +1,13 @@
+other	data structure	1, 8, 9
+tech	phrase-based statistical machine translation	1, 11, 12, 13, 14
+other	retrieval	1, 19
+other	phrases	1, 23
+other	memory	1, 28
+other	decoder implementations	1, 34, 35
+other	computational complexity	2, 4, 5
+other	average retrieval times	2, 7, 8, 9
+other	phrase translations	2, 13, 14
+other	suffix array-based data structure	2, 17, 18, 19, 20
+other	retrieval time	3, 11, 12
+other	orders of magnitude	3, 14, 15, 16
+other	translation quality	3, 21, 22

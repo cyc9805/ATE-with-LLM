@@ -1,0 +1,21 @@
+tech	Syntax-based statistical machine translation ( MT )	1, 1, 2, 3, 4, 5, 6, 7
+model	statistical models	1, 11, 12
+other	structured data	1, 14, 15
+tech	syntax-based statistical machine translation system	2, 8, 9, 10, 11, 12
+lr	probabilistic synchronous dependency insertion grammar	2, 16, 17, 18, 19, 20
+lr	Synchronous dependency insertion grammars	3, 1, 2, 3, 4
+lr	synchronous grammars	3, 9, 10
+lr	dependency trees	3, 13, 14
+lr	grammar	4, 10
+lr	parallel corpora	4, 12, 13
+model	graphical model	5, 6, 7
+other	machine translation task	5, 10, 11, 12
+tech	stochastic tree-to-tree transducer	5, 21, 22, 23
+tech	polynomial time decoding algorithm	6, 4, 5, 6, 7
+model	model	6, 10
+tech	MT system	7, 7, 8
+measure(ment)	NIST	7, 11
+measure(ment)	Bleu automatic MT evaluation software	7, 13, 14, 15, 16, 17
+tech	baseline system	8, 9, 10
+model	IBM models	8, 14, 15
+measure(ment)	translation speed and quality	8, 18, 19, 20, 21

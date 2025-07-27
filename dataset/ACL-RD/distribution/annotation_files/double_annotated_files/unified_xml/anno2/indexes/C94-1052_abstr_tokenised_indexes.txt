@@ -1,0 +1,9 @@
+tech	unification framework	1, 10, 11
+model	typed feature structures	1, 15, 16, 17
+lr	lexical entries	1, 25, 26
+other	translation equivalents	1, 29, 30
+tool	TGE	2, 12
+other	semantic domains	3, 8, 9
+other	lexical cross-relations	3, 18, 19
+other	English	3, 21
+other	Spanish	3, 23

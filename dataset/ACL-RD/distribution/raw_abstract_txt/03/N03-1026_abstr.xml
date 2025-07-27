@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N03-1026">
+  <Title>Statistical Sentence Condensation using Ambiguity Packing and Stochastic Disambiguation Methods for Lexical-Functional Grammar</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present an application of ambiguity packing and stochastic disambiguation techniques for Lexical-Functional Grammars (LFG) to the domain of sentence condensation.</S>
+    <S>Our system incorporates a linguistic parser/generator for LFG, a transfer component for parse reduction operating on packed parse forests, and a maximum-entropy model for stochastic output selection.</S>
+    <S>Furthermore, we propose the use of standard parser evaluation methods for automatically evaluating the summarization quality of sentence condensation systems.</S>
+    <S>An experimental evaluation of summarization quality shows a close correlation between the automatic parse-based evaluation and a manual evaluation of generated strings.</S>
+    <S>Overall summarization quality of the proposed system is state-of-the-art, with guaranteed grammaticality of the system output due to the use of a constraint-based parser/generator.</S>
+  </Section></Paper>

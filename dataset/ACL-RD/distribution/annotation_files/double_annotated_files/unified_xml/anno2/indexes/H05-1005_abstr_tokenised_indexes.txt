@@ -1,0 +1,9 @@
+other	information redundancy	1, 8, 9
+tech	machine translation	1, 17, 18
+tech	multi-document summarization	2, 6, 7
+other	lexical-syntactic forms	3, 14, 15
+tech	machine translation systems	4, 7, 8, 9
+other	redundancy	4, 13
+other	machine translations	5, 7, 8
+other	redundancy	5, 23
+other	noun phrases	5, 27, 28

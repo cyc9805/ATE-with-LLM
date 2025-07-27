@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="I05-2044">
+  <Title>Two-Phase Shift-Reduce Deterministic Dependency Parser of Chinese</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In the Chinese language, a verb may have its dependents on its left, right or on both sides.</S>
+    <S>The ambiguity resolution of right-side dependencies is essential for dependency parsing of sentences with two or more verbs.</S>
+    <S>Previous works on shift-reduce dependency parsers may not guarantee the connectivity of a dependency tree due to their weakness at resolving the right-side dependencies.</S>
+    <S>This paper proposes a two-phase shift-reduce dependency parser based on SVM learning.</S>
+    <S>The left-side dependents and right-side nominal dependents are detected in Phase I, and right-side verbal dependents are decided in Phase II.</S>
+    <S>In experimental evaluation, our proposed method outperforms previous shift-reduce dependency parsers for the Chine language, showing improvement of dependency accuracy by 10.08%.</S>
+  </Section></Paper>

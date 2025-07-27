@@ -1,0 +1,14 @@
+model	mixture language model	1, 6, 7, 8
+other	long distance constraints	1, 13, 14, 15
+other	sentence	1, 18
+other	paragraph	1, 20
+model	model	2, 2
+other	m-component mixture	2, 5, 6
+model	trigram models	2, 8, 9
+model	models	3, 2
+lr	vocabulary	3, 8
+lr-prod	Wall Street Journal text corpus	3, 16, 17, 18, 19, 20
+tool	BU recognition system	4, 3, 4, 5
+measure(ment)	recognition accuracy	4, 13, 14
+model	mixture trigram models	4, 17, 18, 19
+model	trigram model	4, 25, 26

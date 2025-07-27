@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H01-1017">
+  <Title>Dialogue Interaction with the DARPA Communicator Infrastructure: The Development of Useful Software</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>To support engaging human users in robust, mixed-initiative speech dialogue interactions which reach beyond current capabilities in dialogue systems, the DARPA Communicator program [1] is funding the development of a distributed message-passing infrastructure for dialogue systems which all Communicator participants are using.</S>
+    <S>In this presentation, we describe the features of and requirements for a genuinely useful software infrastructure for this purpose.</S>
+  </Section></Paper>

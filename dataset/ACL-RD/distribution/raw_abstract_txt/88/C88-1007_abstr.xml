@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C88-1007">
+  <Title>Machine Translation Using Isomorphic UCGs</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper discusses the application of Unification Categorial Grammar (UCG) to the framework of Isomorphic Grammars for Machine Translation pioneered by Landsbergen.</S>
+    <S>The Isomorphic Grammars approach to MT involves developing the grammars of the Source and Target languages in parallel, in order to ensure that SL and TL expressions which stand in the translation relation have isomorphic derivations.</S>
+    <S>The principle advantage of this approach is that knowledge concerning translation equivalence of expressions may be directly exploited, obviating the need for answers to semantic questions that we do not yet have.</S>
+    <S>Semantic and other information may still be incorporated, but as constraints on the translation relation, not as levels of textual representation.</S>
+    <S>After introducing this approach to MT system design, and the basics of monolingual UCG, we will show how the two can be integrated, and present an example from an implemented bi-directional English-Spanish fragment.</S>
+    <S>Finally we will present some outstanding problems with the approach.</S>
+  </Section></Paper>

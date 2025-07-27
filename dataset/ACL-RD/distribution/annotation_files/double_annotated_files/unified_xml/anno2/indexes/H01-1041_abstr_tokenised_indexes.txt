@@ -1,0 +1,22 @@
+tech	Korean-to-English machine translation system CCLINC ( Common Coalition Language System at Lincoln Laboratory )	1, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+tech	CCLINC Korean-to-English translation system	2, 2, 3, 4, 5
+other	core modules	2, 9, 10
+tech	language understanding and generation modules	2, 12, 13, 14, 15, 16
+tech	language neutral meaning representation	2, 20, 21, 22, 23
+tech	semantic frame	2, 26, 27
+tech	parsing	3, 14
+other	Korean	3, 16
+other	verb final language	3, 19, 20, 21
+other	overt case markers	3, 23, 24, 25
+other	free word order	3, 28, 29, 30
+other	arguments	3, 36
+tech	translation	4, 6
+tech	word sense disambiguation	4, 8, 9, 10
+tech	word order generation	4, 13, 14, 15
+other	target language	4, 18, 19
+tech	system development	5, 5, 6
+tech	porting to new domains	5, 8, 9, 10, 11
+tech	knowledge-based automated acquisition of grammars	5, 13, 14, 15, 16, 17
+lr	Korean newspaper articles	6, 5, 6, 7
+other	translation output	6, 19, 20
+other	original document	6, 27, 28

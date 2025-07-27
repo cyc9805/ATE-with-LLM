@@ -1,0 +1,10 @@
+other	large , semantically annotated corpus resource	1, 8, 9, 10, 11, 12, 13
+tech	large-scale acquisition of word-semantic information	1, 19, 20, 21, 22, 23
+lr	domain-independent lexica	1, 31, 32
+tech	annotation	2, 5
+other	semantic roles	2, 7, 8
+other	frame semantics paradigm	2, 11, 12, 13
+other	annotated data	3, 7, 8
+other	vagueness	4, 10
+other	ambiguity	4, 12
+tech	semantic annotation	4, 14, 15

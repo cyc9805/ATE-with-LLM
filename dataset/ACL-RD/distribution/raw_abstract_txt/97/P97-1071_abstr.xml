@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1071">
+  <Title>Contrastive accent in a data-to-speech system</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Being able to predict the placement of contrastive accent is essential for the assignment of correct accentuation patterns in spoken language generation.</S>
+    <S>I discuss two approaches to the generation of contrastive accent and propose an alternative method that is feasible and computationally attractive in data-to-speech systems.</S>
+  </Section></Paper>

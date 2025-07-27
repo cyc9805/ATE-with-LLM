@@ -1,0 +1,14 @@
+tech	natural language generator	1, 8, 9, 10
+measure(ment)	quality	1, 23
+other	utterances	1, 25
+tech	hand-crafted template-based or rule-based approaches	1, 33, 34, 35, 36, 37
+tech	trainable sentence planner	2, 8, 9, 10
+tech	spoken dialogue system	2, 13, 14, 15
+other	subjective human judgments	2, 18, 19, 20
+tech	hand-crafted template-based generation component	3, 13, 14, 15, 16
+tech	rule-based sentence planners	3, 19, 20, 21
+tech	baseline sentence planners	3, 25, 26, 27
+tech	trainable sentence planner	4, 5, 6, 7
+tech	rule-based systems	4, 12, 13
+tech	baselines	4, 16
+tech	hand-crafted system	4, 23, 24

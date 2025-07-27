@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E85-1041">
+  <Title>THE STRUCTURE OF COMMUNICATIVE CONTEXT OF DIALOGUE INTERACTION</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>We propose a draft scheme of the model formalizing the structure of communicative context in dialogue interaction.</S>
+    <S>The relationships between the interacting partners are considered as system of three automata representing the partners of the dialogue and environment.</S>
+    <S>The communicative competence of the partners is defined by - the set M of all propositions reflecting the possible states of the three automata within the model; - the set K of contracts representing all kinds of human-to-human relationships (social, interpersonal, professional, etc.) which include fixation of particular roles for the partners; - the set T of possible topics related to given contract.</S>
+    <S>The authors believe the system of the notions presented may be used as a basis for forming the communicative component in the dialogue system.</S>
+  </Section></Paper>

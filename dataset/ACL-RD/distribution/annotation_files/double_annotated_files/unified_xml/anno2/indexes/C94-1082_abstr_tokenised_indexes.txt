@@ -1,0 +1,5 @@
+tool	LHIP	1, 3
+tech	incremental grammar development	1, 8, 9, 10
+other	DCG formalism	1, 14, 15
+tech	robust island-based parsing method	2, 5, 6, 7, 8
+other	user-defined performance thresholds	2, 11, 12, 13

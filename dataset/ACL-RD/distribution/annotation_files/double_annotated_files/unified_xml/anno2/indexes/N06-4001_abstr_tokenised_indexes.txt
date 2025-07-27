@@ -1,0 +1,7 @@
+tech	corpus exploration tool	1, 6, 7, 8
+tool	InfoMagnets	1, 10
+tool	InfoMagnets	2, 1
+other	corpus analysis	2, 6, 7
+tech	text mining	2, 16, 17
+other	language	3, 22
+other	domains	3, 29

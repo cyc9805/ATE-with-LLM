@@ -1,0 +1,9 @@
+tech	Generation	1, 10
+other	Referring Expressions	1, 12, 13
+other	size	1, 23
+other	location	1, 25
+other	perspective-taking	1, 30
+other	reference	1, 32
+other	knowledge	2, 19
+other	content determination	2, 22, 23
+tech	clustering algorithm	3, 4, 5

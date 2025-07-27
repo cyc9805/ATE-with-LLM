@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H01-1049">
+  <Title>Listen-Communicate-Show (LCS): Spoken Language Command of Agent-based Remote Information Access</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>Listen-Communicate-Show (LCS) is a new paradigm for human interaction with data sources.</S>
+    <S>We integrate a spoken language understanding system with intelligent mobile agents that mediate between users and information sources.</S>
+    <S>We have built and will demonstrate an application of this approach called LCS-Marine.</S>
+    <S>Using LCS-Marine, tactical personnel can converse with their logistics system to place a supply or information request.</S>
+    <S>The request is passed to a mobile, intelligent agent for execution at the appropriate database.</S>
+    <S>Requestors can also instruct the system to notify them when the status of a request changes or when a request is complete.</S>
+    <S>We have demonstrated this capability in several field exercises with the Marines and are currently developing applications of this technology in new domains.</S>
+  </Section></Paper>

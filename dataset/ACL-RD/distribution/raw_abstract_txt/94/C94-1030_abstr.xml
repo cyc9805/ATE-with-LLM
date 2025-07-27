@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1030">
+  <Title>AN EVALUATION TO DETECT AND CORRECT ERRONEOUS CHARACTERS WRONGLY SUBSTITUTED, DELETED AND INSERTED IN JAPANESE AND ENGLISH SEN~IENCES USING MARKOV MODELS</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In optical character recognition and continuous speech recognition of a natural language, it has been difficult to detect error characters which are wrongly deleted and inserted.</S>
+    <S>In order to judge three types of the errors, which are characters wrongly substituted, deleted or inserted in a Japanese bunsetsu and an English word, and to correct these errors, this paper proposes new methods using m-th order Markov chain model for Japanese kanji-kana characters and English alphabets, assuming that Markov probability of a correct chain of syllables or kanji-kana characters is greater than that of erroneous chains.</S>
+    <S>From the results of the experiments, it is concluded that the methods is useful for detecting as well as correcting these errors in Japanese bunsetsu and English words.</S>
+  </Section></Paper>

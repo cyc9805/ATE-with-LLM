@@ -1,0 +1,21 @@
+tech	automated evaluation techniques	1, 13, 14, 15
+other	human language learners	1, 23, 24, 25
+other	output	1, 29
+tech	machine translation ( MT ) systems	1, 31, 32, 33, 34, 35, 36
+tech	evaluation techniques	2, 5, 6
+other	human language learning process	2, 13, 14, 15, 16
+other	translation process	2, 19, 20
+tech	machine translation systems	2, 25, 26, 27
+other	intelligibility	3, 15
+other	MT output	3, 17, 18
+other	language learning experiment	4, 2, 3, 4
+other	assessors	4, 7
+other	native from non-native language essays	4, 10, 11, 12, 13, 14
+other	words	4, 19
+other	assessors	5, 10
+other	machine translation output	6, 17, 18, 19
+other	expert human translations	8, 6, 7, 8
+other	machine translation outputs	8, 12, 13, 14
+other	expert human translation	9, 20, 21, 22
+other	machine translation	9, 25, 26
+other	word	10, 9

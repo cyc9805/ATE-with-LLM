@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E83-1029">
+  <Title>NATURAL LANGUAGE INPUT FOR SCENE GENERATION</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>In this paper a system which understands and conceptualizes scenes descriptions in natural language is presented.</S>
+    <S>Specifically, the following components of the system are described: the syntactic analyzer, based on a Procedural Systemic Grammar, the semantic analyzer relying on the Conceptual Dependency Theory, and the dictionary.</S>
+  </Section></Paper>

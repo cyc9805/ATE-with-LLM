@@ -1,0 +1,20 @@
+other	range concatenation grammar [RCG] formalism	1, 6, 7, 8, 9, 10
+other	NLP	1, 21
+other	range concatenation languages [RCL]	2, 4, 5, 6, 7
+other	polynomial time	2, 12, 13
+other	classical grammatical formalisms	2, 16, 17, 18
+other	RCGs	2, 24
+other	worst-case parsing time complexity	2, 28, 29, 30, 31
+tech	translation	3, 5
+other	RCG	3, 9
+lr	tree adjoining grammar	3, 12, 13, 14
+other	time	3, 22
+tech	parsing technique	4, 8, 9
+tech	RCL parsers	4, 19, 20
+tech	non-deterministic parsing choices	5, 2, 3, 4
+tech	main parser	5, 7, 8
+other	language L	5, 11, 12
+other	derivation forest	5, 22, 23
+tech	RCL parser	5, 28, 29
+other	superset	5, 33
+lr	wide coverage English grammar	6, 12, 13, 14, 15

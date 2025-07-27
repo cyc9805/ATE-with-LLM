@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1069">
+  <Title>A Localized Prediction Model for Statistical Machine Translation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper, we present a novel training method for a localized phrase-based prediction model for statistical machine translation (SMT).</S>
+    <S>The model predicts blocks with orientation to handle local phrase re-ordering.</S>
+    <S>We use a maximum likelihood criterion to train a log-linear block bigram model which uses real-valued features (e.g. a language model score) as well as binary features based on the block identities themselves, e.g. block bigram features.</S>
+    <S>Our training algorithm can easily handle millions of features.</S>
+    <S>The best system obtains a 18.6% improvement over the baseline on a standard Arabic-English translation task.</S>
+  </Section></Paper>

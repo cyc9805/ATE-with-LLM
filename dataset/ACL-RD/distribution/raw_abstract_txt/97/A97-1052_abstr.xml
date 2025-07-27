@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1052">
+  <Title>Corpus Data TP FP FN</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We describe a novel technique and implemented system for constructing a subcategorization dictionary from textual corpora.</S>
+    <S>Each dictionary entry encodes the relative frequency of occurrence of a comprehensive set of subcategorization classes for English.</S>
+    <S>An initial experiment, on a sample of 14 verbs which exhibit multiple complementation patterns, demonstrates that the technique achieves accuracy comparable to previous approaches, which are all limited to a highly restricted set of subcategorization classes.</S>
+    <S>We also demonstrate that a subcategorization dictionary built with the system improves the accuracy of a parser by an appreciable amount.</S>
+  </Section></Paper>

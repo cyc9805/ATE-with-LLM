@@ -1,0 +1,16 @@
+tech	natural language question answering system	1, 10, 11, 12, 13, 14
+tool	Chat-80	1, 17
+tool	Chat-80	2, 1
+tech	Prolog	3, 7
+tech	programming language	3, 10, 11
+other	logic	3, 14
+other	logic-based grammar formalism	4, 6, 7, 8
+other	extraposition grammars	4, 10, 11
+tool	Chat-80	4, 13
+other	Prolog subset of logic	4, 19, 20, 21, 22
+model	logical expression	5, 3, 4
+tech	planning algorithm	5, 10, 11
+tech	Prolog	5, 14
+tech	query optimisation	5, 18, 19
+tech	relational database	5, 22, 23
+other	Prolog form	6, 4, 5

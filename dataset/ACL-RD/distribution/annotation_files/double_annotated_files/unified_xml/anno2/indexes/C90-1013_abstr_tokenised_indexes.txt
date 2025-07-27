@@ -1,0 +1,10 @@
+tech	bidirectional grammar generation system	1, 5, 6, 7, 8
+tech	feature structure-directed generation	1, 10, 11, 12
+tech	dialogue translation system	1, 17, 18, 19
+model	typed feature structures	2, 4, 5, 6
+tech	top-down derivation	2, 10, 11
+tech	generation system	3, 2, 3
+model	disjunctive feature structures	3, 6, 7, 8
+model	derivation tree	3, 17, 18
+lr	grammar	4, 2
+tech	generator	4, 5

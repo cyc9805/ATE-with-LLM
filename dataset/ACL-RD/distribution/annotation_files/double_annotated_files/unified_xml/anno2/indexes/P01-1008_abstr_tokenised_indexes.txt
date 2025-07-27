@@ -1,0 +1,10 @@
+tech	paraphrasing	1, 2
+tech	interpretation and generation of natural language	1, 7, 8, 9, 10, 11, 12
+tech	manual or semi-automatic methods	1, 17, 18, 19, 20
+other	paraphrases	1, 23
+tech	unsupervised learning algorithm	2, 4, 5, 6
+tech	identification of paraphrases	2, 8, 9, 10
+lr	corpus of multiple English translations	2, 13, 14, 15, 16, 17
+other	source text	2, 21, 22
+other	phrasal and single word lexical paraphrases	3, 4, 5, 6, 7, 8, 9
+other	syntactic paraphrases	3, 13, 14

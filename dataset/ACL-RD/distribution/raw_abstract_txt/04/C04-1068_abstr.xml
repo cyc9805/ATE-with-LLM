@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1068">
+  <Title>Filtering Speaker-Specific Words from Electronic Discussions</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The work presented in this paper is the first step in a project which aims to cluster and summarise electronic discussions in the context of help-desk applications.</S>
+    <S>The eventual objective of this project is to use these summaries to assist help-desk users and operators.</S>
+    <S>In this paper, we identify features of electronic discussions that influence the clustering process, and offer a filtering mechanism that removes undesirable influences.</S>
+    <S>We tested the clustering and filtering processes on electronic newsgroup discussions, and evaluated their performance by means of two experiments: coarse-level clustering and simple information retrieval.</S>
+    <S>Our evaluation shows that our filtering mechanism has a significant positive effect on both tasks.</S>
+  </Section></Paper>

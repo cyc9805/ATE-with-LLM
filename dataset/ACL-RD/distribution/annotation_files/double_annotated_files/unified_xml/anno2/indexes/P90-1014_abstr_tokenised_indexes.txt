@@ -1,0 +1,9 @@
+tech	free indexation	1, 5, 6
+other	referential properties	1, 16, 17
+other	noun phrases	1, 19, 20
+other	principle-and-parameters language framework	1, 23, 24, 25
+other	combinatorics	2, 6
+tech	free indexation	2, 8, 9
+model	indexings	2, 20
+other	exponential time	2, 22, 23
+tech	free indexation algorithm	3, 8, 9, 10

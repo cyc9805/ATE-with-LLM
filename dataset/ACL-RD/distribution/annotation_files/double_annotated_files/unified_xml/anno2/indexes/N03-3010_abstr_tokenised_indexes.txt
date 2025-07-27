@@ -1,0 +1,10 @@
+tech	Cooperative Model	1, 9, 10
+tech	natural language understanding	1, 12, 13, 14
+tech	dialogue system	1, 17, 18
+tech	Finite State Model ( FSM )	2, 7, 8, 9, 10, 11, 12
+tech	Statistical Learning Model ( SLM )	2, 14, 15, 16, 17, 18, 19
+tech	FSM	3, 1
+tech	language understanding	3, 6, 7
+measure(ment)	accuracy	3, 12
+tech	Statistical approach	4, 1, 2
+tech	Cooperative Model	5, 1, 2

@@ -1,0 +1,21 @@
+model	Chinese-to-English SMT model	1, 19, 20, 21
+measure(ment)	word sense disambiguation performance	1, 24, 25, 26, 27
+tech	WSD evaluation methodology	1, 31, 32, 33
+other	Senseval-3 Chinese lexical sample task	1, 38, 39, 40, 41, 42
+model	word sense disambiguation ( WSD ) models	2, 11, 12, 13, 14, 15, 16, 17
+other	Senseval series of workshops	2, 23, 24, 25, 26
+measure(ment)	BLEU scores	3, 11, 12
+tech	statistical machine translation (SMT)	3, 14, 15, 16, 17
+model	SMT models	3, 20, 21
+other	translation	3, 28
+other	source language sentences	3, 33, 34, 35
+measure(ment)	WSD accuracy	4, 5, 6
+model	SMT models	4, 8, 9
+model	WSD models	4, 21, 22
+measure(ment)	WSD accuracy	5, 7, 8
+model	SMT models	5, 12, 13
+model	WSD models	5, 24, 25
+model	SMT models	6, 17, 18
+model	WSD models	6, 26, 27
+tech	SMT	6, 31
+model	WSD models	6, 41, 42

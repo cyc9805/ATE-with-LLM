@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1026">
+  <Title>Sentence Planning as Description Using Tree Adjoining Grammar</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present an algorithm for simultaneously constructing both the syntax and semantics of a sentence using a Lexicalized Tree Adjoining Grammar (LTAG).</S>
+    <S>This approach captures naturally and elegantly the interaction between pragmatic and syntactic constraints on descriptions in a sentence, and the inferential interactions between multiple descriptions in a sentence.</S>
+    <S>At the same time, it exploits linguistically motivated, declarative specifications of the discourse functions of syntactic constructions to make contextually appropriate syntactic choices.</S>
+  </Section></Paper>

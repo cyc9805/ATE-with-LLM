@@ -1,0 +1,14 @@
+tech	Automatic Speech Recognition technology	1, 4, 5, 6, 7
+tech	dialog systems	1, 15, 16
+tech	speech recognition	2, 5, 6
+tech	dialog systems	2, 16, 17
+other	user	2, 23
+other	user	2, 37
+other	system response	3, 4, 5
+other	users	3, 7
+other	natural language generation community	3, 14, 15, 16, 17
+tech	dialog systems	3, 25, 26
+tech	generation	4, 6
+tech	dialog systems	4, 11, 12
+tech	knowledge-based generation systems	4, 21, 22, 23
+tech	machine learning techniques	4, 29, 30, 31

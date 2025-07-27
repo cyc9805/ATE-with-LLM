@@ -1,0 +1,17 @@
+model	phrase-based unigram model	1, 8, 9, 10
+tech	statistical machine translation	1, 12, 13, 14
+other	model parameters	1, 22, 23
+model	phrase-based models	1, 26, 27
+other	units of translation	2, 2, 3, 4
+other	blocks	2, 6
+other	phrases	2, 10
+tech	decoding	3, 2
+model	block unigram model	3, 7, 8, 9
+model	word-based trigram language model	3, 12, 13, 14, 15
+tech	training	4, 2
+other	blocks	4, 5
+other	source interval projections	4, 9, 10, 11
+model	word alignment	4, 15, 16
+model	block selection criteria	5, 6, 7, 8
+other	unigram counts	5, 11, 12
+other	phrase length	5, 14, 15

@@ -1,0 +1,3 @@
+other	natural language presuppositions	1, 10, 11, 12
+other	inferential theory for natural language presuppositions	4, 8, 9, 10, 11, 12, 13
+other	sentences	4, 32

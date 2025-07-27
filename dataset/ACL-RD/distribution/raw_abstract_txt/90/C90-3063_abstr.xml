@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C90-3063">
+  <Title>Automatic Processing of Large Corpora for the Resolution of Anaphora References</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Manual acquisition of semantic constraints in broad domains is very expensive.</S>
+    <S>This paper presents an automatic scheme for collecting statistics on co-occurrence patterns in a large corpus.</S>
+    <S>To a large extent, these statistics reflect semantic constraints and thus are used to disambiguate anaphora references and syntactic ambiguities.</S>
+    <S>The scheme was implemented by gathering statistics on the output of other linguistic tools.</S>
+    <S>An experiment was performed to resolve references of the pronoun it in sentences that were randomly selected from the corpus.</S>
+    <S>The results of the experiment show that in most of the cases the cooccurrence statistics indeed reflect the semantic constraints and thus provide a basis for a useful disambiguation tool.</S>
+  </Section></Paper>

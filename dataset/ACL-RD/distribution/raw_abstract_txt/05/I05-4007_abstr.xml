@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="I05-4007">
+  <Title>Cross-lingual Conversion of Lexical Semantic Relations: Building Parallel Wordnets</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Parallel wordnets built upon correspondences between different languages can play a crucial role in multilingual knowledge processing.</S>
+    <S>Since there is no homomorphism between pairs of monolingual wordnets, we must rely on lexical semantic relation (LSR) mappings to ensure conceptual cohesion.</S>
+    <S>In this paper, we propose and implement a model for bootstrapping parallel wordnets based on one monolingual wordnet and a set of cross-lingual lexical semantic relations.</S>
+    <S>In particular, we propose a set of inference rules to predict Chinese wordnet structure based on English wordnet and English-Chinese translation relations.</S>
+    <S>We show that this model of parallel wordnet building is effective and achieves higher precision in LSR prediction.</S>
+  </Section></Paper>

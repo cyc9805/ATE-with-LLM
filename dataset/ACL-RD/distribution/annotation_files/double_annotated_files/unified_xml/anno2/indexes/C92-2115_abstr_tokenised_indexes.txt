@@ -1,0 +1,12 @@
+other	transfer phase	1, 2, 3
+tech	machine translation ( MT ) systems	1, 5, 6, 7, 8, 9, 10
+tech	analysis	1, 19
+tech	generation	1, 21
+model	lexical rules	1, 31, 32
+tech	case-based reasoning	2, 9, 10
+tech	machine translation	2, 12, 13
+other	translation examples	2, 25, 26
+tech	MT	2, 31
+tech	transfer system	3, 8, 9
+tech	Similarity-driven Transfer System ( SimTran )	3, 13, 14, 15, 16, 17, 18
+tech	case-based MT ( CBMT )	3, 24, 25, 26, 27, 28

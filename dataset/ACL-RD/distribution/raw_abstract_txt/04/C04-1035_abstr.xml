@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1035">
+  <Title>Classifying Ellipsis in Dialogue: A Machine Learning Approach</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents a machine learning approach to bare sluice disambiguation in dialogue.</S>
+    <S>We extract a set of heuristic principles from a corpus-based sample and formulate them as probabilistic Horn clauses.</S>
+    <S>We then use the predicates of such clauses to create a set of domain independent features to annotate an input dataset, and run two different machine learning algorithms: SLIPPER, a rule-based learning algorithm, and TiMBL, a memory-based system.</S>
+    <S>Both learners perform well, yielding similar success rates of approx 90%.</S>
+    <S>The results show that the features in terms of which we formulate our heuristic principles have significant predictive power, and that rules that closely resemble our Horn clauses can be learnt automatically from these features.</S>
+  </Section></Paper>

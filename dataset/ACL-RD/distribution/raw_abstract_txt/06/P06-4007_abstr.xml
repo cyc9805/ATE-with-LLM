@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P06-4007">
+  <Title>FERRET: Interactive Question-Answering for Real-World Environments</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper describes FERRET, an interactive question-answering (Q/A) system designed to address the challenges of integrating automatic Q/A applications into real-world environments.</S>
+    <S>FERRET utilizes a novel approach to Q/A known as predictive questioning which attempts to identify the questions (and answers) that users need by analyzing how a user interacts with a system while gathering information related to a particular scenario.</S>
+  </Section></Paper>

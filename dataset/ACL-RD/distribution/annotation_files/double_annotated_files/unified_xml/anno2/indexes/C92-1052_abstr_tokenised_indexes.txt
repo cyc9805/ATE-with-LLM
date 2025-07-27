@@ -1,0 +1,6 @@
+other	discourse segments	1, 4, 5
+tech	discourse segmentation	1, 12, 13
+tech	abduction	1, 17
+other	temporal relations	1, 19, 20
+other	segments	1, 22
+tech	temporal anaphora resolution	2, 18, 19, 20

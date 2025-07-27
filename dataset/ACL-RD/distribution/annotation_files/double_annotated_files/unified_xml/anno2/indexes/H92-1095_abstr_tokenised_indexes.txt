@@ -1,0 +1,9 @@
+tech	Language understanding work	1, 1, 2, 3
+tech	general-purpose language understanding technology	1, 9, 10, 11, 12
+tech	spoken language understanding	1, 14, 15, 16
+tech	text understanding	1, 18, 19
+tech	document processing	1, 22, 23
+tech	language understanding	1, 26, 27
+tech	speech recognition	1, 29, 30
+tech	knowledge-based information retrieval	1, 32, 33, 34
+tech	image understanding	1, 36, 37

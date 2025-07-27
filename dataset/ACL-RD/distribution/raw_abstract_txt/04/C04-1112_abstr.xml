@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1112">
+  <Title>A Lemma-Based Approach to a Maximum Entropy Word Sense Disambiguation System for Dutch</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper, we present a corpus-based supervised word sense disambiguation (WSD) system for Dutch which combines statistical classification (maximum entropy) with linguistic information.</S>
+    <S>Instead of building individual classifiers per ambiguous wordform, we introduce a lemma-based approach.</S>
+    <S>The advantage of this novel method is that it clusters all inflected forms of an ambiguous word in one classifier, therefore augmenting the training material available to the algorithm.</S>
+    <S>Testing the lemma-based model on the Dutch SENSEVAL-2 test data, we achieve a significant increase in accuracy over the wordform model.</S>
+    <S>Also, the WSD system based on lemmas is smaller and more robust.</S>
+  </Section></Paper>

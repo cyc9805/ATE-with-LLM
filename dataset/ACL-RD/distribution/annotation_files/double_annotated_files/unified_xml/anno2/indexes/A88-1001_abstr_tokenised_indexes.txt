@@ -1,0 +1,9 @@
+tech	multimedia articulation of answers	1, 10, 11, 12, 13
+tech	natural language interface	1, 17, 18, 19
+tech	database query applications	1, 21, 22, 23
+tech	Multimedia answers	2, 1, 2
+other	sentences	2, 9
+other	text or text-to-speech form	2, 11, 12, 13, 14
+other	Deictic reference	3, 1, 2
+other	discourse	3, 7
+tech	interface	4, 2

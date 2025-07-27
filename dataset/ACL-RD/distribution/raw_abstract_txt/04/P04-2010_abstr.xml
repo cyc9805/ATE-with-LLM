@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P04-2010">
+  <Title>A Machine Learning Approach to German Pronoun Resolution</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents a novel ensemble learning approach to resolving German pronouns.</S>
+    <S>Boosting, the method in question, combines the moderately accurate hypotheses of several classifiers to form a highly accurate one.</S>
+    <S>Experiments show that this approach is superior to a single decision-tree classifier.</S>
+    <S>Furthermore, we present a standalone system that resolves pronouns in unannotated text by using a fully automatic sequence of preprocessing modules that mimics the manual annotation process.</S>
+    <S>Although the system performs well within a limited textual domain, further research is needed to make it effective for open-domain question answering and text summarisation.</S>
+  </Section></Paper>

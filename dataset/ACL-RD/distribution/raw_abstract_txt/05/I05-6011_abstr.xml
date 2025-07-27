@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="I05-6011">
+  <Title>Annotating Honorifics Denoting Social Ranking of Referents</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper proposes an annotating scheme that encodes honorifics (respectful words).</S>
+    <S>Honorifics are used extensively in Japanese, reflecting the social relationship (e.g. social ranks and age) of the referents.</S>
+    <S>This referential information is vital for resolving zero pronouns and improving machine translation outputs.</S>
+    <S>Annotating honorifics is a complex task that involves identifying a predicate with honorifics, assigning ranks to referents of the predicate, calibrating the ranks, and connecting referents with their predicates.</S>
+  </Section></Paper>

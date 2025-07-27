@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H05-1064">
+  <Title>Hidden-Variable Models for Discriminative Reranking</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We describe a new method for the representation of NLP structures within reranking approaches.</S>
+    <S>We make use of a conditional log-linear model, with hidden variables representing the assignment of lexical items to word clusters or word senses.</S>
+    <S>The model learns to automatically make these assignments based on a discriminative training criterion.</S>
+    <S>Training and decoding with the model requires summing over an exponential number of hidden-variable assignments: the required summations can be computed efficiently and exactly using dynamic programming.</S>
+    <S>As a case study, we apply the model to parse reranking.</S>
+    <S>The model gives an F-measure improvement of [?] 1.25% beyond the base parser, and an [?] 0.25% improvement beyond the Collins (2000) reranker.</S>
+    <S>Although our experiments are focused on parsing, the techniques described generalize naturally to NLP structures other than parse trees.</S>
+  </Section></Paper>

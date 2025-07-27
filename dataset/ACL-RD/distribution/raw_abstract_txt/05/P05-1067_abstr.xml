@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1067">
+  <Title>Machine Translation Using Probabilistic Synchronous Dependency Insertion Grammars</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Syntax-based statistical machine translation (MT) aims at applying statistical models to structured data.</S>
+    <S>In this paper, we present a syntax-based statistical machine translation system based on a probabilistic synchronous dependency insertion grammar.</S>
+    <S>Synchronous dependency insertion grammars are a version of synchronous grammars defined on dependency trees.</S>
+    <S>We first introduce our approach to inducing such a grammar from parallel corpora.</S>
+    <S>Second, we describe the graphical model for the machine translation task, which can also be viewed as a stochastic tree-to-tree transducer.</S>
+    <S>We introduce a polynomial time decoding algorithm for the model.</S>
+    <S>We evaluate the outputs of our MT system using the NIST and Bleu automatic MT evaluation software.</S>
+    <S>The result shows that our system outperforms the baseline system based on the IBM models in both translation speed and quality.</S>
+  </Section></Paper>

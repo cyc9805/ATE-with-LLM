@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P91-1016">
+  <Title>The Acquisition and Application of Context Sensitive Grammar for English</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A system is described for acquiring a context-sensitive, phrase structure grammar which is applied by a best-path, bottom-up, deterministic parser.</S>
+    <S>The grammar was based on English news stories and a high degree of success in parsing is reported.</S>
+    <S>Overall, this research concludes that CSG is a computationally and conceptually tractable approach to the construction of phrase structure grammar for news story text.</S>
+  </Section></Paper>

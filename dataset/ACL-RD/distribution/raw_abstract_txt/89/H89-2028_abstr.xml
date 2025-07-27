@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H89-2028">
+  <Title>A CSR-NL INTERFACE SPECIFICATION: Version 1.5</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>Spoken Language Systems will require integration of continuous speech recognition and natural language processing.</S>
+    <S>This is a proposed specification for an interface between a continuous speech recognizer (CSR) and a natural language processor (NLP) to form a spoken language system.</S>
+    <S>Both components are integrated with a stack controller and contribute to the search control.</S>
+    <S>The specification also defines a Top-N mode in which a first part outputs a list of top N scored sentences for postprocessing by a second part.</S>
+    <S>An additional use for this specification might be NLP evaluation testing: a common simulated CSR could be interfaced to each site's NLP to provide identical testing environments.</S>
+  </Section></Paper>

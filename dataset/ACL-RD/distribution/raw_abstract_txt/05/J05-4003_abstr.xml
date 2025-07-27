@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="J05-4003">
+  <Title>Improving Machine Translation Performance by Exploiting Non-Parallel Corpora</Title>
+  <Section>
+    <SectionTitle></SectionTitle>
+    <S>We present a novel method for discovering parallel sentences in comparable, non-parallel corpora.</S>
+    <S>We train a maximum entropy classifier that, given a pair of sentences, can reliably determine whether or not they are translations of each other.</S>
+    <S>Using this approach, we extract parallel data from large Chinese, Arabic, and English non-parallel newspaper corpora.</S>
+    <S>We evaluate the quality of the extracted data by showing that it improves the performance of a state-of-the-art statistical machine translation system.</S>
+    <S>We also show that a good-quality MT system can be built from scratch by starting with a very small parallel corpus (100,000 words) and exploiting a large non-parallel corpus.</S>
+    <S>Thus, our method can be applied with great benefit to language pairs for which only scarce resources are available.</S>
+  </Section></Paper>

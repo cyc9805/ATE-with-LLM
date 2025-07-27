@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P03-1005">
+  <Title>Hierarchical Directed Acyclic Graph Kernel: Methods for Structured Natural Language Data</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper proposes the Hierarchical Directed Acyclic Graph (HDAG) Kernel for structured natural language data.</S>
+    <S>The HDAG Kernel directly accepts several levels of both chunks and their relations, and then efficiently computes the weighed sum of the number of common attribute sequences of the HDAGs.</S>
+    <S>We applied the proposed method to question classification and sentence alignment tasks to evaluate its performance as a similarity measure and a kernel function.</S>
+    <S>The results of the experiments demonstrate that the HDAG Kernel is superior to other kernel functions and baseline methods.</S>
+  </Section></Paper>

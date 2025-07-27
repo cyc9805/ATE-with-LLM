@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N06-2038">
+  <Title>A Comparison of Tagging Strategies for Statistical Information Extraction</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>There are several approaches that model information extraction as a token classification task, using various tagging strategies to combine multiple tokens.</S>
+    <S>We describe the tagging strategies that can be found in the literature and evaluate their relative performances.</S>
+    <S>We also introduce a new strategy, called Begin/After tagging or BIA, and show that it is competitive to the best other strategies.</S>
+  </Section></Paper>

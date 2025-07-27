@@ -1,0 +1,15 @@
+tech	natural language processing	1, 7, 8, 9
+other	interpretations	1, 23
+tool	TACITUS	2, 6
+other	MUC-3 evaluation	2, 11, 12
+tech	syntactic and pragmatic analysis	2, 20, 21, 22, 23
+other	robustness	2, 31
+tech	syntactic analysis	3, 7, 8
+tech	agenda-based scheduling parser	3, 11, 12, 13
+tech	recovery technique	3, 16, 17
+other	parses	3, 20
+tech	terminal substring parsing	3, 27, 28, 29
+tech	pragmatics processing	4, 2, 3
+tech	abductive inference	4, 11, 12
+other	interpretation	4, 20
+other	world knowledge	4, 33, 34

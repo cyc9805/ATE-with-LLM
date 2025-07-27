@@ -1,0 +1,17 @@
+tech	ensemble methods	1, 6, 7
+tech	machine learning	1, 9, 10
+tech	natural language processing	1, 15, 16, 17
+tech	question answering	1, 27, 28
+tech	answering agents	1, 38, 39
+other	answers	1, 42
+lr	corpora	1, 45
+tech	answering agents	2, 2, 3
+tech	multi-level answer resolution algorithm	3, 4, 5, 6, 7
+tech	answering agents	3, 13, 14
+other	question , passage , and/or answer levels	3, 17, 18, 19, 20, 21, 22, 23
+tech	answer resolution algorithm	4, 7, 8, 9
+measure(ment)	relative improvement	4, 14, 15
+other	baseline system	4, 18, 19
+other	questions	4, 24
+measure(ment)	improvement	4, 32
+measure(ment)	average precision metric	4, 36, 37, 38

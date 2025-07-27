@@ -1,0 +1,16 @@
+model	phrase-based translation model	1, 5, 6, 7
+tech	decoding algorithm	1, 9, 10
+model	phrase-based translation models	1, 22, 23, 24
+model	phrase-based models	2, 19, 20
+model	word-based models	2, 22, 23
+other	language pairs	3, 10, 11
+tech	heuristic learning	3, 28, 29
+other	phrase translations	3, 31, 32
+lr	word-based alignments	3, 34, 35
+tech	lexical weighting	3, 37, 38
+other	phrase translations	3, 40, 41
+other	phrases	4, 4
+other	words	4, 8
+other	phrases	4, 11
+model	high-accuracy word-level alignment models	4, 13, 14, 15, 16
+other	syntactically motivated phrases	5, 3, 4, 5

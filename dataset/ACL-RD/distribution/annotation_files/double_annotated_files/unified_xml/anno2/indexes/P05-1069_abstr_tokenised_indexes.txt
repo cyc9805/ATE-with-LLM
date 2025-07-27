@@ -1,0 +1,17 @@
+tech	training method	1, 9, 10
+model	localized phrase-based prediction model	1, 13, 14, 15, 16
+tech	statistical machine translation ( SMT )	1, 18, 19, 20, 21, 22, 23
+model	model	2, 2
+other	blocks with orientation	2, 4, 5, 6
+tech	local phrase re-ordering	2, 9, 10, 11
+measure(ment)	maximum likelihood criterion	3, 4, 5, 6
+model	log-linear block bigram model	3, 10, 11, 12, 13
+other	real-valued features	3, 16, 17
+measure(ment)	language model score	3, 22, 23, 24
+other	binary features	3, 28, 29
+other	block identities	3, 33, 34
+other	block bigram features	3, 40, 41, 42
+tech	training algorithm	4, 2, 3
+other	features	4, 9
+other	baseline	5, 11
+other	Arabic-English translation task	5, 15, 16, 17

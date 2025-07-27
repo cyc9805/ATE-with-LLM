@@ -1,0 +1,18 @@
+other	paraphrase sets	1, 8, 9
+other	seed sentences	1, 11, 12
+other	reference sets	1, 17, 18
+measure(ment)	objective machine translation evaluation measures	1, 20, 21, 22, 23, 24
+measure(ment)	BLEU	1, 26
+measure(ment)	NIST	1, 28
+other	paraphrases	2, 7
+other	grammaticality	2, 21
+other	equivalence	2, 33
+other	meaning	2, 35
+other	paraphrases	2, 41
+other	meaning equivalence	2, 44, 45
+other	entailment	2, 47
+other	lexical and syntactical variation	2, 58, 59, 60, 61
+other	paraphrases	2, 66
+other	paraphrase sets	3, 2, 3
+other	reference sets	3, 12, 13
+measure(ment)	MT evaluation	3, 18, 19

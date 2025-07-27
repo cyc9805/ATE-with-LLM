@@ -1,0 +1,11 @@
+other	natural language	1, 4, 5
+other	words	1, 20
+other	fragments	1, 28
+tech	computer system	3, 3, 4
+other	natural language input	3, 8, 9, 10
+tech	parsing flexibilities	4, 10, 11
+tool	FlexP	5, 7
+tech	bottom-up pattern-matching parser	5, 10, 11, 12
+tech	flexibilities	5, 22
+other	restricted natural language input	5, 24, 25, 26, 27
+tech	limited-domain computer system	5, 30, 31, 32

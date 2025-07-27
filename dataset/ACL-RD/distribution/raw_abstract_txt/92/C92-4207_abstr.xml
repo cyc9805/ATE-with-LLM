@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C92-4207">
+  <Title>Reconstructing Spatial Image from Natural Language Texts</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper describes the understanding process of the spatial descriptions in Japanese.</S>
+    <S>In order to understand the described world, the authors try to reconstruct the geometric model of the global scene from the scenic descriptions drawing a space.</S>
+    <S>It is done by an experimental computer program SPRINT, which takes natural language texts and produces a model of the described world.</S>
+    <S>To reconstruct the model, the authors extract the qualitative spatial constraints from the text, and represent them as the numerical constraints on the spatial attributes of the entities.</S>
+    <S>This makes it possible to express the vagueness of the spatial concepts and to derive the maximally plausible interpretation from a chunk of information accumulated as the constraints.</S>
+    <S>The interpretation reflects the temporary belief about the world.</S>
+  </Section></Paper>

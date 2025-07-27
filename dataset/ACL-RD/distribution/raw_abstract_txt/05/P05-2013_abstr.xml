@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-2013">
+  <Title>Automatic Induction of a CCG Grammar for Turkish</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents the results of automatically inducing a Combinatory Categorial Grammar (CCG) lexicon from a Turkish dependency treebank.</S>
+    <S>The fact that Turkish is an agglutinating free word-order language presents a challenge for language theories.</S>
+    <S>We explored possible ways to obtain a compact lexicon, consistent with CCG principles, from a treebank which is an order of magnitude smaller than Penn WSJ.</S>
+  </Section></Paper>

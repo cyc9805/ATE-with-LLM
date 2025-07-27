@@ -1,0 +1,8 @@
+tech	IE paradigm	1, 10, 11
+other	predicate-argument structures	1, 16, 17
+other	predicate argument structures	2, 10, 11, 12
+tech	IE paradigm	2, 19, 20
+other	features	3, 13
+tech	inductive decision tree learning	3, 19, 20, 21, 22
+other	predicate-argument structures	4, 9, 10
+tech	IE results	4, 14, 15

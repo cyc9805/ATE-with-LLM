@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H91-1077">
+  <Title>A PROPOSAL FOR LEXICAL DISAMBIGUATION</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>A method of sense resolution is proposed that is based on WordNet, an on-line lexical database that incorporates semantic relations (synonymy, antonymy, hyponymy, meronymy, causal and troponymic entailment) as labeled pointers between word senses.</S>
+    <S>With WordNet, it is easy to retrieve sets of semantically related words, a facility that will be used for sense resolution during text processing, as follows.</S>
+    <S>When a word with multiple senses is encountered, one of two procedures will be followed.</S>
+    <S>Either, (1) words related in meaning to the alternative senses of the polysemous word will be retrieved; new strings will be derived by substituting these related words into the context of the polysemous word; a large textual corpus will then be searched for these derived strings; and that sense will be chosen that corresponds to the derived string that is found most often in the corpus.</S>
+    <S>Or, (2) the context of the polysemous word will be used as a key to search a large corpus; all words found to occur in that context will be noted; WordNet will then be used to estimate the semantic distance from those words to the alternative senses of the polysemous word; and that sense will be chosen that is closest in meaning to other words occurring in the same context.</S>
+    <S>If successful, this procedure could have practical applications to problems of information retrieval, mechanical translation, intelligent tutoring systems, and elsewhere.</S>
+  </Section></Paper>

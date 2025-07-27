@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C82-1054">
+  <Title>AN IMPROVED LEFT-CORNER PARSING ALGORITHM</Title>
+  <Section>
+    <SectionTitle></SectionTitle>
+    <S>This paper proposes a series of modifications to the left corner parsing algorithm for context-free grammars.</S>
+    <S>It is argued that the resulting algorithm is both efficient and flexible and is, therefore, a good choice for the parser used in a natural language interface.</S>
+  </Section></Paper>

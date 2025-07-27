@@ -1,0 +1,14 @@
+other	logical definition	1, 4, 5
+other	Minimalist grammars	1, 7, 8
+other	Stabler's formalization	1, 12, 13
+other	Chomsky's minimalist program	1, 15, 16, 17
+other	logical definition	2, 2, 3
+other	categorial grammar	2, 10, 11
+other	Montague semantics	2, 18, 19
+tech	parsing-as-deduction	2, 23
+other	resource sensitive logic	2, 26, 27, 28
+tech	learning algorithm	2, 32, 33
+other	structured data	2, 35, 36
+tech	typing-algorithm	2, 41
+tech	type-unification	2, 43
+other	Montague semantics	3, 7, 8

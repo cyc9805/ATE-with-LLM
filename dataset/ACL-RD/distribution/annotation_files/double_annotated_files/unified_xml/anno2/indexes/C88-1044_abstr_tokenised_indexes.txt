@@ -1,0 +1,6 @@
+other	demonstrative expressions	1, 12, 13
+other	English	1, 15
+tech	discourse processing algorithms	1, 21, 22, 23
+other	demonstrative forms	2, 14, 15
+other	anaphoric expressions	3, 10, 11
+tech	natural language generation system	3, 22, 23, 24, 25

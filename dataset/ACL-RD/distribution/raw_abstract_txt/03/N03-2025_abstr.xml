@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N03-2025">
+  <Title>Bootstrapping for Named Entity Tagging Using Concept-based Seeds</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A novel bootstrapping approach to Named Entity (NE) tagging using concept-based seeds and successive learners is presented.</S>
+    <S>This approach only requires a few common noun or pronoun seeds that correspond to the concept for the targeted NE, e.g. he/she/man/woman for PERSON NE.</S>
+    <S>The bootstrapping procedure is implemented as training two successive learners.</S>
+    <S>First, decision list is used to learn the parsing-based NE rules.</S>
+    <S>Then, a Hidden Markov Model is trained on a corpus automatically tagged by the first learner.</S>
+    <S>The resulting NE system approaches supervised NE performance for some NE types.</S>
+  </Section></Paper>

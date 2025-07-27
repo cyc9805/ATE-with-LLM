@@ -1,0 +1,15 @@
+other	segment order	1, 11, 12
+tech	segmentation	1, 14
+other	segment contiguity	1, 16, 17
+measure(ment)	retrieval performance	1, 20, 21
+tech	translation memory system	1, 24, 25, 26
+tech	bag-of-words and segment order-sensitive string comparison methods	2, 7, 8, 9, 10, 11, 12, 13
+model	local segment contiguity models	2, 31, 32, 33, 34
+model	N-grams	2, 40
+tech	indexing	3, 9
+model	character bigrams	3, 13, 14
+measure(ment)	retrieval accuracy	3, 17, 18
+model	word N-gram models	3, 25, 26, 27
+tech	bag-of-words methods	4, 7, 8
+tech	segment order-sensitive methods	4, 15, 16, 17
+measure(ment)	retrieval accuracy	4, 21, 22

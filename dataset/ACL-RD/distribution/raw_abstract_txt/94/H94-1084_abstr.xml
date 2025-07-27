@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H94-1084">
+  <Title>Integrated Text and Image Understanding for Document Understanding</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>Because of the complexity of documents and the variety of applications which must be supported, document understanding requires the integration of image understanding with text understanding.</S>
+    <S>Our document understanding technology is implemented in a system called IDUS (Intelligent Document Understanding System), which creates the data for a text retrieval application and the automatic generation of hypertext links.</S>
+    <S>This paper summarizes the areas of research during IDUS development where we have found the most benefit from the integration of image and text understanding.</S>
+  </Section></Paper>

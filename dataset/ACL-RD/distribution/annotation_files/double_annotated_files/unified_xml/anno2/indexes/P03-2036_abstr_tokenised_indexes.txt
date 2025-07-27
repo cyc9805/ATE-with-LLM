@@ -1,0 +1,6 @@
+tech	CFG filtering techniques	1, 5, 6, 7
+other	LTAG	1, 9
+other	HPSG	1, 11
+other	HPSG	2, 7
+tech	CFG filter	2, 12, 13
+other	LTAG	2, 17

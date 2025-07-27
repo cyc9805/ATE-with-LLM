@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1036">
+  <Title>Feature Vector Quality and Distributional Similarity</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We suggest a new goal and evaluation criterion for word similarity measures.</S>
+    <S>The new criterion - meaning-entailing substitutability - fits the needs of semantic-oriented NLP applications and can be evaluated directly (independent of an application) at a good level of human agreement.</S>
+    <S>Motivated by this semantic criterion we analyze the empirical quality of distributional word feature vectors and its impact on word similarity results, proposing an objective measure for evaluating feature vector quality.</S>
+    <S>Finally, a novel feature weighting and selection function is presented, which yields superior feature vectors and better word similarity performance.</S>
+  </Section></Paper>

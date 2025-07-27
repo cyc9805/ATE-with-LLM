@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C88-1066">
+  <Title>Parsing with Category Coocurrence Restrictions</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper summarizes the formalism of Category Cooccurrence Restrictions (CCRs) and describes two parsing algorithms that interpret it.</S>
+    <S>CCRs are Boolean conditions on the cooccurrence of categories in local trees which allow the statement of generalizations which cannot be captured in other current syntax formalisms.</S>
+    <S>The use of CCRs leads to syntactic descriptions formulated entirely with restrictive statements.</S>
+    <S>The paper shows how conventional algorithms for the analysis of context free languages can be adapted to the CCR formalism.</S>
+    <S>Special attention is given to the part of the parser that checks the fulfillment of logical well-formedness conditions on trees.</S>
+  </Section></Paper>

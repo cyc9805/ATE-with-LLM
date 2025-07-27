@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-2016">
+  <Title>Dependency-Based Statistical Machine Translation</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present a Czech-English statistical machine translation system which performs tree-to-tree translation of dependency structures.</S>
+    <S>The only bilingual resource required is a sentence-aligned parallel corpus.</S>
+    <S>All other resources are monolingual.</S>
+    <S>We also refer to an evaluation method and plan to compare our system's output with a benchmark system.</S>
+  </Section></Paper>

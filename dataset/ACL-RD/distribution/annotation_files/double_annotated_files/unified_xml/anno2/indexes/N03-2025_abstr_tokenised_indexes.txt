@@ -1,0 +1,18 @@
+tech	bootstrapping approach	1, 3, 4
+tech	Named Entity ( NE ) tagging	1, 6, 7, 8, 9, 10, 11
+model	concept-based seeds	1, 13, 14
+tech	successive learners	1, 16, 17
+model	noun or pronoun seeds	2, 8, 9, 10, 11
+other	concept	2, 16
+other	NE	2, 20
+other	PERSON NE	2, 27, 28
+tech	bootstrapping procedure	3, 2, 3
+tech	successive learners	3, 9, 10
+tech	decision list	4, 3, 4
+model	parsing-based NE rules	4, 10, 11, 12
+tech	Hidden Markov Model	5, 4, 5, 6
+lr	corpus	5, 11
+tech	learner	5, 17
+tech	NE system	6, 3, 4
+measure(ment)	supervised NE performance	6, 6, 7, 8
+other	NE types	6, 11, 12

@@ -1,0 +1,6 @@
+lr	polarity-tagged corpus	1, 9, 10
+model	linguistic pattern	3, 13, 14
+other	sentences	4, 10
+other	opinion	4, 13
+lr	corpus	5, 10
+other	sentences	5, 15

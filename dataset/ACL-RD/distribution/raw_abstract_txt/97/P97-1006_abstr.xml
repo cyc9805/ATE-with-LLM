@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1006">
+  <Title>Document Classification Using a Finite Mixture Model</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We propose a new method of classifying documents into categories.</S>
+    <S>We define for each category a finite mixture model based on soft clustering of words.</S>
+    <S>We treat the problem of classifying documents as that of conducting statistical hypothesis testing over finite mixture models, and employ the EM algorithm to efficiently estimate parameters in a finite mixture model.</S>
+    <S>Experimental results indicate that our method outperforms existing methods.</S>
+  </Section></Paper>

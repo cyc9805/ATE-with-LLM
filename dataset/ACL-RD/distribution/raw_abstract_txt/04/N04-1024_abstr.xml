@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N04-1024">
+  <Title>Evaluating Multiple Aspects of Coherence in Student Essays</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>CriterionSM Online Essay Evaluation Service includes a capability that labels sentences in student writing with essay-based discourse elements (e.g., thesis statements).</S>
+    <S>We describe a new system that enhances Criterion's capability, by evaluating multiple aspects of coherence in essays.</S>
+    <S>This system identifies features of sentences based on semantic similarity measures and discourse structure.</S>
+    <S>A support vector machine uses these features to capture breakdowns in coherence due to relatedness to the essay question and relatedness between discourse elements.</S>
+    <S>Intra-sentential quality is evaluated with rule-based heuristics.</S>
+    <S>Results indicate that the system yields higher performance than a baseline on all three aspects.</S>
+  </Section></Paper>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P06-2110">
+  <Title>Word Vectors and Two Kinds of Similarity</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper examines what kind of similarity between words can be represented by what kind of word vectors in the vector space model.</S>
+    <S>Through two experiments, three methods for constructing word vectors, i.e., LSA-based, cooccurrence-based and dictionary-based methods, were compared in terms of the ability to represent two kinds of similarity, i.e., taxonomic similarity and associative similarity.</S>
+    <S>The result of the comparison was that the dictionary-based word vectors better reflect taxonomic similarity, while the LSA-based and the cooccurrence-based word vectors better reflect associative similarity.</S>
+  </Section></Paper>

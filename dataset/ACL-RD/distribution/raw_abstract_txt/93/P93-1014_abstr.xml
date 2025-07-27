@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P93-1014">
+  <Title>A UNIFICATION-BASED PARSER FOR RELATIONAL GRAMMAR</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present an implemented unification-based parser for relational grammars developed within the stratified feature grammar (SFG) framework, which generalizes Kasper-Rounds logic to handle relational grammar analyses.</S>
+    <S>We first introduce the key aspects of SFG and a lexicalized, graph-based variant of the framework suitable for implementing relational grammars.</S>
+    <S>We then describe a head-driven chart parser for lexicalized SFG.</S>
+    <S>The basic parsing operation is essentially ordinary feature-structure unification augmented with an operation of label unification to build the stratified features characteristic of SFG.</S>
+  </Section></Paper>

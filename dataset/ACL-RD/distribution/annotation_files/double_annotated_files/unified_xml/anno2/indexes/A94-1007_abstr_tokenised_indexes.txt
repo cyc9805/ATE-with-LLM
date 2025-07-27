@@ -1,0 +1,31 @@
+other	English sentences	1, 8, 9
+other	coordinate conjunctions	1, 11, 12
+other	words	1, 23
+tech	Syntactic analysis	2, 1, 2
+other	English coordinate sentences	2, 5, 6, 7
+tech	machine translation ( MT ) systems	2, 16, 17, 18, 19, 20, 21
+other	candidates	3, 9
+model	syntactic structure	3, 13, 14
+other	coordinate conjunction	3, 19, 20
+other	constituents	3, 27
+other	conjunction	3, 32
+model	structures	4, 6
+tech	MT systems	4, 10, 11
+lr	grammars	4, 21
+model	rules	4, 26
+model	English coordinate structure analysis model	5, 5, 6, 7, 8, 9
+other	top-down scope information	5, 13, 14, 15
+model	syntactic structure	5, 19, 20
+other	patterns	5, 27
+other	parallelism	5, 30
+model	model	6, 2
+tech	balance matching operation	6, 7, 8, 9
+other	feature sets	6, 15, 16
+other	analysis cost	6, 26, 27
+tech	word disambiguation	6, 32, 33
+other	interpretation	6, 36
+other	ellipses	6, 38
+tech	robust analysis	6, 41, 42
+model	model	7, 2
+tech	English-Japanese MT system	7, 10, 11, 12
+measure(ment)	accuracy	7, 18

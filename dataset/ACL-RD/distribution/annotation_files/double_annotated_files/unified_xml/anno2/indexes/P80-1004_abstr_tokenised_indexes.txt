@@ -1,0 +1,13 @@
+other	Interpreting metaphors	1, 1, 2
+other	human understanding	1, 10, 11
+other	natural language	1, 13, 14
+other	metaphors	2, 8
+model	generalized metaphor mappings	2, 18, 19, 20
+other	generalized metaphor	3, 2, 3
+model	recognition network	3, 6, 7
+model	basic mapping	3, 10, 11
+model	transfer mappings	3, 14, 15
+other	implicit intention component	3, 19, 20, 21
+other	metaphor interpretation	4, 8, 9
+other	recognition task	4, 15, 16
+other	language learning	5, 7, 8

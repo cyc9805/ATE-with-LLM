@@ -1,0 +1,15 @@
+tech	discrimination and robustness oriented adaptive learning procedure	1, 6, 7, 8, 9, 10, 11, 12
+tech	syntactic ambiguity resolution	1, 21, 22, 23
+lr	training data	2, 7, 8
+other	approximation error	2, 10, 11
+model	language model	2, 15, 16
+tech	statistical approaches	2, 19, 20
+other	ambiguities	2, 24
+tech	maximum likelihood method	2, 30, 31, 32
+other	parameters	3, 10
+measure(ment)	accuracy rate	3, 14, 15
+lr	training corpus	4, 13, 14
+other	separation margin	4, 27, 28
+other	candidate	4, 32
+measure(ment)	accuracy rate	6, 2, 3
+tech	syntactic disambiguation	6, 5, 6

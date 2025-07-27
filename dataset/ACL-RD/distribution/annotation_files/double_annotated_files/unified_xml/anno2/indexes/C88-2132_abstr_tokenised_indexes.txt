@@ -1,0 +1,10 @@
+tech	Chart parsing	1, 1, 2
+other	sentence	1, 21
+other	chart	2, 8
+other	islands	2, 13
+other	sentence	2, 22
+other	predictions	2, 35
+other	sentence	3, 14
+other	islands	3, 29
+other	context	4, 17
+model	heuristics	4, 21

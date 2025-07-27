@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P85-1015">
+  <Title>Parsing with Discontinuous Constituents</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>By generalizing the notion of location of a constituent to allow discontinuous locations, one can describe the discontinuous constituents of non-configurational languages.</S>
+    <S>These discontinuous constituents can be described by a variant of definite clause grammars, and these grammars can be used in conjunction with a proof procedure to create a parser for non-configurational languages.</S>
+  </Section></Paper>

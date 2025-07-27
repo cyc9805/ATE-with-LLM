@@ -1,0 +1,12 @@
+measure(ment)	translation quality	1, 6, 7
+tech	EBMT	1, 9
+lr	small-sized bilingual corpus	1, 13, 14, 15
+lr	out-of-domain bilingual corpus	1, 20, 21, 22
+model	language model	1, 29, 30
+lr	in-domain monolingual corpus	1, 33, 34, 35
+tech	EBMT system	2, 6, 7
+measure(ment)	evaluation measures	3, 3, 4
+measure(ment)	BLEU score	3, 7, 8
+measure(ment)	NIST score	3, 11, 12
+lr	out-of-domain bilingual corpus	3, 19, 20, 21
+model	language model	3, 28, 29

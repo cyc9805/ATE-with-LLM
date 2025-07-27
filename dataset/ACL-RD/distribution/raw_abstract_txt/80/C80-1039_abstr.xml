@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C80-1039">
+  <Title>ON FROFF: A TEXT PROCESSING SYSTEM FOR ENGLISH TEXTS AND FIGURES</Title>
+  <Section>
+    <SectionTitle></SectionTitle>
+    <S>In order to meet the needs of a publication of papers in English, many systems to run off texts have been developed.</S>
+    <S>In this paper, we report a system FROFF which can make a fair copy of not only texts but also graphs and tables indispensable to our papers.</S>
+    <S>Its selection of fonts, specification of character size are dynamically changeable, and the typing location can be also changed in lateral or longitudinal directions.</S>
+    <S>Each character has its own width and a line length is counted by the sum of each character.</S>
+    <S>By using commands or rules which are defined to facilitate the construction of format expected or some mathematical expressions, elaborate and pretty documents can be successfully obtained.</S>
+  </Section></Paper>

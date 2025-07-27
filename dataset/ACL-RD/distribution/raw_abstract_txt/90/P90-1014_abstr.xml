@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P90-1014">
+  <Title>Free Indexation: Combinatorial Analysis and A Compositional Algorithm</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The principle known as free indexation plays an important role in the determination of the referential properties of noun phrases in the principle-and-parameters language framework.</S>
+    <S>First, by investigating the combinatorics of free indexation, we show that the problem of enumerating all possible indexings requires exponential time.</S>
+    <S>Secondly, we exhibit a provably optimal free indexation algorithm.</S>
+  </Section></Paper>

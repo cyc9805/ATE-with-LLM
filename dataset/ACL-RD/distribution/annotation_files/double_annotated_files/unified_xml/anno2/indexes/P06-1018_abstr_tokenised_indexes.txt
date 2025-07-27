@@ -1,0 +1,14 @@
+other	mathematical formalism	1, 6, 7
+other	strings	1, 15
+other	trees	1, 17
+other	dags	1, 19
+other	graphs	1, 21
+other	polarization	2, 2
+other	saturation	2, 12
+other	formalism	3, 2
+other	grammar formalisms	3, 13, 14
+other	rewriting systems	3, 18, 19
+other	dependency grammars	3, 21, 22
+other	TAG	3, 24
+other	HPSG	3, 26
+other	LFG	3, 28

@@ -1,0 +1,15 @@
+tech	maximum a posteriori estimation	1, 3, 4, 5, 6
+tech	continuous density hidden Markov models ( CDHMM )	1, 8, 9, 10, 11, 12, 13, 14, 15
+tech	MLE reestimation algorithms	2, 3, 4, 5
+tech	forward-backward algorithm	2, 9, 10
+tech	segmental k-means algorithm	2, 13, 14, 15
+other	reestimation formulas	2, 20, 21
+tech	HMM	2, 25
+tech	Gaussian mixture observation densities	2, 27, 28, 29, 30
+tech	Bayesian learning	3, 7, 8
+tech	speech recognition applications	3, 18, 19, 20
+tech	parameter smoothing	3, 23, 24
+tech	speaker adaptation	3, 26, 27
+tech	speaker group modeling	3, 29, 30, 31
+tech	corrective training	3, 33, 34
+tech	MAP estimation approach	4, 16, 17, 18

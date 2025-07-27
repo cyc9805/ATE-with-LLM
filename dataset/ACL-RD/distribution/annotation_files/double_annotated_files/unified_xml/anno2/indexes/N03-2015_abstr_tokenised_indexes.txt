@@ -1,0 +1,15 @@
+tech	unsupervised technique	1, 5, 6
+other	morphology	1, 9
+other	hubs	1, 12
+tech	automaton	1, 15
+other	hub	2, 6
+other	node	2, 9
+other	graph	2, 12
+other	in-degree	2, 14
+other	out-degree	2, 19
+other	word-trie	3, 4
+other	minimal DFA	3, 10, 11
+other	hubs	3, 15
+other	hubs	4, 2
+other	root	4, 7
+other	suffix	4, 9

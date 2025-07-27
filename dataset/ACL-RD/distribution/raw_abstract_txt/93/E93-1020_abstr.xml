@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E93-1020">
+  <Title>A Computational Treatment of Sentence-Final 'then'</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We describe a computational system which parses discourses consisting of sequences of simple sentences.</S>
+    <S>These contain a range of temporal constructions, including time adverbials, progressive aspect and various aspectual classes.</S>
+    <S>In particular, the grammar generates the required readings, according to the theoretical analysis of (Glasbey, forthcoming), for sentence-final 'then'.</S>
+  </Section></Paper>

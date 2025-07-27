@@ -1,0 +1,11 @@
+other	words	1, 12
+other	alternative markers	1, 14, 15
+other	words	2, 2
+other	dialog	2, 7
+tech	natural language search engines	2, 15, 16, 17, 18
+other	queries	2, 22
+measure(ment)	performance	3, 5
+tech	search engine	3, 8, 9
+tech	search engine's operational semantics	3, 27, 28, 29, 30
+tech	operational semantics	4, 10, 11
+tech	natural language applications	4, 13, 14, 15

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P85-1019">
+  <Title>Semantic Caseframe Parsing and Syntactic Generality</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We have implemented a restricted domain parser called Plume.</S>
+    <S>Building on previous work at Carnegie-Mellon University e.g. [4, 5, 8], Plume's approach to parsing is based on semantic caseframe instantiation.</S>
+    <S>This has the advantages of efficiency on grammatical input, and robustness in the face of ungrammatical input.</S>
+    <S>While Plume is well adapted to simple declarative and imperative utterances, it handles passives, relative clauses and interrogatives in an ad hoc manner leading to patchy syntactic coverage.</S>
+    <S>This paper outlines Plume as it currently exists and describes our detailed design for extending Plume to handle passives, relative clauses, and interrogatives in a general manner.</S>
+  </Section></Paper>

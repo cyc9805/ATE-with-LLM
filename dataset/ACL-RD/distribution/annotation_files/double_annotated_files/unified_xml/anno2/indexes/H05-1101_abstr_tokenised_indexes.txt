@@ -1,0 +1,8 @@
+other	computational problems	1, 5, 6
+model	probabilistic translation models	1, 9, 10, 11
+tech	machine translation	1, 21, 22
+model	models	2, 2
+lr	probabilistic context-free grammars	2, 9, 10, 11
+other	hardness results	3, 2, 3
+other	class NP	3, 6, 7
+other	exponential time lower-bound	3, 14, 15, 16

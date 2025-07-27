@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P84-1034">
+  <Title>A PROPER TREATMEMT OF SYNTAX AND SEMANTICS IN MACHINE TRANSLATION</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>A proper treatment of syntax and semantics in machine translation is introduced and discussed from the empirical viewpoint.</S>
+    <S>For English-Japanese machine translation, the syntax directed approach is effective where the Heuristic Parsing Model (HPM) and the Syntactic Role System play important roles.</S>
+    <S>For Japanese-English translation, the semantics directed approach is powerful where the Conceptual Dependency Diagram (CDD) and the Augmented Case Marker System (which is a kind of Semantic Role System) play essential roles.</S>
+    <S>Some examples of the difference between Japanese sentence structure and English sentence structure, which is vital to machine translation are also discussed together with various interesting ambiguities.</S>
+  </Section></Paper>

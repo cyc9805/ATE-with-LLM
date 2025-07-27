@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P80-1026">
+  <Title>Flexiable Parsing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>When people use natural language in natural settings, they often use it ungrammatically, missing out or repeating words, breaking-off and restarting, speaking in fragments, etc..</S>
+    <S>Their human listeners are usually able to cope with these deviations with little difficulty.</S>
+    <S>If a computer system wishes to accept natural language input from its users on a routine basis, it must display a similar indifference.</S>
+    <S>In this paper, we outline a set of parsing flexibilities that such a system should provide.</S>
+    <S>We go, on to describe FlexP, a bottom-up pattern-matching parser that we have designed and implemented to provide these flexibilities for restricted natural language input to a limited-domain computer system.</S>
+  </Section></Paper>

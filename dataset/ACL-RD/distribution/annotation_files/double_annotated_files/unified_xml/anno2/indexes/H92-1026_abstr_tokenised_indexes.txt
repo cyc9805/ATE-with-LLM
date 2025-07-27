@@ -1,0 +1,23 @@
+model	generative probabilistic model	1, 4, 5, 6
+other	natural language	1, 8, 9
+model	HBG	1, 14
+other	linguistic information	1, 21, 22
+other	ambiguity	1, 25
+model	HBG	2, 1
+other	lexical , syntactic , semantic , and structural information	2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+other	parse tree	2, 14, 15
+other	disambiguation process	2, 18, 19
+lr	corpus	3, 4
+other	sentences	3, 7
+lr	Treebank	3, 11
+tech	decision tree building	3, 16, 17, 18
+other	parse tree	3, 27, 28
+other	parse	3, 34
+other	sentence	3, 37
+other	linguistic introspection	4, 16, 17
+other	parse	4, 25
+model	robust probabilistic parsing models	5, 10, 11, 12, 13
+model	P-CFG	5, 18
+model	HBG model	5, 21, 22
+model	P-CFG	5, 25
+measure(ment)	parsing accuracy rate	5, 29, 30, 31

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H05-1005">
+  <Title>Improving Multilingual Summarization: Using Redundancy in the Input to Correct MT errors</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>In this paper, we use the information redundancy in multilingual input to correct errors in machine translation and thus improve the quality of multilingual summaries.</S>
+    <S>We consider the case of multi-document summarization, where the input documents are in Arabic, and the output summary is in English.</S>
+    <S>Typically, information that makes it to a summary appears in many different lexical-syntactic forms in the input documents.</S>
+    <S>Further, the use of multiple machine translation systems provides yet more redundancy, yielding different ways to realize that information in English.</S>
+    <S>We demonstrate how errors in the machine translations of the input Arabic documents can be corrected by identifying and generating from such redundancy, focusing on noun phrases.</S>
+  </Section></Paper>

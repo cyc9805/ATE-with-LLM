@@ -1,0 +1,15 @@
+tech	Hierarchical Directed Acyclic Graph ( HDAG ) Kernel	1, 5, 6, 7, 8, 9, 10, 11, 12
+other	structured natural language data	1, 14, 15, 16, 17
+tech	HDAG Kernel	2, 2, 3
+other	chunks	2, 10
+other	relations	2, 13
+measure(ment)	weighed sum	2, 20, 21
+other	attribute sequences	2, 27, 28
+tech	HDAGs	2, 31
+tech	question classification	3, 7, 8
+tech	sentence alignment tasks	3, 10, 11, 12
+measure(ment)	similarity measure	3, 19, 20
+tech	kernel function	3, 23, 24
+tech	HDAG Kernel	4, 9, 10
+tech	kernel functions	4, 15, 16
+tech	baseline methods	4, 18, 19

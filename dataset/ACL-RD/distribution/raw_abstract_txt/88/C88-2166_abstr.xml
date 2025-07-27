@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C88-2166">
+  <Title>COMPLEX: A Computational Lexicon for Natural Language Systems</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Although every natural language system needs a computational lexicon, each system puts different amounts and types of information into its lexicon according to its individual needs.</S>
+    <S>However, some of the information needed across systems is shared or identical information.</S>
+    <S>This paper presents our experience in planning and building COMPLEX, a computational lexicon designed to be a repository of shared lexical information for use by Natural Language Processing (NLP) systems.</S>
+    <S>We have drawn primarily on explicit and implicit information from machine-readable dictionaries (MRD's) to create a broad coverage lexicon.</S>
+  </Section></Paper>

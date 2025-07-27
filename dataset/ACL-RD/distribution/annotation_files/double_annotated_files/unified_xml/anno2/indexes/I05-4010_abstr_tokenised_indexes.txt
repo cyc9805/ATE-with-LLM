@@ -1,0 +1,7 @@
+lr	English-Chinese bitexts	1, 11, 12
+other	subparagraph level	1, 27, 28
+other	legal text hierarchy	1, 36, 37, 38
+lr	bilingual corpus	3, 3, 4
+other	special domain	3, 27, 28
+other	empirical MT research	4, 6, 7, 8
+lr	English-Chinese bitexts	5, 14, 15

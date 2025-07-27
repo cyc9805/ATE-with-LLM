@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C04-1106">
+  <Title>Lower and higher estimates of the number of &amp;quot;true analogies&amp;quot; between sentences contained in a large multilingual corpus</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>The reality of analogies between words is refuted by noone (e.g., I walked is to to walk as I laughed is to to laugh, noted I walked : to walk :: I laughed : to laugh).</S>
+    <S>But computational linguists seem to be quite dubious about analogies between sentences: they would not be enough numerous to be of any use.</S>
+    <S>We report experiments conducted on a multilingual corpus to estimate the number of analogies among the sentences that it contains.</S>
+    <S>We give two estimates, a lower one and a higher one.</S>
+    <S>As an analogy must be valid on the level of form as well as on the level of meaning, we relied on the idea that translation should preserve meaning to test for similar meanings.</S>
+  </Section></Paper>

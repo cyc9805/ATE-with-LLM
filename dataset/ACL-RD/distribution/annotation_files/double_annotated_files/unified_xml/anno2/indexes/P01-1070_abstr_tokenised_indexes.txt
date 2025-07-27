@@ -1,0 +1,9 @@
+tech	supervised machine learning experiments	1, 6, 7, 8, 9
+model	statistical models	1, 15, 16
+other	WH-questions	1, 18
+model	models	2, 2
+other	shallow linguistic features	2, 8, 9, 10
+other	user's informational goals	2, 23, 24, 25
+measure(ment)	predictive performance	3, 8, 9
+model	models	3, 12
+measure(ment)	predictive performance	3, 24, 25

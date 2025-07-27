@@ -1,0 +1,8 @@
+tech	broad-coverage , principle-based parser	1, 6, 7, 8, 9
+other	English	1, 11
+tech	parser	2, 2
+lr	lexicon	3, 4
+lr	entries	3, 9
+model	extraction and conversion rules	3, 18, 19, 20, 21
+lr	entries	3, 23
+lr	machine readable dictionaries	3, 25, 26, 27

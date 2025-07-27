@@ -1,0 +1,17 @@
+tech	utterance classification	1, 7, 8
+tech	manual transcription	1, 13, 14
+lr	training data	1, 16, 17
+model	domain independent acoustic models	2, 4, 5, 6, 7
+tech	off-the-shelf classifiers	2, 9, 10
+measure(ment)	utterance classification performance	2, 13, 14, 15
+tech	word-trigram recognition	2, 27, 28
+tech	manual transcription	2, 30, 31
+tech	unsupervised training	3, 5, 6
+model	phone n-gram model	3, 13, 14, 15
+other	domain	3, 19
+other	output	3, 22
+tech	recognition	3, 24
+model	model	3, 27
+tech	phone-string classifier	3, 33, 34
+measure(ment)	classification accuracy	4, 2, 3
+other	spoken language system domains	4, 12, 13, 14, 15

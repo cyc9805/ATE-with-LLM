@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Paper acl-id="J86-4002">
+  <Title>REFERENCE IDENTIFICATION AND REFERENCE IDENTIFICATION FAILURES</Title>
+  <Section>
+    <SectionTitle>REFERENCE IDENTIFICATION AND REFERENCE IDENTIFICATION FAILURES</SectionTitle>
+    <S>The goal of this work is the enrichment of human-machine interactions in a natural language environment.</S>
+    <S>Because a speaker and listener cannot be assured to have the same beliefs, contexts, perceptions, backgrounds, or goals, at each point in a conversation, difficulties and mistakes arise when a listener interprets a speaker's utterance.</S>
+    <S>These mistakes can lead to various kinds of misunderstandings between speaker and listener, including reference failures or failure to understand the speaker's intention.</S>
+    <S>We call these misunderstandings miscommunication.</S>
+    <S>Such mistakes can slow, and possibly break down, communication.</S>
+    <S>Our goal is to recognize and isolate such miscommunications and circumvent them.</S>
+    <S>This paper highlights a particular class of miscommunication --- reference problems --- by describing a case study and techniques for avoiding failures of reference.</S>
+    <S>We want to illustrate a framework less restrictive than earlier ones by allowing a speaker leeway in forming an utterance about a task and in determining the conversational vehicle to deliver it.</S>
+    <S>The paper also promotes a new view for extensional reference.</S>
+  </Section></Paper>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P05-1028">
+  <Title>Exploring and Exploiting the Limited Utility of Captions in Recognizing Intention in Information Graphics</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper presents a corpus study that explores the extent to which captions contribute to recognizing the intended message of an information graphic.</S>
+    <S>It then presents an implemented graphic interpretation system that takes into account a variety of communicative signals, and an evaluation study showing that evidence obtained from shallow processing of the graphic's caption has a significant impact on the system's success.</S>
+    <S>This work is part of a larger project whose goal is to provide sight-impaired users with effective access to information graphics.</S>
+  </Section></Paper>

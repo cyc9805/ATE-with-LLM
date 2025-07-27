@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H92-1003">
+  <Title>Multi-Site Data Collection for a Spoken Language Corpus: MADCOW</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>This paper describes a recently collected spoken language corpus for the ATIS (Air Travel Information System) domain.</S>
+    <S>This data collection effort has been co-ordinated by MADCOW (Multi-site ATIS Data COllection Working group).</S>
+    <S>We summarize the motivation for this effort, the goals, the implementation of a multi-site data collection paradigm, and the accomplishments of MADCOW in monitoring the collection and distribution of 12,000 utterances of spontaneous speech from five sites for use in a multi-site common evaluation of speech, natural language and spoken language.</S>
+  </Section></Paper>

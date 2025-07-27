@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P86-1011">
+  <Title>The Relationship Between Tree Adjoining Grammars And Head Grammars</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We examine the relationship between the two grammatical formalisms: Tree Adjoining Grammars and Head Grammars.</S>
+    <S>We briefly investigate the weak equivalence of the two formalisms.</S>
+    <S>We then turn to a discussion comparing the linguistic expressiveness of the two formalisms.</S>
+  </Section></Paper>

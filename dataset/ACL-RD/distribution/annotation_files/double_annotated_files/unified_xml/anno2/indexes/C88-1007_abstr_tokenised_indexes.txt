@@ -1,0 +1,20 @@
+other	Unification Categorial Grammar ( UCG )	1, 7, 8, 9, 10, 11, 12
+other	Isomorphic Grammars	1, 17, 18
+tech	Machine Translation	1, 20, 21
+tech	Isomorphic Grammars approach	2, 2, 3, 4
+tech	MT	2, 6
+model	grammars	2, 10
+other	Source and Target languages	2, 13, 14, 15, 16
+other	SL and TL expressions	2, 25, 26, 27, 28
+other	translation relation	2, 33, 34
+other	isomorphic derivations	2, 36, 37
+other	knowledge	3, 9
+other	translation equivalence	3, 11, 12
+other	expressions	3, 14
+other	semantic questions	3, 26, 27
+other	Semantic and other information	4, 1, 2, 3, 4
+model	constraints	4, 12
+other	translation relation	4, 15, 16
+other	textual representation	4, 22, 23
+tech	MT system design	5, 6, 7, 8
+other	monolingual UCG	5, 14, 15

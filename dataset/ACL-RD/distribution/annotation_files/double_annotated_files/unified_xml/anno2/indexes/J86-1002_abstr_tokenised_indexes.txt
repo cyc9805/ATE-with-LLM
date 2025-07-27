@@ -1,0 +1,14 @@
+tech	error correction	1, 4, 5
+other	ill-formed input	1, 7, 8
+model	dialogue patterns	1, 13, 14
+model	patterns	1, 21
+other	inputs	1, 25
+tech	Error correction	2, 1, 2
+tech	parsing	2, 8
+other	expected meanings	2, 10, 11
+other	input	2, 17
+other	sentence	2, 21
+tech	dialogue acquisition and tracking algorithm	3, 2, 3, 4, 5, 6
+tech	voice interactive system	3, 18, 19, 20
+tech	error correction methodology	4, 13, 14, 15
+other	dialogue	4, 18

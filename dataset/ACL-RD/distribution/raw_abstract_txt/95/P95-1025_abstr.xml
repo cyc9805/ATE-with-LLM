@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P95-1025">
+  <Title>Statistical Sense Disambiguation with Relatively Small Corpora Using Dictionary Definitions</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Corpus-based sense disambiguation methods, like most other statistical NLP approaches, suffer from the problem of data sparseness.</S>
+    <S>In this paper, we describe an approach which overcomes this problem using dictionary definitions.</S>
+    <S>Using the definition-based conceptual co-occurrence data collected from the relatively small Brown corpus, our sense disambiguation system achieves an average accuracy comparable to human performance given the same contextual information.</S>
+  </Section></Paper>

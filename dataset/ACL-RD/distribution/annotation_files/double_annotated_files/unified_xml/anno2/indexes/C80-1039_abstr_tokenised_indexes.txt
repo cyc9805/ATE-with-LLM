@@ -1,0 +1,7 @@
+tool	FROFF	2, 9
+other	texts	2, 19
+other	fonts	3, 4
+other	character size	3, 8, 9
+other	character	4, 2
+other	line length	4, 9, 10
+other	character	4, 18

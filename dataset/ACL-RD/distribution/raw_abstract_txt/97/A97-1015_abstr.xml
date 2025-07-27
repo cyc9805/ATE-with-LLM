@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="A97-1015">
+  <Title>The Domain Dependence of Parsing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>A major concern in corpus based approaches is that the applicability of the acquired knowledge may be limited by some feature of the corpus, in particular, the notion of text 'domain'.</S>
+    <S>In order to examine the domain dependence of parsing, in this paper, we report 1) Comparison of structure distributions across domains; 2) Examples of domain specific structures; and 3) Parsing experiment using some domain dependent grammars.</S>
+    <S>The observations using the Brown corpus demonstrate domain dependence and idiosyncrasy of syntactic structure.</S>
+    <S>The parsing results show that the best accuracy is obtained using the grammar acquired from the same domain or the same class (fiction or nonfiction).</S>
+    <S>We will also discuss the relationship between parsing accuracy and the size of training corpus.</S>
+  </Section></Paper>

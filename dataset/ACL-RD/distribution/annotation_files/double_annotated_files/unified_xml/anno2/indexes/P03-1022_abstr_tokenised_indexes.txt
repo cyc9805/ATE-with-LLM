@@ -1,0 +1,10 @@
+tech	decision tree based approach	1, 4, 5, 6, 7
+tech	pronoun resolution	1, 9, 10
+other	spoken dialogue	1, 12, 13
+other	pronouns	2, 5
+other	NP- and non-NP-antecedents	2, 7, 8, 9
+other	features	3, 6
+tech	pronoun resolution	3, 9, 10
+other	spoken dialogue	3, 12, 13
+other	features	3, 19
+other	Switchboard dialogues	4, 7, 8

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P06-2059">
+  <Title>Automatic Construction of Polarity-tagged Corpus from HTML Documents</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>This paper proposes a novel method of building polarity-tagged corpus from HTML documents.</S>
+    <S>The characteristics of this method is that it is fully automatic and can be applied to arbitrary HTML documents.</S>
+    <S>The idea behind our method is to utilize certain layout structures and linguistic pattern.</S>
+    <S>By using them, we can automatically extract such sentences that express opinion.</S>
+    <S>In our experiment, the method could construct a corpus consisting of 126,610 sentences.</S>
+  </Section></Paper>

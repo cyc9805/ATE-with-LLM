@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P99-1068">
+  <Title>Mining the Web for Bilingual Text</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>STRAND (Resnik, 1998) is a language-independent system for automatic discovery of text in parallel translation on the World Wide Web.</S>
+    <S>This paper extends the preliminary STRAND results by adding automatic language identification, scaling up by orders of magnitude, and formally evaluating performance.</S>
+    <S>The most recent end-product is an automatically acquired parallel corpus comprising 2491 English-French document pairs, approximately 1.5 million words per language.</S>
+  </Section></Paper>

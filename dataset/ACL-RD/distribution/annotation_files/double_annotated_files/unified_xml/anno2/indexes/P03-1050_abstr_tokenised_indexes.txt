@@ -1,0 +1,28 @@
+tech	unsupervised learning approach	1, 5, 6, 7
+tech	non-English ( Arabic ) stemmer	1, 11, 12, 13, 14, 15
+model	stemming model	2, 2, 3
+tech	statistical machine translation	2, 7, 8, 9
+tech	English stemmer	2, 14, 15
+lr	small ( 10K sentences ) parallel corpus	2, 18, 19, 20, 21, 22, 23, 24
+lr	training resources	2, 28, 29
+lr	parallel text	3, 2, 3
+other	training phase	3, 8, 9
+lr	Monolingual , unannotated text	4, 1, 2, 3, 4
+tech	stemmer	4, 12
+other	domain	4, 21
+other	genre	4, 23
+other	Arabic	5, 8
+other	language	5, 17
+tech	affix removal	5, 20, 21
+tech	resource-frugal approach	6, 2, 3
+measure(ment)	agreement	6, 8
+tech	Arabic stemmer	6, 17, 18
+model	rules	6, 21
+lr	affix lists	6, 23, 24
+lr	human annotated text	6, 27, 28, 29
+tech	unsupervised component	6, 35, 36
+tech	Task-based evaluation	7, 1, 2
+tech	Arabic information retrieval	7, 4, 5, 6
+measure(ment)	average precision	7, 13, 14
+other	unstemmed text	7, 16, 17
+tech	stemmer	7, 27

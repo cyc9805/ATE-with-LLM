@@ -1,0 +1,11 @@
+tech	information extraction ( IE ) systems	1, 11, 12, 13, 14, 15, 16
+model	named entity annotations	1, 18, 19, 20
+model	scenario templates	1, 22, 23
+other	text collections	1, 32, 33
+tech	text browser	1, 37, 38
+tech	prototype system	2, 10, 11
+other	information workers'	2, 15, 16
+other	pharmaceutical news archive	2, 20, 21, 22
+other	qualitative user evaluation	3, 9, 10, 11
+other	users	3, 32
+tech	IE-enhanced text browsers	3, 39, 40, 41

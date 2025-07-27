@@ -1,0 +1,12 @@
+tool	Paul	1, 4
+tech	computer text generation system	1, 7, 8, 9, 10
+other	cohesive text	1, 14, 15
+other	lexical substitutions	1, 20, 21
+other	pronominalization	2, 11
+other	superordinate substitution	2, 13, 14
+other	definite noun phrase reiteration	2, 17, 18, 19, 20
+measure(ment)	strength of antecedence recovery	3, 5, 6, 7, 8
+other	lexical substitutions	3, 13, 14
+measure(ment)	strength of potential antecedence	3, 21, 22, 23, 24
+other	text	3, 30
+other	substitutions	3, 35

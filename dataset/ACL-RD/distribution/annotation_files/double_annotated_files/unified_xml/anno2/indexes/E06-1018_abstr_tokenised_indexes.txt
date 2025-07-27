@@ -1,0 +1,15 @@
+tech	automatic and unsupervised word sense induction ( WSI )	1, 8, 9, 10, 11, 12, 13, 14, 15, 16
+other	one sense per collocation observation	2, 7, 8, 9, 10, 11
+tech	clustering	3, 7
+other	word co-occurrences	3, 9, 10
+tech	WSI	4, 8
+other	one sense per collocation observation	4, 17, 18, 19, 20, 21
+other	triplets of words	4, 24, 25, 26
+tech	two-step clustering process	5, 5, 6, 7
+other	sentence co-occurrences	5, 9, 10
+other	features	5, 12
+measure(ment)	automatic and unsupervised evaluation method	6, 7, 8, 9, 10, 11
+tech	word sense disambiguation algorithms	6, 20, 21, 22, 23
+lr	gold standard	7, 11, 12
+tech	automatic parameter optimization	7, 16, 17, 18
+tech	WSI algorithm	7, 21, 22

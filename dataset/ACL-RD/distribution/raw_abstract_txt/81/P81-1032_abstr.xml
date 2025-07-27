@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P81-1032">
+  <Title>Dynamic Strategy Selection in Flexible Parsing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>Robust natural language interpretation requires strong semantic domain models, fail-soft recovery heuristics, and very flexible control structures.</S>
+    <S>Although single-strategy parsers have met with a measure of success, a multi-strategy approach is shown to provide a much higher degree of flexibility, redundancy, and ability to bring task-specific domain knowledge (in addition to general linguistic knowledge) to bear on both grammatical and ungrammatical input.</S>
+    <S>A parsing algorithm is presented that integrates several different parsing strategies, with case-frame instantiation dominating.</S>
+    <S>Each of these parsing strategies exploits different types of knowledge; and their combination provides a strong framework in which to process conjunctions, fragmentary input, and ungrammatical structures, as well as less exotic, grammatically correct input.</S>
+    <S>Several specific heuristics for handling ungrammatical input are presented within this multi-strategy framework.</S>
+  </Section></Paper>

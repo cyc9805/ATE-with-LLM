@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1026">
+  <Title>A Part-of-Speech-Based Alignment Algorithm</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>To align bilingual texts becomes a crucial issue recently.</S>
+    <S>Rather than using length-based or translation-based criterion, a part-of-speech-based criterion is proposed.</S>
+    <S>We postulate that source texts and target texts should share the same concepts, ideas, entities, and events.</S>
+    <S>Simulated annealing approach is used to implement this alignment algorithm.</S>
+    <S>The preliminary experiments show good performance.</S>
+    <S>Most importantly, the experimental objects are Chinese-English texts, which are selected from different language families.</S>
+  </Section></Paper>

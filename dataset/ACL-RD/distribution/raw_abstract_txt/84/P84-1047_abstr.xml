@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P84-1047">
+  <Title>Entity-Oriented Parsing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>An entity-oriented approach to restricted-domain parsing is proposed.</S>
+    <S>In this approach, the definitions of the structure and surface representation of domain entities are grouped together.</S>
+    <S>Like semantic grammar, this allows easy exploitation of limited domain semantics.</S>
+    <S>In addition, it facilitates fragmentary recognition and the use of multiple parsing strategies, and so is particularly useful for robust recognition of extra-grammatical input.</S>
+    <S>Several advantages from the point of view of language definition are also noted.</S>
+    <S>Representative samples from an entity-oriented language definition are presented, along with a control structure for an entity-oriented parser, some parsing strategies that use the control structure, and worked examples of parses.</S>
+    <S>A parser incorporating the control structure and the parsing strategies is currently under implementation.</S>
+  </Section></Paper>

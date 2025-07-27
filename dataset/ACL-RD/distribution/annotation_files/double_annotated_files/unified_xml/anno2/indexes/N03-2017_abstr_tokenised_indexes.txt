@@ -1,0 +1,7 @@
+model	syntax-based constraint	1, 4, 5
+tech	word alignment	1, 7, 8
+model	cohesion constraint	1, 13, 14
+other	English phrases	2, 4, 5
+other	French sentence	2, 14, 15
+model	constraint	3, 7
+measure(ment)	alignment quality	4, 12, 13

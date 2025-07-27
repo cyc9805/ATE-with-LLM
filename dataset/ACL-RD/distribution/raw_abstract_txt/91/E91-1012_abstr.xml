@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Paper acl-id="E91-1012">
+  <Title>Non-deterministic Recursive Ascent Parsing</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>A purely functional implementation of LR-parsers is given, together with a simple correctness proof.</S>
+    <S>It is presented as a generalization of the recursive descent parser.</S>
+    <S>For non-LR grammars the time-complexity of our parser is cubic if the functions that constitute the parser are implemented as memo-functions, i.e. functions that memorize the results of previous invocations.</S>
+    <S>Memo-functions also facilitate a simple way to construct a very compact representation of the parse forest.</S>
+    <S>For LR(0) grammars, our algorithm is closely related to the recursive ascent parsers recently discovered by Kruseman Aretz \[1\] and Roberts \[2\].</S>
+    <S>Extended CF grammars (grammars with regular expressions at the right hand side) can be parsed with a simple modification of the LR-parser for normal CF grammars.</S>
+  </Section></Paper>

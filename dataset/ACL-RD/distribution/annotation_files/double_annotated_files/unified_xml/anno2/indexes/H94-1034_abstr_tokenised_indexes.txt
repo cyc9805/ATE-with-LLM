@@ -1,0 +1,12 @@
+other	speech repairs	1, 8, 9
+tech	part-of-speech tagger	1, 13, 14
+tech	tagger	2, 2
+other	category transitions	2, 7, 8
+other	speech repairs	2, 10, 11
+other	transition	2, 20
+other	repair	2, 25
+other	contextual clues	3, 2, 3
+other	editing terms	3, 7, 8
+other	word fragments	3, 10, 11
+other	word matchings	3, 14, 15
+measure(ment)	transition probabilities	3, 24, 25

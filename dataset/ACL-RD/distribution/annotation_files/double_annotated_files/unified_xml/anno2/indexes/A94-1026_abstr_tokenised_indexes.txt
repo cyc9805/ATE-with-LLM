@@ -1,0 +1,21 @@
+other	Japanese texts	1, 1, 2
+other	homophone errors	1, 7, 8
+tech	KANA-KANJI conversion	1, 12, 13
+other	text	1, 18
+tech	Japanese revision support systems	2, 8, 9, 10, 11
+other	homophone errors	2, 17, 18
+other	Japanese homophone errors	3, 10, 11, 12
+other	compound nouns	3, 14, 15
+other	Japanese homophone errors	4, 7, 8, 9
+other	compound nouns	4, 11, 12
+other	candidates	4, 20
+other	candidates	5, 4
+other	compound noun component	6, 10, 11, 12
+other	semantic categories	6, 18, 19
+other	words	6, 23
+other	homophone	7, 7
+other	compound noun	7, 12, 13
+other	semantic set	7, 27, 28
+other	homophone	7, 32
+other	candidates	8, 9
+other	homophone errors	8, 13, 14

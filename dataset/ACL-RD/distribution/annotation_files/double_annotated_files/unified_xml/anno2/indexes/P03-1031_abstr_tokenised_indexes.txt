@@ -1,0 +1,24 @@
+other	discourse understanding process	1, 5, 6, 7
+tech	spoken dialogue systems	1, 9, 10, 11
+other	user utterances	2, 8, 9
+other	context	2, 13
+other	dialogue	2, 16
+other	candidates	3, 3
+other	understanding result	3, 6, 7
+other	user utterance	3, 13, 14
+other	ambiguity	3, 18
+tech	speech understanding	3, 20, 21
+other	understanding result	3, 32, 33
+other	user utterance	3, 36, 37
+other	candidates	4, 4
+other	understanding results	4, 6, 7
+other	ambiguity	4, 11
+other	dialogue	4, 14
+measure(ment)	discourse understanding accuracy	4, 18, 19, 20
+other	ambiguity	5, 9
+other	statistical information	5, 12, 13
+lr	dialogue corpora	5, 16, 17
+model	hand-crafted rules	6, 6, 7
+other	discourse understanding process	6, 17, 18, 19
+other	candidates	7, 19
+other	understanding results	7, 21, 22

@@ -1,0 +1,10 @@
+other	non-constituent coordination	1, 10, 11
+tech	computational systems	1, 19, 20
+other	coordination	1, 23
+tech	parsing strategies	1, 26, 27
+tool	SYSCONJ system	1, 35, 36
+tech	ATNs	1, 39
+measure(ment)	coverage	2, 19
+other	processing	2, 24
+other	processing accounts	3, 6, 7
+other	Dynamic Grammars	3, 17, 18

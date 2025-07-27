@@ -1,0 +1,6 @@
+tech	method for identifying systematic patterns in translation data	1, 4, 5, 6, 7, 8, 9, 10, 11
+other	part-of-speech tag sequences	1, 13, 14, 15
+tech	diagnostic tool	2, 7, 8
+tech	machine translation systems	2, 13, 14, 15
+other	patterns	2, 29
+other	machine translation output	2, 31, 32, 33

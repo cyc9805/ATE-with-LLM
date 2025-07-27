@@ -1,0 +1,6 @@
+tech	Spoken Language System	1, 19, 20, 21
+other	N-Best sentence hypotheses	2, 13, 14, 15
+other	grammar coverage problems	3, 3, 4, 5
+lr	fully-connected first-order statistical class grammar	3, 9, 10, 11, 12, 13
+tech	speech-search algorithm	4, 2, 3
+tech	natural language system	5, 20, 21, 22

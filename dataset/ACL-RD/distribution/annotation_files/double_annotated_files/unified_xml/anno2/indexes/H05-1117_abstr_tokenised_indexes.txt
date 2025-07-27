@@ -1,0 +1,11 @@
+tech	automatic evaluation	1, 6, 7
+tech	machine translation	1, 9, 10
+tech	document summarization	1, 12, 13
+measure(ment)	POURPRE	1, 26
+other	definition questions	1, 33, 34
+other	information nugget	2, 22, 23
+tech	automatic methods for scoring system output	3, 4, 5, 6, 7, 8, 9
+other	TREC 2003 and TREC 2004 QA tracks	4, 4, 5, 6, 7, 8, 9, 10
+other	rankings	4, 13
+other	rankings	4, 22
+measure(ment)	POURPRE	4, 26

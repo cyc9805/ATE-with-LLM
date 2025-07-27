@@ -1,0 +1,8 @@
+tech	Word Identification	1, 1, 2
+tech	Chinese Natural Language Processing	1, 11, 12, 13, 14
+other	sublanguage	2, 14
+other	unknown words	2, 20, 21
+other	personal names	2, 24, 25
+tech	title-driven name recognition	3, 5, 6, 7
+tech	adaptive dynamic word formation	3, 9, 10, 11, 12
+lr	corpora	4, 9

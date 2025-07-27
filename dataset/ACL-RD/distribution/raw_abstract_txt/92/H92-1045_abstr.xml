@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H92-1045">
+  <Title>One Sense Per Discourse</Title>
+  <Section>
+    <SectionTitle>ABSTRACT</SectionTitle>
+    <S>It is well-known that there are polysemous words like sentence whose meaning or sense depends on the context of use.</S>
+    <S>We have recently reported on two new word-sense disambiguation systems, one trained on bilingual material (the Canadian Hansards) and the other trained on monolingual material (Roget's Thesaurus and Grolier's Encyclopedia).</S>
+    <S>As this work was nearing completion, we observed a very strong discourse effect.</S>
+    <S>That is, if a polysemous word such as sentence appears two or more times in a well-written discourse, it is extremely likely that they will all share the same sense.</S>
+    <S>This paper describes an experiment which confirmed this hypothesis and found that the tendency to share sense in the same discourse is extremely strong (98%).</S>
+    <S>This result can be used as an additional source of constraint for improving the performance of the word-sense disambiguation algorithm.</S>
+    <S>In addition, it could also be used to help evaluate disambiguation algorithms that did not make use of the discourse constraint.</S>
+  </Section></Paper>

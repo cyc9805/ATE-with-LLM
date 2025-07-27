@@ -1,0 +1,18 @@
+model	generative probabilistic optical character recognition ( OCR ) model	1, 8, 9, 10, 11, 12, 13, 14, 15, 16
+other	noisy channel framework	1, 24, 25, 26
+tech	generation of true text	1, 30, 31, 32, 33
+other	noisy output	1, 39, 40
+tech	OCR system	1, 43, 44
+model	model	2, 2
+tech	error correction	2, 8, 9
+tech	post-processing	2, 15
+other	output	2, 17
+tech	black-box OCR systems	2, 19, 20, 21
+tech	NLP tasks	2, 30, 31
+model	model	3, 7
+model	finite-state models	3, 10, 11
+model	model's	3, 15
+measure(ment)	character and word error rate	3, 20, 21, 22, 23, 24
+tech	automatic extraction	3, 31, 32
+lr	translation lexicons	3, 34, 35
+other	text	3, 38

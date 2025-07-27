@@ -1,0 +1,13 @@
+measure(ment)	evaluation metrics	1, 2, 3
+tech	Machine Translation (MT) systems	1, 5, 6, 7, 8
+measure(ment)	BLEU	1, 12
+measure(ment)	NIST	1, 14
+other	language pairs	2, 11, 12
+other	word segmentation problem	2, 21, 22, 23
+measure(ment)	BLEU	3, 11
+other	word n-grams	3, 13, 14
+other	character level	3, 20, 21
+measure(ment)	BLEU	4, 4
+other	character level	4, 7, 8
+other	word segmentation problem	4, 11, 12, 13
+tech	statistical MT systems	4, 32, 33, 34

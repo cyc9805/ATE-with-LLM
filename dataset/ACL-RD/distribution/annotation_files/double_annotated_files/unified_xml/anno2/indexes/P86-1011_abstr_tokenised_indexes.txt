@@ -1,0 +1,6 @@
+other	grammatical formalisms	1, 8, 9
+tech	Tree Adjoining Grammars	1, 11, 12, 13
+tech	Head Grammars	1, 15, 16
+other	formalisms	2, 10
+other	linguistic expressiveness	3, 9, 10
+other	formalisms	3, 14

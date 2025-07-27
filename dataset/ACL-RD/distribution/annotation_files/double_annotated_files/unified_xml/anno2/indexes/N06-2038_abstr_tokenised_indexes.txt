@@ -1,0 +1,9 @@
+tech	information extraction	1, 7, 8
+tech	token classification task	1, 11, 12, 13
+tech	tagging strategies	1, 17, 18
+other	tokens	1, 22
+tech	tagging strategies	2, 4, 5
+tech	strategy	3, 6
+tech	Begin/After tagging	3, 9, 10
+tech	BIA	3, 12
+tech	strategies	3, 24

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Paper acl-id="C94-1082">
+  <Title>LHIP: Extended DCGs for Configurable Robust Parsing</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present LHIP, a system for incremental grammar development using an extended DCG formalism.</S>
+    <S>The system uses a robust island-based parsing method controlled by user-defined performance thresholds.</S>
+  </Section></Paper>

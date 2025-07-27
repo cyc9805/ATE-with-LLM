@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P04-2005">
+  <Title>Automatic Acquisition of English Topic Signatures Based on a Second Language</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present a novel approach for automatically acquiring English topic signatures.</S>
+    <S>Given a particular concept, or word sense, a topic signature is a set of words that tend to co-occur with it.</S>
+    <S>Topic signatures can be useful in a number of Natural Language Processing (NLP) applications, such as Word Sense Disambiguation (WSD) and Text Summarisation.</S>
+    <S>Our method takes advantage of the different way in which word senses are lexicalised in English and Chinese, and also exploits the large amount of Chinese text available in corpora and on the Web.</S>
+    <S>We evaluated the topic signatures on a WSD task, where we trained a second-order vector co-occurrence algorithm on standard WSD datasets, with promising results.</S>
+  </Section></Paper>

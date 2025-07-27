@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Paper acl-id="H90-1016">
+  <Title>Toward a Real-Time Spoken Language System Using Commercial Hardware</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We describe the methods and hardware that we are using to produce a real-time demonstration of an integrated Spoken Language System.</S>
+    <S>We describe algorithms that greatly reduce the computation needed to compute the N-Best sentence hypotheses.</S>
+    <S>To avoid grammar coverage problems we use a fully-connected first-order statistical class grammar.</S>
+    <S>The speech-search algorithm is implemented on a board with a single Intel i860 chip, which provides a factor of 5 speed-up over a SUN 4 for straight C code.</S>
+    <S>The board plugs directly into the VME bus of the SUN4, which controls the system and contains the natural language system and application back end.</S>
+  </Section></Paper>

@@ -1,0 +1,13 @@
+tech	word sense disambiguation ( WSD )	1, 5, 6, 7, 8, 9, 10
+lr	manually sense-tagged data	1, 15, 16, 17
+tech	supervised learning	1, 20, 21
+lr	sense-tagged training data	2, 12, 13, 14
+lr	English-Chinese parallel corpora	2, 16, 17, 18
+other	nouns	2, 27
+other	SENSEVAL-2 English lexical sample task	2, 30, 31, 32, 33, 34
+lr	sense-tagged data	3, 9, 10
+other	SENSEVAL-2 nouns	4, 8, 9
+measure(ment)	accuracy difference	4, 12, 13
+lr	manually sense-tagged data	4, 38, 39, 40
+other	domain dependence	5, 11, 12
+tech	WSD programs	5, 15, 16

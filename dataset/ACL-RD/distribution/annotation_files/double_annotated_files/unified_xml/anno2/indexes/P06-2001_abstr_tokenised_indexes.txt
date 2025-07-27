@@ -1,0 +1,13 @@
+tech	machine learning techniques	1, 10, 11, 12
+tech	comma checker	1, 16, 17
+tech	grammar checker	1, 23, 24
+other	Basque	1, 26
+lr	corpus	2, 10
+other	commas	2, 22
+measure(ment)	precision	2, 25
+measure(ment)	recall	2, 30
+measure(ment)	precision	3, 5
+measure(ment)	recall	3, 10
+other	commas	3, 18
+lr	corpus	4, 19
+lr	corpus	4, 28

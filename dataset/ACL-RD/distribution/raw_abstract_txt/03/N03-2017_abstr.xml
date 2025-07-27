@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Paper acl-id="N03-2017">
+  <Title>Word Alignment with Cohesion Constraint</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We present a syntax-based constraint for word alignment, known as the cohesion constraint.</S>
+    <S>It requires disjoint English phrases to be mapped to non-overlapping intervals in the French sentence.</S>
+    <S>We evaluate the utility of this constraint in two different algorithms.</S>
+    <S>The results show that it can provide a significant improvement in alignment quality.</S>
+  </Section></Paper>

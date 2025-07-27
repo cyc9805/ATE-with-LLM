@@ -1,0 +1,10 @@
+tech	Graph unification	1, 1, 2
+tech	unification-based grammar parsing	1, 9, 10, 11
+tech	unification algorithms	2, 11, 12
+model	subgraphs	2, 19
+tech	structure-sharing	3, 14
+other	overheads	3, 20
+tech	structure-sharing	3, 24
+model	graphs	3, 26
+other	dependency pointers	3, 32, 33
+other	cyclic structures	4, 26, 27

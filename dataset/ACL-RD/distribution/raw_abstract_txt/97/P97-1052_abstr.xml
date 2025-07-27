@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Paper acl-id="P97-1052">
+  <Title>On Interpreting F-Structures as UDRSs</Title>
+  <Section>
+    <SectionTitle>Abstract</SectionTitle>
+    <S>We describe a method for interpreting abstract flat syntactic representations, LFG f-structures, as underspecified semantic representations, here Underspecified Discourse Representation Structures (UDRSs).</S>
+    <S>The method establishes a one-to-one correspondence between subsets of the LFG and UDRS formalisms.</S>
+    <S>It provides a model theoretic interpretation and an inferential component which operates directly on underspecified representations for f-structures through the translation images of f-structures as UDRSs.</S>
+  </Section></Paper>
