@@ -35,18 +35,18 @@ pip install -r requirements.txt
 ## Dataset Preparation
 We use three datasets for our experiments: **ACTER**, **ACL-RD**, and **BCGM**. Follow these steps to prepare the datasets:
 
-1. Navigate to the `dataset` directory and execute all cells in the `preprocess.ipynb` notebook located in each dataset folder.
+1. Navigate to the `src/dataset` directory and execute all cells in the `preprocess.ipynb` notebook located in each dataset folder.
 2. Run the following command to create dataset indices for retrieval:
     ```bash
-    python dataset/create_index.py
+    python src/dataset/create_index.py
     ```
 
 ## Running Experiments
 ### Reproducing Main Results
 To reproduce the main results from the paper:
-1. Navigate to the `run_scripts` directory:
+1. Navigate to the `src/run_scripts` directory:
     ```bash
-    cd run_scripts
+    cd src/run_scripts
     ```
 2. Execute the script:
     ```bash
@@ -55,6 +55,7 @@ To reproduce the main results from the paper:
 
 Alternatively, you can manually run the tests using:
 ```bash
+cd src
 python main.py
 ```
 Key configuration arguments include:
@@ -70,12 +71,12 @@ To reproduce results from the "Comparison to Pretrained Language Models" section
 - For **RoBERTa**, execute all cells in the `RoBERTa.ipynb` notebook.
 - For **BART**, run:
   ```bash
-  cd run_scripts
+  cd src/run_scripts
   bash train.sh
   bash test.sh
   ```
 
 ## Results Analysis
-1. Experiment results are saved in the `outputs` directory.
-2. To reproduce **Table 2** and **Figure 2** from the paper, execute all cells in the `analysis.ipynb` notebook.
+1. Experiment results are saved in the `src/outputs` directory.
+2. To reproduce **Table 2** and **Figure 2** from the paper, execute all cells in the `src/analysis.ipynb` notebook.
 
