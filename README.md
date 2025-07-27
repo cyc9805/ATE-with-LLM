@@ -1,5 +1,31 @@
 # Automatic Term Extraction with LLMs
 
+## Introduction
+This repository contains the code and resources for the paper [**Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval**](https://aclanthology.org/2025.findings-acl.516.pdf)
+
+```
+@inproceedings{chun-etal-2025-enhancing,
+    title = "Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval",
+    author = "Chun, Yongchan  and
+      Kim, Minhyuk  and
+      Kim, Dongjun  and
+      Park, Chanjun  and
+      Lim, Heuiseok",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.516/",
+    pages = "9916--9926",
+    ISBN = "979-8-89176-256-5"
+}
+```
+
 ## Requirements
 Install the required Python packages listed in `requirements.txt` using:
 ```bash
