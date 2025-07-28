@@ -1,4 +1,4 @@
-# Automatic Term Extraction with LLMs
+# Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval
 
 ## Introduction
 This repository contains the code and resources for the paper [**Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval**](https://aclanthology.org/2025.findings-acl.516.pdf)
